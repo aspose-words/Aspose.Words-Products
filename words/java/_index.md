@@ -18,7 +18,247 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="Some of the advanced capabilities of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-area-chart">
+    </i>
+    Reporting &amp; Mail Merge
+   </header>
+   <ul>
+    <li>
+     ResultSet
+    </li>
+    <li>
+     XML
+    </li>
+    <li>
+     Business Objects
+    </li>
+    <li>
+     LINQ Reporting Engine
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    High Fidelity Rendering
+   </header>
+   <ul>
+    <li>
+     Graphics
+    </li>
+    <li>
+     PNG, JPEG, BMP, GIF
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     XPS, OpenXPS
+    </li>
+    <li>
+     PDF, PDF/A-1b, PDF/A-1b
+    </li>
+    <li>
+     SVG
+    </li>
+    <li>
+     Printing
+    </li>
+    <li>
+     HTMLFixed
+    </li>
+    <li>
+     PostScript (PS)
+    </li>
+    <li>
+     PCL
+    </li>
+    <li>
+     XamlFixed, XamlFlow or XamlFlowPack
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java APIs for Word Documents" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API can be used in any Java-based applications developed on Windows Unix/Linux and Mac platforms." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Word Processing API" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Java supports the most popular [Word Processing document formats](https://docs.aspose.com/words/java/supported-document-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT, OTT
+    </li>
+    <li>
+     <b>
+      WordprocessingML:
+     </b>
+     WordML
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS, OpenXPS, PostScript (PS)
+    </li>
+    <li>
+     <b>
+      Graphics:
+     </b>
+     TIFF, JPEG, PNG, BMP, SVG, EMF, GIF
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HtmlFixed
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     PCL, EPUB, XamlFixed, XamlFlow, XamlFlowPack
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     MOBI
+    </li>
+    <li>
+     DocPreWord60
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Word Document Manipulation APIs for Java" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

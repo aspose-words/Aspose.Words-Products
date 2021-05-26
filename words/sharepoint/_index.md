@@ -17,7 +17,220 @@ url: /sharepoint/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Words for SharePoint features." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Workflow Support
+   </header>
+   <ul>
+    <li>
+     Convert via Aspose.Words
+    </li>
+    <li>
+     Make Reports
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+    Conversion Options
+   </header>
+   <ul>
+    <li>
+     Files in Sub-folders
+    </li>
+    <li>
+     File Concatenation
+    </li>
+    <li>
+     Save to Destination Folder
+    </li>
+    <li>
+     Overwrite Existing Files
+    </li>
+    <li>
+     Browse to Destination Folder
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Word Document Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Words for SharePoint supports Windows SharePoint Services 3.0 (WSS), SharePoint Foundation and Microsoft SharePoint Server." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Server
+   </header>
+   <ul>
+    <li>
+     2007
+    </li>
+    <li>
+     2010
+    </li>
+    <li>
+     2013
+    </li>
+    <li>
+     2016
+    </li>
+    <!--<li>2019 (Public Preview), Classic Experience only</li>-->
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    Windows SharePoint Services
+   </header>
+   <ul>
+    <li>
+     WSS 3.0
+    </li>
+   </ul>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Foundation
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+    <!--<li>2013</li>-->
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Word Document App for SharePoint" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for SharePoint supports many popular [Word Processing file formats](https://docs.aspose.com/words/sharepoint/supported-document-formats/)  ." >}}
+<div class="diagram1 d2 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOCX, RTF
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     MHT
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     EPUB, XML, FlatOpc
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Document Format Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

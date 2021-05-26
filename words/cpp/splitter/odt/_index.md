@@ -74,6 +74,8 @@ for (int page = 1; page <= document->get_PageCount(); page++){
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online ODTВ Splitter Live Demos" sectionDescription="SplitВ ODT document right now by visiting our [Live Demos website](https://products.aspose.app/words/splitter). The live demo has the following benefits" >}}
@@ -89,6 +91,9 @@ ODT files are type of documents created with word processing applications that a
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

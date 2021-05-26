@@ -83,6 +83,8 @@ url: /net/assembly/dot/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Assemble DOT" sectionDescription="Check our live demos to [create DOT files](https://products.aspose.app/words/assembly/dot) with following benefits." >}}
@@ -98,6 +100,9 @@ Files with .DOT extension are template files created by Microsoft Word to have p
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

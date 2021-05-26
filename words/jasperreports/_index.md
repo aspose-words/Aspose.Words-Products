@@ -17,7 +17,169 @@ url: /jasperreports/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="The features of Aspose.Words for JasperReports." >}}
+<div class="diagram1 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cog">
+    </i>
+    Lightweight Deployment
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-table">
+    </i>
+    High Fidelity to Report Design
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-pencil-square-o">
+    </i>
+    Editable Documents
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Words for JasperReports supports J2SE, JasperReports and JasperServer." >}}
+<div class="diagram1 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    J2SE 5.0 or higher
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperReports 3.0 or higher
+   </header>
+   <br/>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperServer 3.7.1 or higher
+   </header>
+   <br/>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperReports Server 6.4.0
+   </header>
+   <br/>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperReports Server 7.1.0 or higher
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for JasperReports supports the most popular Word processing, text and web [file formats](https://docs.aspose.com/words/jasperreports/supported-document-formats/)  ." >}}
+<div class="diagram1 d2 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOCX, RTF
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

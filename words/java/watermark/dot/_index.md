@@ -74,6 +74,8 @@ dot.save(dataDir + "AddTextWatermark_out.dot");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark DOT via Online App" sectionDescription="Add watermark to DOT documents by visiting our [Live Demos website](https://products.aspose.app/words/watermark). The live demo has the following benefits" >}}
@@ -89,6 +91,9 @@ Files with .DOT extension are template files created by Microsoft Word to have p
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

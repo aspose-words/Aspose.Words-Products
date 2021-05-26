@@ -83,6 +83,8 @@ doc.Save(dataDir);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online TXTВ Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in TXT documents right now by visiting our [Live Demos website](https://products.aspose.app/words/redaction). The live demo has the following benefits" >}}
@@ -98,6 +100,9 @@ A file with .TXT extension represents a text document that contains plain text i
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

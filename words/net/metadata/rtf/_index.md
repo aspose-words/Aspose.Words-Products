@@ -80,6 +80,8 @@ foreach (Aspose.Words.Properties.DocumentProperty property in document.BuiltInDo
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of RTF via Online App" sectionDescription="View & edit Metadata to RTF documents by using our [Live Demos](https://products.aspose.app/words/metadata) with following benefits." >}}
@@ -95,6 +97,9 @@ Introduced and documented by Microsoft, the Rich Text Format (RTF) represents a 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

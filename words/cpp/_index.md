@@ -17,7 +17,237 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="A generic view of the capabilities of API." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Formatting Features
+   </header>
+   <ul>
+    <li>
+     Characters
+    </li>
+    <li>
+     Paragraphs
+    </li>
+    <li>
+     Bullets
+    </li>
+    <li>
+     Tables
+    </li>
+    <li>
+     Sections
+    </li>
+    <li>
+     Document Styles
+    </li>
+    <li>
+     Drawing Objects
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Content Features
+   </header>
+   <ul>
+    <li>
+     Paragraphs &amp; Text
+    </li>
+    <li>
+     Images &amp; Shapes
+    </li>
+    <li>
+     Tables, Rows &amp; Cells
+    </li>
+    <li>
+     Hyperlinks &amp; Bookmarks
+    </li>
+    <li>
+     Form Fields
+    </li>
+    <li>
+     Sections, Headers &amp; Footers
+    </li>
+    <li>
+     Footnotes, Endnotes &amp; Comments
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Word Processing Library" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/words/cpp/installation/#system-requirements)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 32 bit
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for C++ supports most popular [Word Processing file formats](https://docs.aspose.com/words/cpp/supported-document-formats/)  ." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
+    </li>
+    <li>
+     <b>
+      WordprocessingML:
+     </b>
+     WordML
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+    <li>
+     MOBI
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <strong>
+      Fixed Layout:
+     </strong>
+     PDF, XPS, OpenXPS
+    </li>
+    <li>
+     <strong>
+      Graphics:
+     </strong>
+     SVG, EMF, TIFF, PNG, BMP, JPEG, GIF
+    </li>
+    <li>
+     <strong>
+      Web:
+     </strong>
+     HtmlFixed
+    </li>
+    <li>
+     <strong>
+      Others:
+     </strong>
+     PS, PCL, XamlFlow, XamlFixed, EPUB
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Word Programming APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

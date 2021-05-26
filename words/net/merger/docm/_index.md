@@ -74,6 +74,8 @@ var docstomerge = 3;
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online DOCMВ Merger Live Demos" sectionDescription="MergeВ DOCM documents right now by visiting our [Live Demos website](https://products.aspose.app/words/merger). The live demo has the following benefits" >}}
@@ -89,6 +91,9 @@ DOCM files are Microsoft Word 2007 or higher generated documents with the abilit
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

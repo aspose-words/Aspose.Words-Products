@@ -72,6 +72,8 @@ System.out.println("Has a digital signature: " + info.hasDigitalSignature());
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of DOT via Online App" sectionDescription="View & edit Metadata to DOT documents by using our [Live Demos](https://products.aspose.app/words/metadata) with following benefits." >}}
@@ -87,6 +89,9 @@ Files with .DOT extension are template files created by Microsoft Word to have p
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

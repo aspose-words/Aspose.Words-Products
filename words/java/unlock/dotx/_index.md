@@ -66,6 +66,8 @@ doc.save("UnlockedFile.dotx");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Unlock DOTX" sectionDescription="Check our live demos to [unlock DOTX files](https://products.aspose.app/words/unlock/dotx) with following benefits." >}}
@@ -81,6 +83,9 @@ Files with DOTX extension are template files created by Microsoft Word to have p
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

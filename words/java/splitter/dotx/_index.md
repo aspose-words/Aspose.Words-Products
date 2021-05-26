@@ -75,6 +75,8 @@ for (int page = 1; page <= doc.getPageCount(); page++)
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online DOTXВ Splitter Live Demos" sectionDescription="SplitВ DOTX document right now by visiting our [Live Demos website](https://products.aspose.app/words/splitter). The live demo has the following benefits" >}}
@@ -90,6 +92,9 @@ Files with DOTX extension are template files created by Microsoft Word to have p
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

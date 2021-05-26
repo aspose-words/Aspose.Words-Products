@@ -83,6 +83,8 @@ url: /net/assembly/html/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Assemble HTML" sectionDescription="Check our live demos to [create HTML files](https://products.aspose.app/words/assembly/html) with following benefits." >}}
@@ -98,6 +100,9 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

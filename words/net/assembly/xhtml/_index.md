@@ -83,6 +83,8 @@ url: /net/assembly/xhtml/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Assemble XHTML" sectionDescription="Check our live demos to [create XHTML files](https://products.aspose.app/words/assembly/xhtml) with following benefits." >}}
@@ -98,6 +100,9 @@ The XHTML is a text based file format with markup in the XML, using a reformulat
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -74,6 +74,8 @@ for (int page = 1; page <= document->get_PageCount(); page++){
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online TXTВ Splitter Live Demos" sectionDescription="SplitВ TXT document right now by visiting our [Live Demos website](https://products.aspose.app/words/splitter). The live demo has the following benefits" >}}
@@ -89,6 +91,9 @@ A file with .TXT extension represents a text document that contains plain text i
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -77,6 +77,8 @@ document.Watermark.SetText("CONFIDENTIAL", options);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark DOCX via Online App" sectionDescription="Add watermark to DOCX documents by visiting our [Live Demos website](https://products.aspose.app/words/watermark). The live demo has the following benefits" >}}
@@ -92,6 +94,9 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -18,7 +18,266 @@ url: /android-java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="Some of the advanced capabilities of API." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+    Conversion
+   </header>
+   <ul>
+    <li>
+     DOC
+    </li>
+    <li>
+     OOXML
+    </li>
+    <li>
+     RTF
+    </li>
+    <li>
+     HTML/XHTML
+    </li>
+    <li>
+     Open Document
+    </li>
+    <li>
+     TXT
+    </li>
+    <li>
+     MHTML
+    </li>
+    <li>
+     EPUB
+    </li>
+    <li>
+     WordprocessingML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Rendering
+   </header>
+   <ul>
+    <li>
+     Graphics
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     PDF, PDF/A-1a, PDF/A-1b
+    </li>
+    <li>
+     SVG
+    </li>
+    <li>
+     PCL
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-bar-chart">
+    </i>
+    Reporting
+   </header>
+   <ul>
+    <li>
+     ResultSet
+    </li>
+    <li>
+     XML
+    </li>
+    <li>
+     Business Objects
+    </li>
+    <li>
+     LINQ Reporting Engine
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Word Processing APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API is available for Android OS 2.0 and up." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+    Android Runtime Environment
+   </header>
+   <ul>
+    <li>
+     Mobile Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Word Document Format APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Android via Java supports following file formats." >}}
+<div class="diagram1 d2 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT, OTT
+    </li>
+    <li>
+     <b>
+      WordprocessingML:
+     </b>
+     WordML
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS, OpenXPS, PostScript (PS)
+    </li>
+    <li>
+     <b>
+      Graphics:
+     </b>
+     JPEG, PNG, SVG, EMF, GIF, TIFF, BMP
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HtmlFixed
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     PCL, EPUB, XamlFixed, XamlFlow, XamlFlowPack
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     MOBI
+    </li>
+    <li>
+     DocPreWord60
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

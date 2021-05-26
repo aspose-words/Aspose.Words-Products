@@ -19,7 +19,257 @@ url: /reporting-services/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the RDL features, technologies, export modes and export formats that Aspose.Words for Reporting Services supports." >}}
+<div class="diagram1 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-file-image-o">
+    </i>
+    RDL Support
+   </header>
+   <ul>
+    <li>
+     Page
+    </li>
+    <li>
+     Header/Footer
+    </li>
+    <li>
+     Text Boxes
+    </li>
+    <li>
+     Images
+    </li>
+    <li>
+     Sub-reports
+    </li>
+    <li>
+     Charts
+    </li>
+    <li>
+     Lists
+    </li>
+    <li>
+     Tables
+    </li>
+    <li>
+     Encryption
+    </li>
+    <li>
+     Matrices
+    </li>
+    <li>
+     Rectangles/Lines
+    </li>
+    <li>
+     Third-party Controls
+    </li>
+    <li>
+     Tabix
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Export Modes
+   </header>
+   <ul>
+    <li>
+     Flow Layout
+    </li>
+    <li>
+     Positioned Layout
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="RDL to Word Exporter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Reporting Services
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Words for Reporting Services supports MS SQL Server Reporting Services and MS Report Viewer." >}}
+<div class="diagram1 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    Report Viewer
+   </header>
+   <ul>
+    <li>
+     2005
+    </li>
+    <li>
+     2008
+    </li>
+    <li>
+     2010
+    </li>
+    <li>
+     2012
+    </li>
+    <li>
+     2015
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SQL Server Reporting Services
+   </header>
+   <ul>
+    <li>
+     2005
+    </li>
+    <li>
+     2008 and 2008 R2
+    </li>
+    <li>
+     2012
+    </li>
+    <li>
+     2014
+    </li>
+    <li>
+     2016
+    </li>
+    <li>
+     2017
+    </li>
+    <li>
+     2019
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SSRS to Word Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Reporting Services
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Reporting Services allows output to business-critical word processing and meta language [file formats](https://docs.aspose.com/words/reportingservices/supported-document-formats/)  ." >}}
+<div class="diagram1 d2 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     RDL
+    </li>
+    <li>
+     RDLC
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOCX, RTF
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT
+    </li>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+    <li>
+     <b>
+      Other:
+     </b>
+     EPUB, XML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Word Rendering Extension" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Reporting Services
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

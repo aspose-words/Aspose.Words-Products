@@ -113,6 +113,11 @@ for (Shape shape : (Iterable<Shape>) shapes) {
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+ 
+
+<!-- aboutfile Starts -->
+
 {{% blocks/products/pf/agp/content h2="About Aspose.Words for Java API" %}}
 
  Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
@@ -120,9 +125,6 @@ for (Shape shape : (Iterable<Shape>) shapes) {
 
 
 {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
@@ -139,6 +141,9 @@ Files with DOTX extension are template files created by Microsoft Word to have p
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

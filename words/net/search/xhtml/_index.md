@@ -71,6 +71,8 @@ doc.Save("replacedDocument.xhtml");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online XHTMLВ SearchВ Live Demos" sectionDescription="Search text, words, phrasesВ within XHTML documents right now by visiting our [Live Demos website](https://products.aspose.app/words/search). The live demo has the following benefits" >}}
@@ -86,6 +88,9 @@ The XHTML is a text based file format with markup in the XML, using a reformulat
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

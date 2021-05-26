@@ -70,6 +70,8 @@ doc1->Save(u"merged-doc-out.mobi", Aspose::Words::SaveFormat::Mobi);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online MOBIВ Merger Live Demos" sectionDescription="MergeВ MOBI documents right now by visiting our [Live Demos website](https://products.aspose.app/words/merger). The live demo has the following benefits" >}}
@@ -85,6 +87,9 @@ The MOBI file format is one of the most widely used ebook file format. The forma
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

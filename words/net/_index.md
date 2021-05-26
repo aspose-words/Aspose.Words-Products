@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description=".NET Word API supports all major platforms including the following." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -132,7 +129,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for .NET supports the popular Word Processing file formats listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description=".NET Word API supports all major platforms including the following." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -219,6 +216,114 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"/>
+  <header>
+   Aspose.Words
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+   </small>
+   .NET
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for .NET supports the popular [Word Processing file formats](https://docs.aspose.com/words/net/supported-document-formats/)  listed below." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Word:
+     </b>
+     DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT, OTT
+    </li>
+    <li>
+     <b>
+      WordprocessingML:
+     </b>
+     WordML
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+    <li>
+     MOBI
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS, OpenXPS, PostScript (PS)
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     TIFF, JPEG, PNG, BMP, SVG, EMF, GIF
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HtmlFixed
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     PCL, EPUB, XamlFixed, XamlFlow, XamlFlowPack
+    </li>
+   </ul>
+   <!--<header><i class="fa  fa-long-arrow-down"> </i> Input Only</header>
+
+<ul>
+
+<li>MOBI</li>
+
+</ul>-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C# Word Programming APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"/>
   <header>
    Aspose.Words
   </header>

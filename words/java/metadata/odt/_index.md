@@ -72,6 +72,8 @@ System.out.println("Has a digital signature: " + info.hasDigitalSignature());
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of ODT via Online App" sectionDescription="View & edit Metadata to ODT documents by using our [Live Demos](https://products.aspose.app/words/metadata) with following benefits." >}}
@@ -87,6 +89,9 @@ ODT files are type of documents created with word processing applications that a
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

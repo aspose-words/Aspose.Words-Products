@@ -72,6 +72,8 @@ System.out.println("Has a digital signature: " + info.hasDigitalSignature());
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of DOCX via Online App" sectionDescription="View & edit Metadata to DOCX documents by using our [Live Demos](https://products.aspose.app/words/metadata) with following benefits." >}}
@@ -87,6 +89,9 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -10,15 +10,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" productLink="https://products.aspose.com/words/net" >}}
 On Premise .NET APIs to manipulate Microsoft Word document formats within Windows, Web, iOS & Android based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="Java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="Java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" productLink="https://products.aspose.com/words/java" >}}
 Java-based platform APIs to create, modify, render or parse Microsoft Word files, Web, Text and OpenOffice documents directly within applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="C++" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="C++" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" productLink="https://products.aspose.com/words/cpp" >}}
 Create, load, manipulate, or convert Microsoft Word and word processing formats within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
@@ -28,15 +28,15 @@ Create, load, manipulate, or convert Microsoft Word and word processing formats 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Words Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud for cURL" imgSrc="https://www.aspose.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_word-for-curl.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud for cURL" imgSrc="https://www.aspose.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_word-for-curl.png" productLink="https://products.aspose.cloud/words/curl" >}}
 Manipulate and process Microsoft Word files via REST API call from any device capable of executing cURL commands.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for .NET" imgSrc="https://www.aspose.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_word-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for .NET" imgSrc="https://www.aspose.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_word-for-net.png" productLink="https://products.aspose.cloud/words/net" >}}
 Microsoft Word Processing REST APIs for .NET programmers to create, render, split & convert popular word processing formats with ease.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Java " imgSrc="https://www.aspose.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_word-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Java " imgSrc="https://www.aspose.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_word-for-java.png" productLink="https://products.aspose.cloud/words/java" >}}
 Aspose.Words Cloud APIs for Java applications to develop Word document manipulation Apps supporting multiple word processing formats.
 {{< /blocks/products/pf/product >}}
 
@@ -46,28 +46,19 @@ Aspose.Words Cloud APIs for Java applications to develop Word document manipulat
 
 {{< blocks/products/pf/product-card-row title="Aspose.Words Cross Platform Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words " title="Editor" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_editor-app.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words " title="Editor" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_editor-app.png" productLink="https://products.aspose.app/words/editor" >}}
 Edit Microsoft Office (DOC, DOCX, DOTX, RTF), Open Document (ODT), TXT and HTML files online.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/words/conversion" >}}
 Easily convert Microsoft Word files to PDF, HTML, images and many other popular file formats without leaving your favorite browser.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/words/viewer" >}}
 View Microsft Word documents in your favorite browser from anywhere.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/words/family" innerText="View All Cross Platform Apps" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
