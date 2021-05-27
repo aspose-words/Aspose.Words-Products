@@ -2,6 +2,7 @@
 title:  
 weight: 7210
 url: /java/signature/rtf/ 
+description: Try our On-Premise document digital signature APIs to eSgin RTF documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

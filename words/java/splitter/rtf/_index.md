@@ -2,6 +2,7 @@
 title:  
 weight: 7300
 url: /java/splitter/rtf/ 
+description: Try our On-Premise multi option document splitter APIs to split RTF documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

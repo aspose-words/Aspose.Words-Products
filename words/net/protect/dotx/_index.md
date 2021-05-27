@@ -2,6 +2,7 @@
 title:  
 weight: 10620
 url: /net/protect/dotx/ 
+description: Try our On-Premise document APIs to lock DOTX file using password on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

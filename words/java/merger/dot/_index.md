@@ -2,6 +2,7 @@
 title:  
 weight: 6620
 url: /java/merger/dot/ 
+description: Try our On-Premise document merger APIs to combine DOT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

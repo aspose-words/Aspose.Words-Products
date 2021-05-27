@@ -2,6 +2,7 @@
 title:  
 weight: 7420
 url: /java/watermark/odt/ 
+description: Try our On-Premise document APIs to add or remove watermark to ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

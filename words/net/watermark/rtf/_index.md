@@ -2,6 +2,7 @@
 title:  
 weight: 11320
 url: /net/watermark/rtf/ 
+description: Try our On-Premise document APIs to add or remove watermark to RTF file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

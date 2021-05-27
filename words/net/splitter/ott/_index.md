@@ -2,6 +2,7 @@
 title:  
 weight: 11020
 url: /net/splitter/ott/ 
+description: Try our On-Premise multi option document splitter APIs to split OTT documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

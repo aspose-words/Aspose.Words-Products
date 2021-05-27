@@ -2,6 +2,7 @@
 title:  
 weight: 10920
 url: /net/signature/odt/ 
+description: Try our On-Premise document digital signature APIs to e-Sgin ODT documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

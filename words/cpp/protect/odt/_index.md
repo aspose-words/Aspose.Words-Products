@@ -2,6 +2,7 @@
 title:  
 weight: 2580
 url: /cpp/protect/odt/ 
+description: Try our On-Premise document APIs to lock ODT file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 7510
 url: /net/annotation/rtf/ 
+description: Try our On-Premise document annotation APIs to delete RTF format annotations on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

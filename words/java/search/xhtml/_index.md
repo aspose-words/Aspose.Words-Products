@@ -2,6 +2,7 @@
 title:  
 weight: 7130
 url: /java/search/xhtml/ 
+description: Integrate On-Premise document APIs to search words with pattern in XHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

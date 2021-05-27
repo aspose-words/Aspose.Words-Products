@@ -2,6 +2,7 @@
 title:  
 weight: 10950
 url: /net/signature/txt/ 
+description: Try our On-Premise document digital signature APIs to e-Sgin TXT documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 3100
 url: /java/comparison/dotx/ 
+description: Try our On-Premise document comparison APIs to compare DOTX files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 7440
 url: /java/watermark/rtf/ 
+description: Try our On-Premise document APIs to add or remove watermark to RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

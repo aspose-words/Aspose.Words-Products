@@ -2,6 +2,7 @@
 title:  
 weight: 10200
 url: /net/editor/dot/ 
+description: Try our On-Premise document Editor APIs to edit DOT document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 7170
 url: /java/signature/dot/ 
+description: Try our On-Premise document digital signature APIs to eSgin DOT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

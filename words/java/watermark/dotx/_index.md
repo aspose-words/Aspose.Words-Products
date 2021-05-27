@@ -2,6 +2,7 @@
 title:  
 weight: 7400
 url: /java/watermark/dotx/ 
+description: Try our On-Premise document APIs to add or remove watermark to DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

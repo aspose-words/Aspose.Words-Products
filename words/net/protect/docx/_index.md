@@ -2,6 +2,7 @@
 title:  
 weight: 10600
 url: /net/protect/docx/ 
+description: Try our On-Premise document APIs to lock DOCX file using password on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

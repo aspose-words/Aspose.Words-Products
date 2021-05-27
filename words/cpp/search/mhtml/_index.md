@@ -2,6 +2,7 @@
 title:  
 weight: 2630
 url: /cpp/search/mhtml/ 
+description: Try our On-Premise document APIs to search words with pattern in MHTML file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 6590
 url: /java/merger/doc/ 
+description: Try our On-Premise document merger APIs to combine DOC documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

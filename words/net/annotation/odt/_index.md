@@ -2,6 +2,7 @@
 title:  
 weight: 7490
 url: /net/annotation/odt/ 
+description: Try our On-Premise document annotation APIs to delete ODT format annotations on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

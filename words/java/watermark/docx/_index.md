@@ -2,6 +2,7 @@
 title:  
 weight: 7380
 url: /java/watermark/docx/ 
+description: Try our On-Premise document APIs to add or remove watermark to DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

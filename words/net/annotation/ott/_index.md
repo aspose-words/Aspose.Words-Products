@@ -2,6 +2,7 @@
 title:  
 weight: 7500
 url: /net/annotation/ott/ 
+description: Try our On-Premise document annotation APIs to delete OTT format annotations on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

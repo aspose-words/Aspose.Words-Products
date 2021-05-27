@@ -2,6 +2,7 @@
 title:  
 weight: 10960
 url: /net/signature/xhtml/ 
+description: Try our On-Premise document digital signature APIs to e-Sgin XHTML documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

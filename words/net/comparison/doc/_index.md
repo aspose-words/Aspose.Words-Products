@@ -2,6 +2,7 @@
 title:  
 weight: 7630
 url: /net/comparison/doc/ 
+description: Try our On-Premise document comparison APIs to compare DOC documents for differences on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 7670
 url: /net/comparison/odt/ 
+description: Try our On-Premise document comparison APIs to compare ODT documents for differences on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

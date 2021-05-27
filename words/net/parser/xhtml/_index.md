@@ -2,6 +2,7 @@
 title:  
 weight: 10590
 url: /net/parser/xhtml/ 
+description: Try our On-Premise document parser APIs to extract text and images from XHTML file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

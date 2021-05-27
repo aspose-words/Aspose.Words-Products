@@ -2,6 +2,7 @@
 title:  
 weight: 7060
 url: /java/search/doc/ 
+description: Integrate On-Premise document APIs to search words with pattern in DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

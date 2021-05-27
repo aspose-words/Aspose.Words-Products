@@ -2,6 +2,7 @@
 title:  
 weight: 7010
 url: /java/redaction/ott/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

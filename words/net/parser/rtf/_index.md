@@ -2,6 +2,7 @@
 title:  
 weight: 10580
 url: /net/parser/rtf/ 
+description: Try our On-Premise document parser APIs to extract text and images from RTF file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

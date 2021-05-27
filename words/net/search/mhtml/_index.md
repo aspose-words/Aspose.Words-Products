@@ -2,6 +2,7 @@
 title:  
 weight: 10810
 url: /net/search/mhtml/ 
+description: Try our On-Premise document APIs to search words with pattern in MHTML file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

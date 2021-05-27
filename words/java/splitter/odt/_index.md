@@ -2,6 +2,7 @@
 title:  
 weight: 7280
 url: /java/splitter/odt/ 
+description: Try our On-Premise multi option document splitter APIs to split ODT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

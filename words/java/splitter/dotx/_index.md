@@ -2,6 +2,7 @@
 title:  
 weight: 7260
 url: /java/splitter/dotx/ 
+description: Try our On-Premise multi option document splitter APIs to split DOTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

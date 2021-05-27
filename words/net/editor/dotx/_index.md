@@ -2,6 +2,7 @@
 title:  
 weight: 10190
 url: /net/editor/dotx/ 
+description: Try our On-Premise document Editor APIs to edit DOTX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

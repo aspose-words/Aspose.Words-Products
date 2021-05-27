@@ -2,6 +2,7 @@
 title:  
 weight: 7100
 url: /java/search/ott/ 
+description: Integrate On-Premise document APIs to search words with pattern in OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 11060
 url: /net/unlock/doc/ 
+description: Try our On-Premise document APIs to unlock password protected DOC file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

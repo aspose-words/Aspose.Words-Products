@@ -2,6 +2,7 @@
 title: C# .NET Word Document Processing API - Aspose 
 weight: 10290
 url: /net/ 
+description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create edit convert DOCX DOC RTF PDF EPUB WordML ODT HTML Text and much more formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

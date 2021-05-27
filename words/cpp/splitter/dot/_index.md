@@ -2,6 +2,7 @@
 title:  
 weight: 2820
 url: /cpp/splitter/dot/ 
+description: Try our On-Premise multi option document splitter APIs to split DOT documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

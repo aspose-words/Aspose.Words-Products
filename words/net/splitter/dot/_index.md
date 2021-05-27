@@ -2,6 +2,7 @@
 title:  
 weight: 11000
 url: /net/splitter/dot/ 
+description: Try our On-Premise multi option document splitter APIs to split DOT documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

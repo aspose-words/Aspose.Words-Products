@@ -2,6 +2,7 @@
 title:  
 weight: 7560
 url: /net/assembly/html/ 
+description: Try our On-Premise document report generation APIs to generate HTML format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

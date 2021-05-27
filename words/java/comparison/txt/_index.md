@@ -2,6 +2,7 @@
 title:  
 weight: 3170
 url: /java/comparison/txt/ 
+description: Try our On-Premise document comparison APIs to compare TXT files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

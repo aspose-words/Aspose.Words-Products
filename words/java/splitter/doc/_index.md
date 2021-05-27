@@ -2,6 +2,7 @@
 title:  
 weight: 7250
 url: /java/splitter/doc/ 
+description: Try our On-Premise multi option document splitter APIs to split DOC documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

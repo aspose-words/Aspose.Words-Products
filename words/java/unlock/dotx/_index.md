@@ -2,6 +2,7 @@
 title:  
 weight: 7340
 url: /java/unlock/dotx/ 
+description: Try our On-Premise document APIs to unlock password protected DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

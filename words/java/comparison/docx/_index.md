@@ -2,6 +2,7 @@
 title:  
 weight: 3080
 url: /java/comparison/docx/ 
+description: Try our On-Premise document comparison APIs to compare DOCX files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

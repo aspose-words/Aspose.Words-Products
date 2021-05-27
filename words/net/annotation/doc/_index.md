@@ -2,6 +2,7 @@
 title:  
 weight: 7460
 url: /net/annotation/doc/ 
+description: Try our On-Premise document annotation APIs to delete DOC format annotations on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 7360
 url: /java/unlock/odt/ 
+description: Try our On-Premise document APIs to unlock password protected ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

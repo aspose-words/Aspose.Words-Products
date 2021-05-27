@@ -2,6 +2,7 @@
 title:  
 weight: 7640
 url: /net/comparison/dotx/ 
+description: Try our On-Premise document comparison APIs to compare DOTX documents for differences on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

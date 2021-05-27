@@ -2,6 +2,7 @@
 title:  
 weight: 10900
 url: /net/signature/dot/ 
+description: Try our On-Premise document digital signature APIs to e-Sgin DOT documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

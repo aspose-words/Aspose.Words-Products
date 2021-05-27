@@ -2,6 +2,7 @@
 title:  
 weight: 10280
 url: /net/editor/txt/ 
+description: Try our On-Premise document Editor APIs to edit TXT document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

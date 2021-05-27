@@ -2,6 +2,7 @@
 title:  
 weight: 10570
 url: /net/parser/ott/ 
+description: Try our On-Premise document parser APIs to extract text and images from OTT file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

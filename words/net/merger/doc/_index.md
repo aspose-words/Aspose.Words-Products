@@ -2,6 +2,7 @@
 title:  
 weight: 10320
 url: /net/merger/doc/ 
+description: Try our On-Premise document merger APIs to combine DOC documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

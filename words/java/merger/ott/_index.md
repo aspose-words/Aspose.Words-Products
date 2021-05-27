@@ -2,6 +2,7 @@
 title:  
 weight: 6680
 url: /java/merger/ott/ 
+description: Try our On-Premise document merger APIs to combine OTT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

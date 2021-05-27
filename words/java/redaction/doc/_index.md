@@ -2,6 +2,7 @@
 title:  
 weight: 6940
 url: /java/redaction/doc/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

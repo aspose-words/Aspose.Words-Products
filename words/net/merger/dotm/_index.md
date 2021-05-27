@@ -2,6 +2,7 @@
 title:  
 weight: 10330
 url: /net/merger/dotm/ 
+description: Try our On-Premise document merger APIs to combine DOTM documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

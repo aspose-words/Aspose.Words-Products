@@ -2,6 +2,7 @@
 title:  
 weight: 11290
 url: /net/watermark/dot/ 
+description: Try our On-Premise document APIs to add or remove watermark to DOT file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

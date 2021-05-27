@@ -2,6 +2,7 @@
 title:  
 weight: 7070
 url: /java/search/html/ 
+description: Integrate On-Premise document APIs to search words with pattern in HTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

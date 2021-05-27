@@ -2,6 +2,7 @@
 title:  
 weight: 10390
 url: /net/merger/mobi/ 
+description: Try our On-Premise document merger APIs to combine MOBI documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

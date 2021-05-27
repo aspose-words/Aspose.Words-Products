@@ -2,6 +2,7 @@
 title:  
 weight: 7350
 url: /java/unlock/dot/ 
+description: Try our On-Premise document APIs to unlock password protected DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

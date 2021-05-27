@@ -2,6 +2,7 @@
 title:  
 weight: 2700
 url: /cpp/signature/doc/ 
+description: Try our On-Premise document electronic signature APIs to eSgin DOC documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

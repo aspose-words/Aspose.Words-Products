@@ -2,6 +2,7 @@
 title:  
 weight: 7470
 url: /net/annotation/dotx/ 
+description: Try our On-Premise document annotation APIs to delete DOTX format annotations on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

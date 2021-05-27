@@ -2,6 +2,7 @@
 title:  
 weight: 7690
 url: /net/comparison/pdf/ 
+description: Try our On-Premise document comparison APIs to compare PDF documents for differences on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

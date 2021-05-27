@@ -2,6 +2,7 @@
 title:  
 weight: 7290
 url: /java/splitter/ott/ 
+description: Try our On-Premise multi option document splitter APIs to split OTT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

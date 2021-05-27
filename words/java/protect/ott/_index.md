@@ -2,6 +2,7 @@
 title:  
 weight: 6920
 url: /java/protect/ott/ 
+description: Try our On-Premise document APIs to lock OTT file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

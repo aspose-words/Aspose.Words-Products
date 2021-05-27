@@ -2,6 +2,7 @@
 title:  
 weight: 6690
 url: /java/merger/rtf/ 
+description: Try our On-Premise document merger APIs to combine RTF documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 6610
 url: /java/merger/dotx/ 
+description: Try our On-Premise document merger APIs to combine DOTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

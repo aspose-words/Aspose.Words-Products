@@ -2,6 +2,7 @@
 title:  
 weight: 2840
 url: /cpp/splitter/ott/ 
+description: Try our On-Premise multi option document splitter APIs to split OTT documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

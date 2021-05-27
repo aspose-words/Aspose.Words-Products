@@ -2,6 +2,7 @@
 title:  
 weight: 10700
 url: /net/redaction/html/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in HTML file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

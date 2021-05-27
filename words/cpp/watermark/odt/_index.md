@@ -2,6 +2,7 @@
 title:  
 weight: 2970
 url: /cpp/watermark/odt/ 
+description: Try our On-Premise document APIs to add or remove watermark to ODT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

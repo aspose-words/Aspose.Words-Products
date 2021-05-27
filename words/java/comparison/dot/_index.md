@@ -2,6 +2,7 @@
 title:  
 weight: 3110
 url: /java/comparison/dot/ 
+description: Try our On-Premise document comparison APIs to compare DOT files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

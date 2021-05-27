@@ -2,6 +2,7 @@
 title:  
 weight: 3120
 url: /java/comparison/html/ 
+description: Try our On-Premise document comparison APIs to compare HTML files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

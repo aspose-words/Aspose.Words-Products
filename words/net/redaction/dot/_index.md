@@ -2,6 +2,7 @@
 title:  
 weight: 10690
 url: /net/redaction/dot/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in DOT file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

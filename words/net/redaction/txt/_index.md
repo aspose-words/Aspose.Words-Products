@@ -2,6 +2,7 @@
 title:  
 weight: 10760
 url: /net/redaction/txt/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in TXT file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

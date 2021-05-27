@@ -2,6 +2,7 @@
 title:  
 weight: 6860
 url: /java/parser/xhtml/ 
+description: Try our On-Premise document parser APIs to extract text and images from XHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

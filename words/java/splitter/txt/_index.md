@@ -2,6 +2,7 @@
 title:  
 weight: 7310
 url: /java/splitter/txt/ 
+description: Try our On-Premise multi option document splitter APIs to split TXT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

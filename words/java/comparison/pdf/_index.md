@@ -2,6 +2,7 @@
 title:  
 weight: 3150
 url: /java/comparison/pdf/ 
+description: Try our On-Premise document comparison APIs to compare PDF files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

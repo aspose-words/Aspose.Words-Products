@@ -2,6 +2,7 @@
 title:  
 weight: 10490
 url: /net/metadata/rtf/ 
+description: Try our On-Premise document metadata viewer or editing APIs to edit or view RTF format metadata on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

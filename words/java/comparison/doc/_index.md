@@ -2,6 +2,7 @@
 title:  
 weight: 3090
 url: /java/comparison/doc/ 
+description: Try our On-Premise document comparison APIs to compare DOC files for differences on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

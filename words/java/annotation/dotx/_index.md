@@ -2,6 +2,7 @@
 title:  
 weight: 3030
 url: /java/annotation/dotx/ 
+description: Try our On-Premise document annotation APIs to delete DOTX format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

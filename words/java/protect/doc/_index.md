@@ -2,6 +2,7 @@
 title:  
 weight: 6880
 url: /java/protect/doc/ 
+description: Try our On-Premise document APIs to lock DOC file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

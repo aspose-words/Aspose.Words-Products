@@ -2,6 +2,7 @@
 title:  
 weight: 10500
 url: /net/parser/docx/ 
+description: Try our On-Premise document parser APIs to extract text and images from DOCX file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

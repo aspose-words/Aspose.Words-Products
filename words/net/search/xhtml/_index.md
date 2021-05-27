@@ -2,6 +2,7 @@
 title:  
 weight: 10860
 url: /net/search/xhtml/ 
+description: Try our On-Premise document APIs to search words with pattern in XHTML file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

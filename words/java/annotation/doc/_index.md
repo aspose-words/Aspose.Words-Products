@@ -2,6 +2,7 @@
 title:  
 weight: 3020
 url: /java/annotation/doc/ 
+description: Try our On-Premise document annotation APIs to delete DOC format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

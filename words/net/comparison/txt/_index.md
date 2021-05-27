@@ -2,6 +2,7 @@
 title:  
 weight: 7710
 url: /net/comparison/txt/ 
+description: Try our On-Premise document comparison APIs to compare TXT documents for differences on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 6660
 url: /java/merger/mobi/ 
+description: Try our On-Premise document merger APIs to combine MOBI documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

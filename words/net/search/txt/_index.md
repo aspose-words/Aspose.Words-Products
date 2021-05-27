@@ -2,6 +2,7 @@
 title:  
 weight: 10850
 url: /net/search/txt/ 
+description: Try our On-Premise document APIs to search words with pattern in TXT file on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

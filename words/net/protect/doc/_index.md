@@ -2,6 +2,7 @@
 title:  
 weight: 10610
 url: /net/protect/doc/ 
+description: Try our On-Premise document APIs to lock DOC file using password on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
