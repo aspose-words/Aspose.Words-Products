@@ -5,13 +5,17 @@ url: /cpp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words_for-cpp.png" pfName="Aspose.Words" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words_for-cpp.png" pfName="Aspose.Words for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/cpp" buyLink="" docsLink="https://docs.aspose.com/words/cpp/" instalationsDocsLink="https://docs.aspose.com/words/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words.cpp" nugetPackageName="Aspose.Words.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Words for C++ is an advanced Word Document Processing API to perform a wide range of processing tasks. API provides document formatting, manipulation, mail merge, watermarking and much more capabilities directly within your own C++ applications without requiring Microsoft Word. API supports most of the Microsoft Word formats, and can render the document pages to a number of image formats.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -432,12 +436,6 @@ wrdoc-&gt;Unprotect();
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -463,14 +461,14 @@ wrdoc-&gt;Unprotect();
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/words/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName="Aspose.Words for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Aspose.Words for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Aspose.Words for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="Aspose.Words for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Aspose.Words for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="Aspose.Words for JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

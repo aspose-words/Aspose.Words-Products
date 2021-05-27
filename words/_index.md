@@ -64,14 +64,31 @@ View Microsft Word documents in your favorite browser from anywhere.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-We currently utilize Aspose.Words & Aspose.Cells throughout our proprietary software applications. These components have saved significant development & processing time and allowed us to integrate Microsoft Office document features into our applications in a quick & efficient manner.
+<p class="first">
+ We currently utilize Aspose.Words &amp; Aspose.Cells throughout our proprietary software applications. These components have saved significant development &amp; processing time and allowed us to integrate Microsoft Office document features into our applications in a quick &amp; efficient manner.
+ <em>
+  Sean Diamond | VP of Software Development | RCP Solutions
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose.Words allowed us to automate the completion of predefined templates with the single click of a button. The ability to simulate Microsoft Office Automation, without the need for the Microsoft Office object library, provides a quick and stable method of creating dynamic documents on demand.
+<p class="second">
+ Aspose.Words allowed us to automate the completion of predefined templates with the single click of a button. The ability to simulate Microsoft Office Automation, without the need for the Microsoft Office object library, provides a quick and stable method of creating dynamic documents on demand.
+ <em>
+  Chris Bombardo | President | Velocity
+  <sup>
+   K4
+  </sup>
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

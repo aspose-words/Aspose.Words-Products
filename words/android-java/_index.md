@@ -5,14 +5,21 @@ url: /android-java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Word Document Processing Android APIs" h2="Generate, Manipulate, Convert and Render documents from within Android apps without depending upon Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-android.png" pfName="Aspose.Words" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/words/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Word Document Processing Android APIs" h2="Generate, Manipulate, Convert and Render documents from within Android apps without depending upon Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-android.png" pfName="Aspose.Words for Android via Java" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/words/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Android via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/android-java" buyLink="" docsLink="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Words for Android via Java supports processing native formats such as DOC, DOCX, OOXML, TXT, RTF as well as many other commonly used formats such as HTML, OpenDocument ODT, PDF, EPUB, XPS and image formats such as JPEG, PNG, SVG and EMF.</p>
+<p>
+ Aspose.Words for Android via Java is a document processing API enabling you to perform document manipulation tasks directly within your Android applications. API allows you to easily create, manipulate, convert and render Microsoft Word files.
+</p>
+
+<p>
+ Aspose.Words for Android via Java supports processing native formats such as DOC, DOCX, OOXML, TXT, RTF as well as many other commonly used formats such as HTML, OpenDocument ODT, PDF, EPUB, XPS and image formats such as JPEG, PNG, SVG and EMF.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -483,12 +490,6 @@ doc.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -513,14 +514,14 @@ doc.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/words/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName="Aspose.Words for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Aspose.Words for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="Aspose.Words for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="Aspose.Words for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Aspose.Words for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="Aspose.Words for JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

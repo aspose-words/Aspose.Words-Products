@@ -5,13 +5,17 @@ url: /jasperreports/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Word Format" h2="Export reports to Word and HTML formats from JasperReports and JasperServer." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-jasperreports.png" pfName="Aspose.Words" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/words/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Word Format" h2="Export reports to Word and HTML formats from JasperReports and JasperServer." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-jasperreports.png" pfName="Aspose.Words for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/words/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for JasperReports" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/jasperreports" buyLink="" docsLink="https://docs.aspose.com/words/jasperreports/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Words for JasperReports is the only solution on the market that makes it possible to export reports from JasperReports and JasperServer to Microsoft Word document (DOC), Office Open XML (OOXML, DOCX), Rich Text Format (RTF), OpenDocument Text (ODT), Web page (HTML) and plain text (TXT) formats without using Microsoft Word. All report features with the highest degree of precision can be converted to Microsoft Word file.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -248,12 +252,6 @@ url: /jasperreports/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -278,14 +276,14 @@ url: /jasperreports/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/words/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName="Aspose.Words for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Aspose.Words for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="Aspose.Words for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Aspose.Words for Java.Android" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="Aspose.Words for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Aspose.Words for Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

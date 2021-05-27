@@ -5,14 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-net.png" pfName="Aspose.Words" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/words/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-net.png" pfName="Aspose.Words for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="" docsLink="https://docs.aspose.com/words/net/" instalationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>By integrating API, some of the basic tasks developers can perform such as designing of fully-featured Microsoft Word reports having standard mail merge fields, reliable conversion between several popular formats, high fidelity rendering of pages, formatting of all document elements and more.</p>
+<p>
+ Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks. API supports to generate, modify, convert, render and print files without utilizing Microsoft Word directly within cross-platform applications. Moreover, API supports all the popular formats as well as allows exporting or converting Word files to fixed-layout and most commonly used image/multimedia formats.
+</p>
+
+<p>
+ By integrating API, some of the basic tasks developers can perform such as designing of fully-featured Microsoft Word reports having standard mail merge fields, reliable conversion between several popular formats, high fidelity rendering of pages, formatting of all document elements and more.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -661,18 +668,33 @@ wfle.Save(dir + "merged.doc");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-We were looking for an easy to use and class leading simple to integrate PDF generator to integrate into our product. Aspose.Words was exactly what we were looking for.
+<p class="first">
+ We were looking for an easy to use and class leading simple to integrate PDF generator to integrate into our product. Aspose.Words was exactly what we were looking for.
+ <em>
+  Stuart Ives | Smartmatching UK LTD, UK
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Currently we are using Aspose.Words for .NET for generating our invoices, receipts, pay slips and we intend to make it as ‘the platform’ for all our word processing needs of SCINTRA.
+<p class="second">
+ Currently we are using Aspose.Words for .NET for generating our invoices, receipts, pay slips and we intend to make it as ‘the platform’ for all our word processing needs of SCINTRA.
+ <em>
+  Meyyappan Anna | SCONCEC, USA
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose.Words for .NET is very easy to use and integrate into our product. As a result we were able to deliver our project on time and to the satisfaction of our customers.
+<p class="third">
+ Aspose.Words for .NET is very easy to use and integrate into our product. As a result we were able to deliver our project on time and to the satisfaction of our customers.
+ <em>
+  Hajindar Singh | Simulation Software &amp; Technology , Singapore
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< /blocks/products/pf/testimonials >}}
@@ -701,14 +723,14 @@ Aspose.Words for .NET is very easy to use and integrate into our product. As a r
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/net" pricingInformationLink="https://purchase.aspose.com/pricing/words/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Aspose.Words for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="Aspose.Words for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Aspose.Words for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="Aspose.Words for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Aspose.Words for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="Aspose.Words for JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

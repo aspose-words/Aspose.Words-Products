@@ -5,14 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Word Document Manipulation APIs" h2="Develop Java application with the ability to create, process, convert or render Word files to multiple formats." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-java.png" pfName="Aspose.Words" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Word Document Manipulation APIs" h2="Develop Java application with the ability to create, process, convert or render Word files to multiple formats." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-java.png" pfName="Aspose.Words for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/words/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="" docsLink="https://docs.aspose.com/words/java/" instalationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Words for Java supports all popular formats while allowing the export or conversion to other Word Processing, fixed-layout, image, HTML, ePUB and major industry-standard formats.</p>
+<p>
+ Aspose.Words for Java is a feature-rich Word Processing API allowing the developers to embed the ability to generate, modify, convert, render and print all formats supported by Microsoft Word in their own Java applications. It does not depend upon Microsoft Word, however, it provides the features that Microsoft Word supports via its APIs such as formatting of all elements, high-quality conversion to multiple formats, rendering individual pages or complete files to images, generation of reports with data from various sources, revision management and so on.
+</p>
+
+<p>
+ Aspose.Words for Java supports all popular formats while allowing the export or conversion to other Word Processing, fixed-layout, image, HTML, ePUB and major industry-standard formats.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -530,18 +537,33 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-With Aspose.Words, we increased efficiency at the organizational processes because we reduce the time spent in technical support activities. Now we can say that we are only focused on our core business.
+<p class="first">
+ With Aspose.Words, we increased efficiency at the organizational processes because we reduce the time spent in technical support activities. Now we can say that we are only focused on our core business.
+ <em>
+  Paulo Lopes | Xpand IT, UK
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Working with Aspose.Words has been a very satisfying and easy to implement solution. One of the best features being the quick time in which large documents are generated.
+<p class="second">
+ Working with Aspose.Words has been a very satisfying and easy to implement solution. One of the best features being the quick time in which large documents are generated.
+ <em>
+  Tom Daniels | Pill Creek Publishing, UK
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose.Words has saved us a lot of time, effort and money. It’s given our customers good reliable import/export functionality so they can open their old document in WriteOnline.
+<p class="third">
+ Aspose.Words has saved us a lot of time, effort and money. It’s given our customers good reliable import/export functionality so they can open their old document in WriteOnline.
+ <em>
+  Andrew Burt | Crick Software Ltd, USA
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< /blocks/products/pf/testimonials >}}
@@ -570,14 +592,14 @@ Aspose.Words has saved us a lot of time, effort and money. It’s given our cust
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/java" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName="Aspose.Words for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="Aspose.Words for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Aspose.Words for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="Aspose.Words for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Aspose.Words for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="Aspose.Words for JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

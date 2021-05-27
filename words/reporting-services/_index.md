@@ -5,15 +5,21 @@ url: /reporting-services/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SSRS Extension to Deliver Reports in Word Formats" h2="Export RDL and RDLC reports in Word document formats from SQL Server Reporting Services." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-ssrs.png" pfName="Aspose.Words" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/words/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="SSRS Extension to Deliver Reports in Word Formats" h2="Export RDL and RDLC reports in Word document formats from SQL Server Reporting Services." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-ssrs.png" pfName="Aspose.Words for Reporting Services" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/words/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Reporting Services" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Words for Reporting Services fully supports the RDL specifications. You may use any report designer to redesign your existing reports or simply export any existing RDL report as a Microsoft Word document, and it will render exactly how you would expect it - identical to the RDL design.</p>
-<p>An overview of the RDL features, technologies, export modes and export formats that Aspose.Words for Reporting Services supports.</p>
+<p>
+ Aspose.Words for Reporting Services is a rendering extension enables developers to export RDL and RDLC reports as DOC, DOCX, PDF, RTF, HTML, MHTML, ODT, TXT, XPS and WordprocessingML files from within Microsoft SQL Server Reporting Services.
+</p>
+
+<p>
+ Aspose.Words for Reporting Services fully supports the RDL specifications. You may use any report designer to redesign your existing reports or simply export any existing RDL report as a Microsoft Word document, and it will render exactly how you would expect it - identical to the RDL design.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -423,12 +429,6 @@ url: /reporting-services/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -453,14 +453,14 @@ url: /reporting-services/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/words/reporting-services" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName="Aspose.Words for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Aspose.Words for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="Aspose.Words for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Aspose.Words for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="Aspose.Words for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="Aspose.Words for JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
