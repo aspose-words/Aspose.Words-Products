@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7020
+title: Search and replace text in RTF document via Java 
+weight: 7240
 url: /java/redaction/rtf/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

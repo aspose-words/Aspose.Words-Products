@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6780
+title: Extract text and images from DOC document via Java 
+weight: 7000
 url: /java/parser/doc/ 
 description: Try our On-Premise document parser APIs to extract text and images from DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

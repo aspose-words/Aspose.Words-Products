@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7050
+title: Search DOCX document without opening via Java 
+weight: 7270
 url: /java/search/docx/ 
 description: Integrate On-Premise document APIs to search words with pattern in DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

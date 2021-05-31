@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6810
+title: Extract text and images from HTML document via Java 
+weight: 7030
 url: /java/parser/html/ 
 description: Try our On-Premise document parser APIs to extract text and images from HTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

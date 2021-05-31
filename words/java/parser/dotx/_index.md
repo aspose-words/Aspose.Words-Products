@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6790
+title: Extract text and images from DOTX document via Java 
+weight: 7010
 url: /java/parser/dotx/ 
 description: Try our On-Premise document parser APIs to extract text and images from DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

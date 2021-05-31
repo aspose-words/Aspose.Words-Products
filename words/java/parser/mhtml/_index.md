@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6820
+title: Extract text and images from MHTML document via Java 
+weight: 7040
 url: /java/parser/mhtml/ 
 description: Try our On-Premise document parser APIs to extract text and images from MHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6940
+title: Search and replace text in DOC document via Java 
+weight: 7160
 url: /java/redaction/doc/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

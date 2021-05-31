@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7060
+title: Search DOC document without opening via Java 
+weight: 7280
 url: /java/search/doc/ 
 description: Integrate On-Premise document APIs to search words with pattern in DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

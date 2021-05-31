@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6980
+title: Search and replace text in MD document via Java 
+weight: 7200
 url: /java/redaction/md/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in MD file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

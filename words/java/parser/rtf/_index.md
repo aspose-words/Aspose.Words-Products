@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6850
+title: Extract text and images from RTF document via Java 
+weight: 7070
 url: /java/parser/rtf/ 
 description: Try our On-Premise document parser APIs to extract text and images from RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

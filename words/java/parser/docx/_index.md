@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6770
+title: Extract text and images from DOCX document via Java 
+weight: 6990
 url: /java/parser/docx/ 
 description: Try our On-Premise document parser APIs to extract text and images from DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

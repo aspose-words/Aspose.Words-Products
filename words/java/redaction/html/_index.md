@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6970
+title: Search and replace text in HTML document via Java 
+weight: 7190
 url: /java/redaction/html/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in HTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

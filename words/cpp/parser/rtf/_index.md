@@ -1,5 +1,5 @@
 ---
-title:  
+title: Extract text and images from RTF document via C++ 
 weight: 2520
 url: /cpp/parser/rtf/ 
 description: Try our On-Premise document parser APIs to extract text and images from RTF file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.

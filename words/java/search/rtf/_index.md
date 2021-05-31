@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7110
+title: Search RTF document without opening via Java 
+weight: 7330
 url: /java/search/rtf/ 
 description: Integrate On-Premise document APIs to search words with pattern in RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2620
+title: Search HTML document without opening via C++ 
+weight: 2740
 url: /cpp/search/html/ 
 description: Try our On-Premise document APIs to search words with pattern in HTML file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---

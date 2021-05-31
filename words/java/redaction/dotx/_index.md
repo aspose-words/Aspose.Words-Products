@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6950
+title: Search and replace text in DOTX document via Java 
+weight: 7170
 url: /java/redaction/dotx/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

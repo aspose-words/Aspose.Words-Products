@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7010
+title: Search and replace text in OTT document via Java 
+weight: 7230
 url: /java/redaction/ott/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6880
+title: Protect and lock DOC document via Java 
+weight: 7100
 url: /java/protect/doc/ 
 description: Try our On-Premise document APIs to lock DOC file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6960
+title: Search and replace text in DOT document via Java 
+weight: 7180
 url: /java/redaction/dot/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

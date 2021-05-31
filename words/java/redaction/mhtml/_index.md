@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6990
+title: Search and replace text in MHTML document via Java 
+weight: 7210
 url: /java/redaction/mhtml/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in MHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

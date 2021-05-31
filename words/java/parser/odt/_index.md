@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6830
+title: Extract text and images from ODT document via Java 
+weight: 7050
 url: /java/parser/odt/ 
 description: Try our On-Premise document parser APIs to extract text and images from ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

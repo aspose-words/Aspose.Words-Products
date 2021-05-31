@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7090
+title: Search ODT document without opening via Java 
+weight: 7310
 url: /java/search/odt/ 
 description: Integrate On-Premise document APIs to search words with pattern in ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

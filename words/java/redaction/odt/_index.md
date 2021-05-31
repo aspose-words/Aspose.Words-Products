@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7000
+title: Search and replace text in ODT document via Java 
+weight: 7220
 url: /java/redaction/odt/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

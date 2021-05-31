@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6870
+title: Protect and lock DOCX document via Java 
+weight: 7090
 url: /java/protect/docx/ 
 description: Try our On-Premise document APIs to lock DOCX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

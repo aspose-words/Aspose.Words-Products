@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6840
+title: Extract text and images from OTT document via Java 
+weight: 7060
 url: /java/parser/ott/ 
 description: Try our On-Premise document parser APIs to extract text and images from OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

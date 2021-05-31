@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7080
+title: Search MHTML document without opening via Java 
+weight: 7300
 url: /java/search/mhtml/ 
 description: Integrate On-Premise document APIs to search words with pattern in MHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

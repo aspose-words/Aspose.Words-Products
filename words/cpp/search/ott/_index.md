@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2650
+title: Search OTT document without opening via C++ 
+weight: 2770
 url: /cpp/search/ott/ 
 description: Try our On-Premise document APIs to search words with pattern in OTT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---

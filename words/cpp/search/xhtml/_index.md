@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2680
+title: Search XHTML document without opening via C++ 
+weight: 2800
 url: /cpp/search/xhtml/ 
 description: Try our On-Premise document APIs to search words with pattern in XHTML file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---

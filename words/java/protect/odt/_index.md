@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6910
+title: Protect and lock ODT document via Java 
+weight: 7130
 url: /java/protect/odt/ 
 description: Try our On-Premise document APIs to lock ODT file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

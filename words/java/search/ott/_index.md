@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7100
+title: Search OTT document without opening via Java 
+weight: 7320
 url: /java/search/ott/ 
 description: Integrate On-Premise document APIs to search words with pattern in OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

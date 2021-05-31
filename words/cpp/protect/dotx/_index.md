@@ -1,5 +1,5 @@
 ---
-title:  
+title: Protect and lock DOTX document via C++ 
 weight: 2560
 url: /cpp/protect/dotx/ 
 description: Try our On-Premise document APIs to lock DOTX file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.

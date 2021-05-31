@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6890
+title: Protect and lock DOTX document via Java 
+weight: 7110
 url: /java/protect/dotx/ 
 description: Try our On-Premise document APIs to lock DOTX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

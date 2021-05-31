@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6930
+title: Search and replace text in DOCX document via Java 
+weight: 7150
 url: /java/redaction/docx/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

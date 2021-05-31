@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 7130
+title: Search XHTML document without opening via Java 
+weight: 7350
 url: /java/search/xhtml/ 
 description: Integrate On-Premise document APIs to search words with pattern in XHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

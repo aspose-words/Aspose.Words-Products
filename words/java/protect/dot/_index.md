@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6900
+title: Protect and lock DOT document via Java 
+weight: 7120
 url: /java/protect/dot/ 
 description: Try our On-Premise document APIs to lock DOT file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

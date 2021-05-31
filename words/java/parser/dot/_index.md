@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 6800
+title: Extract text and images from DOT document via Java 
+weight: 7020
 url: /java/parser/dot/ 
 description: Try our On-Premise document parser APIs to extract text and images from DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

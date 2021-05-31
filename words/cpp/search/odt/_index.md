@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2640
+title: Search ODT document without opening via C++ 
+weight: 2760
 url: /cpp/search/odt/ 
 description: Try our On-Premise document APIs to search words with pattern in ODT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
