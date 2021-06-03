@@ -1,6 +1,6 @@
 ---
 title: Unlock ODT document via C++ 
-weight: 3030
+weight: 4380
 url: /cpp/unlock/odt/ 
 description: Try our On-Premise document APIs to unlock password protected ODT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to unlock password protected ODT f
 
 {{% blocks/products/pf/agp/content h2="How to Remove Protection of ODT File Using C++" %}}
 
- In order to unlock ODT file, weвЂ™ll use
+ In order to unlock ODT file, we’ll use
  [Aspose.Words for C++](https://products.aspose.com/words/cpp) 
  API which is a feature-rich, powerful and easy to use document protection API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
@@ -90,7 +90,7 @@ doc->Save(u"unprotected.odt");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for C++ API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

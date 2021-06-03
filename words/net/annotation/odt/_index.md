@@ -1,6 +1,6 @@
 ---
 title: Remove ODT Annotation via .NET 
-weight: 7710
+weight: 8130
 url: /net/annotation/odt/ 
 description: Try our On-Premise document annotation APIs to delete ODT format annotations on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document annotation APIs to delete ODT format an
 
 {{% blocks/products/pf/agp/content h2="How to Annotate ODT File Using C#" %}}
 
- In order to annotate ODT file, weвЂ™ll use
+ In order to annotate ODT file, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
@@ -107,7 +107,7 @@ Assert.AreEqual(0, comment.Replies.Count());
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for .NET API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

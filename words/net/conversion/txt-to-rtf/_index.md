@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to RTF via .NET 
-weight: 10340
+weight: 10040
 url: /net/conversion/txt-to-rtf/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to RTF Using C#" %}}
 
- In order to convert TXT to RTF, weвЂ™ll use
+ In order to convert TXT to RTF, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

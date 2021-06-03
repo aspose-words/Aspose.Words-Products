@@ -1,6 +1,6 @@
 ---
 title: Convert ODT to PCL via .NET 
-weight: 9430
+weight: 11420
 url: /net/conversion/odt-to-pcl/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODT to PCL Using C#" %}}
 
- In order to convert ODT to PCL, weвЂ™ll use
+ In order to convert ODT to PCL, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

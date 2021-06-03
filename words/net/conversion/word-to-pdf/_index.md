@@ -1,6 +1,6 @@
 ---
 title: Convert Word to PDF C# | .NET Word API 
-weight: 10380
+weight: 7240
 url: /net/conversion/word-to-pdf/ 
 description: Convert Word DOC DOCX DOCM DOT RTF ODT OTT & other formats to PDF via .NET Library
 ---
@@ -250,7 +250,7 @@ doc.Save("output.pdf", saveOptions);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App forВ WordВ to PDF Conversion](https://products.aspose.app/words/conversion)" sectionDescription="" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App for Word to PDF Conversion](https://products.aspose.app/words/conversion)" sectionDescription="" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload WORD file and hit the \"Convert\" button" >}}

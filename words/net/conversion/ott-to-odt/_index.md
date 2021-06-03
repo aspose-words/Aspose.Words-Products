@@ -1,6 +1,6 @@
 ---
 title: Convert OTT to ODT via .NET 
-weight: 9600
+weight: 3690
 url: /net/conversion/ott-to-odt/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTT to ODT Using C#" %}}
 
- In order to convert OTT to ODT, weвЂ™ll use
+ In order to convert OTT to ODT, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

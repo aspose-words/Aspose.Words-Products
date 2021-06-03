@@ -1,6 +1,6 @@
 ---
 title: Convert DOTX to GIF via .NET 
-weight: 8930
+weight: 100
 url: /net/conversion/dotx-to-gif/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DOTX to GIF Using C#" %}}
 
- In order to convert DOTX to GIF, weвЂ™ll use
+ In order to convert DOTX to GIF, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

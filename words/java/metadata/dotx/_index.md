@@ -1,6 +1,6 @@
 ---
 title: Edit or View DOTX Files Metadata via Java 
-weight: 6950
+weight: 3260
 url: /java/metadata/dotx/ 
 description: Try our On-Premise document metadata editing or viewer APIs to edit or view DOTX format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata editing or viewer APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract DOTX Metadata Using Java" %}}
 
- In order to get DOTX file metadata, weвЂ™ll use
+ In order to get DOTX file metadata, we’ll use
  [Aspose.Words for Java](https://products.aspose.com/words/java) 
  API which is a feature-rich, powerful and easy to use metadata API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words) 
@@ -109,7 +109,7 @@ System.out.println("Has a digital signature: " + info.hasDigitalSignature());
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for Java API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

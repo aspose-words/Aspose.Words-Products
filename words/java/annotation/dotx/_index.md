@@ -1,6 +1,6 @@
 ---
 title: Remove DOTX Annotation via Java 
-weight: 3150
+weight: 10360
 url: /java/annotation/dotx/ 
 description: Try our On-Premise document annotation APIs to delete DOTX format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document annotation APIs to delete DOTX format a
 
 {{% blocks/products/pf/agp/content h2="How to Annotate DOTX File Using Java" %}}
 
- In order to annotate DOTX file, weвЂ™ll use
+ In order to annotate DOTX file, we’ll use
  [Aspose.Words for Java](https://products.aspose.com/words/java) 
  API which is a feature-rich, powerful and easy to use annotation API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words) 
@@ -106,7 +106,7 @@ dotx.save(dataDir);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for Java API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

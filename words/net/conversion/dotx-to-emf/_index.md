@@ -1,6 +1,6 @@
 ---
 title: Convert DOTX to EMF via .NET 
-weight: 8910
+weight: 4760
 url: /net/conversion/dotx-to-emf/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DOTX to EMF Using C#" %}}
 
- In order to convert DOTX to EMF, weвЂ™ll use
+ In order to convert DOTX to EMF, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

@@ -1,6 +1,6 @@
 ---
 title: Generate Reports in DOTX Files via Java 
-weight: 3220
+weight: 7490
 url: /java/assembly/dotx/ 
 description: Try our On-Premise document report creation APIs to create DOTX format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document report creation APIs to create DOTX for
 
 {{% blocks/products/pf/agp/content h2="How to Generate DOTX Reports Using Java" %}}
 
- In order to create DOTX file reports, weвЂ™ll use
+ In order to create DOTX file reports, we’ll use
  [Aspose.Words for Java](https://products.aspose.com/words/java) 
  API which is a feature-rich, powerful and easy to use assembly API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words) 
@@ -102,7 +102,7 @@ dotx.save("word.dotx");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for Java API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Convert PDF to PCL via .NET 
-weight: 9860
+weight: 5500
 url: /net/conversion/pdf-to-pcl/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert PDF to PCL Using C#" %}}
 
- In order to convert PDF to PCL, weвЂ™ll use
+ In order to convert PDF to PCL, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

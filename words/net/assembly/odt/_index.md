@@ -1,6 +1,6 @@
 ---
 title: Generate Reports in ODT Files via .NET 
-weight: 7790
+weight: 5180
 url: /net/assembly/odt/ 
 description: Try our On-Premise document report generation APIs to generate ODT format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document report generation APIs to generate ODT 
 
 {{% blocks/products/pf/agp/content h2="How to Generate ODT based Reports Using C#" %}}
 
- In order to create ODT reports, weвЂ™ll use
+ In order to create ODT reports, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use report generation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
@@ -100,7 +100,7 @@ PM> Install-Package Aspose.Words
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for .NET API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

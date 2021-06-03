@@ -1,6 +1,6 @@
 ---
 title: Search and replace text in DOCX document via C++ 
-weight: 2600
+weight: 11550
 url: /cpp/redaction/docx/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in DOCX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document redaction APIs to redact sensitive info
 
 {{% blocks/products/pf/agp/content h2="How to Redact DOCX File Using C++" %}}
 
- In order to redact DOCX file, weвЂ™ll use
+ In order to redact DOCX file, we’ll use
  [Aspose.Words for C++](https://products.aspose.com/words/cpp) 
  API which is a feature-rich, powerful and easy to use document redaction API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
@@ -35,13 +35,13 @@ PM> Install-Package Aspose.Words.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="StepsВ to Redact DOCX Files in C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact DOCX Files in C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basicВ documentВ search and replace text in contents, comments or metadata with
+ A basic document search and replace text in contents, comments or metadata with
  [Aspose.Words for C++](https://products.aspose.com/words/cpp) 
- APIs can be done with justВ few lines of code. Redact sensitive information through search and replace text in contents, comments or metadata in Word documents.
+ APIs can be done with just few lines of code. Redact sensitive information through search and replace text in contents, comments or metadata in Word documents.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -66,7 +66,7 @@ PM> Install-Package Aspose.Words.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="RedactВ DOCX Files - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Redact DOCX Files - C++" offSpacer="" %}}
 
 ```cs
 // Load DOCX document
@@ -94,7 +94,7 @@ docx->Save(u"updated.docx");
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Words for C++ API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 
@@ -102,7 +102,7 @@ docx->Save(u"updated.docx");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online DOCXВ Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in DOCX documents right now by visiting our [Live Demos website](https://products.aspose.app/words/redaction). The live demo has the following benefits" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online DOCX Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in DOCX documents right now by visiting our [Live Demos website](https://products.aspose.app/words/redaction). The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DOCX files." >}}

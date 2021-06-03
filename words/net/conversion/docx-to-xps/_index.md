@@ -1,6 +1,6 @@
 ---
 title: Convert DOCX to XPS via .NET 
-weight: 8510
+weight: 6440
 url: /net/conversion/docx-to-xps/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DOCX to XPS Using C#" %}}
 
- In order to convert DOCX to XPS, weвЂ™ll use
+ In order to convert DOCX to XPS, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

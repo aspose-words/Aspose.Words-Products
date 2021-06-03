@@ -1,6 +1,6 @@
 ---
 title: Java Word API | Create Manipulate and Render Word Documents 
-weight: 6780
+weight: 7990
 url: /java/ 
 description: Java Microsoft word files processing library to create read write modify and convert formats including DOC DOCX HTML PDF RTF XPS EPUB XML EMF and images
 ---

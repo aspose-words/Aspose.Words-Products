@@ -1,6 +1,6 @@
 ---
 title: Convert MOBI to DOTM via .NET 
-weight: 9130
+weight: 5790
 url: /net/conversion/mobi-to-dotm/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert MOBI to DOTM Using C#" %}}
 
- In order to convert MOBI to DOTM, weвЂ™ll use
+ In order to convert MOBI to DOTM, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

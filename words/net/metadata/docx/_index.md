@@ -1,6 +1,6 @@
 ---
 title: View or Edit DOCX Files Metadata via .NET 
-weight: 10660
+weight: 6810
 url: /net/metadata/docx/ 
 description: Try our On-Premise document metadata viewer or editing APIs to edit or view DOCX format metadata on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata viewer or editing APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract DOCX Metadata Using C#" %}}
 
- In order to extract DOCX metadata, weвЂ™ll use
+ In order to extract DOCX metadata, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document metadata API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
@@ -101,7 +101,7 @@ foreach (Aspose.Words.Properties.DocumentProperty property in document.BuiltInDo
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for .NET API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

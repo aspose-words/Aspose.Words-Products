@@ -1,6 +1,6 @@
 ---
 title: Convert DOTX to TXT via .NET 
-weight: 9070
+weight: 800
 url: /net/conversion/dotx-to-txt/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DOTX to TXT Using C#" %}}
 
- In order to convert DOTX to TXT, weвЂ™ll use
+ In order to convert DOTX to TXT, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

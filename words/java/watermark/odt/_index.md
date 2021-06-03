@@ -1,6 +1,6 @@
 ---
 title: Watermark ODT document via Java 
-weight: 7640
+weight: 4560
 url: /java/watermark/odt/ 
 description: Try our On-Premise document APIs to add or remove watermark to ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to add or remove watermark to ODT 
 
 {{% blocks/products/pf/agp/content h2="How to Watermark ODT File Using Java" %}}
 
- In order to watermark ODT file, weвЂ™ll use
+ In order to watermark ODT file, we’ll use
  [Aspose.Words for Java](https://products.aspose.com/words/java) 
  API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words) 
@@ -107,7 +107,7 @@ odt.save(dataDir + "AddTextWatermark_out.odt");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Words for Java API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Protect and lock ODT document via C++ 
-weight: 2580
+weight: 5710
 url: /cpp/protect/odt/ 
 description: Try our On-Premise document APIs to lock ODT file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to lock ODT file using password on
 
 {{% blocks/products/pf/agp/content h2="How to Secure ODT File Using C++" %}}
 
- In order to protect ODT file, weвЂ™ll use
+ In order to protect ODT file, we’ll use
  [Aspose.Words for C++](https://products.aspose.com/words/cpp) 
  API which is a feature-rich, powerful and easy to use document encryption API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Words.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps toВ Protect ODT Files via C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect ODT Files via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -88,7 +88,7 @@ odt->Save(u"protected.odt");
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Words for C++ API" %}}
 
- Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Words API can be used to load, view and convert Microsoft Word and OpenDocument Formats like DOC, DOCX, ODT to PDF, XPS, HTML and various other formats. You can also create new documents from scratch and save them in the supported formats. Aspose.Words is a standalone API that is suitable for server side and backend systems where high performance is required. It does not depend on any software like Microsoft or OpenOffice. ‎
 
 
 

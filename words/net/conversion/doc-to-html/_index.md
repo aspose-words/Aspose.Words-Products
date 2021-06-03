@@ -1,6 +1,6 @@
 ---
 title: Convert DOC to HTML via .NET 
-weight: 7990
+weight: 10430
 url: /net/conversion/doc-to-html/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DOC to HTML Using C#" %}}
 
- In order to convert DOC to HTML, weвЂ™ll use
+ In order to convert DOC to HTML, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 

@@ -1,6 +1,6 @@
 ---
 title: Convert DOCX to PS via .NET 
-weight: 8470
+weight: 6720
 url: /net/conversion/docx-to-ps/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DOCX to PS Using C#" %}}
 
- In order to convert DOCX to PS, weвЂ™ll use
+ In order to convert DOCX to PS, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.words) 
