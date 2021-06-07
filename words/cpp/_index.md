@@ -6,11 +6,11 @@ description: C++ Word document processing library to add file manipulation capab
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words_for-cpp.png" pfName="Aspose.Words for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words_for-cpp.png" pfName="Aspose.Words" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/cpp" buyLink="" docsLink="https://docs.aspose.com/words/cpp/" instalationsDocsLink="https://docs.aspose.com/words/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words.cpp" nugetPackageName="Aspose.Words.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/cpp" buyLink="https://purchase.aspose.com/pricing/words/cpp" docsLink="https://docs.aspose.com/words/cpp/" installationsDocsLink="https://docs.aspose.com/words/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words.cpp" nugetPackageName="Aspose.Words.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

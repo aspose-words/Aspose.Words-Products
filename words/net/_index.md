@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-net.png" pfName="Aspose.Words for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/words/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-net.png" pfName="Aspose.Words" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="" docsLink="https://docs.aspose.com/words/net/" instalationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/pricing/words/net" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

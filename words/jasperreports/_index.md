@@ -6,11 +6,11 @@ description: Export reports from Jasper Reports and JasperServer in Word DOC Off
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Word Format" h2="Export reports to Word and HTML formats from JasperReports and JasperServer." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-jasperreports.png" pfName="Aspose.Words for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/words/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Word Format" h2="Export reports to Word and HTML formats from JasperReports and JasperServer." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-jasperreports.png" pfName="Aspose.Words" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/words/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/jasperreports" buyLink="" docsLink="https://docs.aspose.com/words/jasperreports/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/jasperreports" buyLink="https://purchase.aspose.com/pricing/words/jasperreports" docsLink="https://docs.aspose.com/words/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

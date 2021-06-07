@@ -6,11 +6,11 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SSRS Extension to Deliver Reports in Word Formats" h2="Export RDL and RDLC reports in Word document formats from SQL Server Reporting Services." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-ssrs.png" pfName="Aspose.Words for Reporting Services" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/words/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="SSRS Extension to Deliver Reports in Word Formats" h2="Export RDL and RDLC reports in Word document formats from SQL Server Reporting Services." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-ssrs.png" pfName="Aspose.Words" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/words/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="https://purchase.aspose.com/pricing/words/reporting-services" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

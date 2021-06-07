@@ -6,11 +6,11 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint Solution for Microsoft Word Files" h2="Combine and convert Word documents into multiple formats. Generate Reports from various sources within SharePoint applications." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-sharepoint.png" pfName="Aspose.Words for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/words/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint Solution for Microsoft Word Files" h2="Combine and convert Word documents into multiple formats. Generate Reports from various sources within SharePoint applications." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-sharepoint.png" pfName="Aspose.Words" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/words/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/sharepoint" buyLink="" docsLink="https://docs.aspose.com/words/sharepoint/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/sharepoint" buyLink="https://purchase.aspose.com/pricing/words/sharepoint" docsLink="https://docs.aspose.com/words/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
