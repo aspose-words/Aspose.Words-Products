@@ -117,6 +117,18 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C++, One can also split large file into chunks of many other file formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/doc" name="DOC" description="Microsoft Word Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/dot" name="DOT" description="Microsoft Word Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/dotx" name="DOTX" description="Microsoft Word Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/odt" name="ODT" description="OpenDocument Text File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/ott" name="OTT" description="OpenDocument Standard Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/rtf" name="RTF" description="Rich Text Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/splitter/txt" name="TXT" description="Text Document" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

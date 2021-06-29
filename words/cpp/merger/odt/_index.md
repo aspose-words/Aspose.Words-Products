@@ -113,6 +113,24 @@ ODT files are type of documents created with word processing applications that a
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge many other file formats including.." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/doc" name="DOC" description="Microsoft Word Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/docm" name="DOCM" description="Microsoft Word 2007 Marco File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/docx" name="DOCX" description="Office 2007+ Words Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/dot" name="DOT" description="Microsoft Word Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/dotm" name="DOTM" description="Microsoft Word 2007+ Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/dotx" name="DOTX" description="Microsoft Word Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/html" name="HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/md" name="MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/mhtml" name="MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/mobi" name="MOBI" description="Open Ebook Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/ott" name="OTT" description="OpenDocument Standard Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/rtf" name="RTF" description="Rich Text Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/cpp/merger/txt" name="TXT" description="Text Document" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
