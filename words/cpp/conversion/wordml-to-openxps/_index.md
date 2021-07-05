@@ -1,6 +1,6 @@
 ---
 title: Convert WORDML to OPENXPS via C++ application 
-weight: 380
+weight: 180
 url: /cpp/conversion/wordml-to-openxps/ 
 description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -98,7 +98,8 @@ doc->Save(u"convertedFile.OPENXPS");
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WORDML" readMoreLink="" >}}
 
-Microsoft Word 2003 WordprocessingML format.
+{{wordml}}
+Read More
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
