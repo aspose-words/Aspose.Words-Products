@@ -1,6 +1,6 @@
 ---
 title: Convert WORDML to XAMLFLOW via Java 
-weight: 360
+weight: 230
 url: /java/conversion/wordml-to-xamlflow/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -118,8 +118,7 @@ Microsoft Word 2003 WordprocessingML format.
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XAMLFLOW" readMoreLink="" >}}
 
-{{xamlflow}}
-
+Saves the document in the Extensible Application Markup Language (XAML) format as a flow document.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
