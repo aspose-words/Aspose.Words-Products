@@ -95,8 +95,8 @@ document.Save("output.xml", Aspose.Words.SaveFormat.FlatOpc);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WORDML" readMoreLink="/{{wordml_url}}" >}}
-{{wordml}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WORDML" readMoreLink="https://docs.fileformat.com/word-processing/" >}}
+Microsoft Word 2003 WordprocessingML format.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,12 +111,6 @@ Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP pack
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert WORDML into many other file formats including few listed below." >}}
-
-{{other_supported_lnks}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
