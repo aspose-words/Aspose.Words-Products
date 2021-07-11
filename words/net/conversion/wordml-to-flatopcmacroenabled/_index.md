@@ -95,9 +95,8 @@ document.Save("output.xml", Aspose.Words.SaveFormat.FlatOpcMacroEnabled);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WORDML" readMoreLink="/{{wordml_url}}" >}}
-{{wordml}}
-
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WORDML" readMoreLink="https://docs.fileformat.com/word-processing/" >}}
+Microsoft Word 2003 WordprocessingML format.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="flatopcmacroenabled" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
@@ -110,13 +109,6 @@ Office Open XML WordprocessingML Macro-Enabled Document stored in a flat XML fil
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert WORDML into many other file formats including few listed below." >}}
-
-{{other_supported_lnks}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
