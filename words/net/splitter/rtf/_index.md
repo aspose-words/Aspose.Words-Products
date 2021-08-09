@@ -78,7 +78,7 @@ for (int page = 1; page <= doc.PageCount; page++){
     Document pageDoc = splitter.GetDocumentOfPage(page);
     pageDoc.Save(dataDir + $"SplitDocumentPageByPageOut_{page}.rtf");
 }
-//API also supports to split document by sections and headings
+// API also supports to split document by sections and headings
 // Splitted files can also be saved to the desired formats like PDF, JPEG, HTML, and others  
 
 ```
