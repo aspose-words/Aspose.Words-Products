@@ -277,12 +277,12 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
     </li>
     <li>
      <b>
-      Text:
+      Fixed Layout:
      </b>
-     TXT
+     PDF
     </li>
     <li>
-     MOBI
+     MOBI, TXT
     </li>
    </ul>
   </div>
@@ -298,7 +298,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
      <b>
       Fixed Layout:
      </b>
-     PDF, PDF/A, XPS, OpenXPS, PostScript (PS)
+     PDF/A, XPS, OpenXPS, PostScript (PS)
     </li>
     <li>
      <b>
