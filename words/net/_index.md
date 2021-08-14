@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/pricing/words/net" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/pricing/words/net" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -119,7 +119,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Word Processing APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"/>
+  <img alt=".NET Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -223,7 +223,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"/>
+  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -331,7 +331,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C# Word Programming APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"/>
+  <img alt="C# Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -726,12 +726,12 @@ wfle.Save(dir + "merged.doc");</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -6,36 +6,36 @@ description: Read Write and Export Microsoft Word document formats from .NET Jav
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Word Documents on Any Platform" h2="Native APIs to create, edit, convert & print Word documents from any Desktop, Web or Mobile application." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words.png?v1.1" pfName="Aspose.Words" downloadUrl="https://downloads.aspose.com/words" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate Word Documents on Any Platform" h2="Native APIs to create, edit, convert & print Word documents from any Desktop, Web or Mobile application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words.svg" pfName="Aspose.Words" downloadUrl="https://downloads.aspose.com/words" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" productLink="/words/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" productLink="/words/net/" >}}
 Target .NET Framework, .NET Core & Xamarin platform to develop applications for Windows, iOS, macOS & Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title="Java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" productLink="/words/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" productLink="/words/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title="C++" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" productLink="/words/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productLink="/words/cpp/" >}}
 Add Word document processing capabilities to C++ applications developed on Windows platform.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title="Android via Java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" productLink="/words/android-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productLink="/words/android-java/" >}}
 Add document processing capabilities in your Android mobile applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title="SharePoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" productLink="/words/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productLink="/words/sharepoint/" >}}
 Convert and combine Word documents in SharePoint Services and SharePoint Servers.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title="Reporting Services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" productLink="/words/reporting-services" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title="Reporting Services" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productLink="/words/reporting-services/" >}}
 Export RDL and RDLC reports to Word and PDF from SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for" title="JasperReports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" productLink="/words/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productLink="/words/jasperreports/" >}}
 Export reports to Word and HTML formats from JasperReports or JasperServer.
 {{< /blocks/products/pf/product >}}
 

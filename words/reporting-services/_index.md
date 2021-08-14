@@ -10,7 +10,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="https://purchase.aspose.com/pricing/words/reporting-services" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/reportingservices" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="https://purchase.aspose.com/pricing/words/reporting-services" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -97,7 +97,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="RDL to Word Exporter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"/>
+  <img alt="RDL to Word Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -177,7 +177,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SSRS to Word Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"/>
+  <img alt="SSRS to Word Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -261,7 +261,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Rendering Extension" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"/>
+  <img alt="Word Rendering Extension" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -456,12 +456,12 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

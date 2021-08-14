@@ -10,7 +10,7 @@ description: Word processing library for mobile applications. Create Read Edit a
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/android-java" buyLink="https://purchase.aspose.com/pricing/words/android-java" docsLink="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" installationsDocsLink="https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#InstallAspose.WordsforAndroidviaJava-InstallAspose.WordsforAndroidviaJavafromMavenRepository" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/androidjava" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/android-java" buyLink="https://purchase.aspose.com/pricing/words/android-java" docsLink="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" installationsDocsLink="https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#InstallAspose.WordsforAndroidviaJava-InstallAspose.WordsforAndroidviaJavafromMavenRepository" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/androidjava" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -119,7 +119,7 @@ description: Word processing library for mobile applications. Create Read Edit a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Word Processing APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"/>
+  <img alt="Android Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -159,7 +159,7 @@ description: Word processing library for mobile applications. Create Read Edit a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Word Document Format APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"/>
+  <img alt="Android Word Document Format APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -270,7 +270,7 @@ description: Word processing library for mobile applications. Create Read Edit a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"/>
+  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -517,12 +517,12 @@ doc.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

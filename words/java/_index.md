@@ -10,7 +10,7 @@ description: Java Microsoft word files processing library to create read write m
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/pricing/words/java" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/pricing/words/java" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -97,7 +97,7 @@ description: Java Microsoft word files processing library to create read write m
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java APIs for Word Documents" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"/>
+  <img alt="Java APIs for Word Documents" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -140,7 +140,7 @@ description: Java Microsoft word files processing library to create read write m
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Word Processing API" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"/>
+  <img alt="Java Word Processing API" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -251,7 +251,7 @@ description: Java Microsoft word files processing library to create read write m
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs for Java" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"/>
+  <img alt="Word Document Manipulation APIs for Java" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -595,12 +595,12 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

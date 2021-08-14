@@ -10,7 +10,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/sharepoint" buyLink="https://purchase.aspose.com/pricing/words/sharepoint" docsLink="https://docs.aspose.com/words/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/sharepoint" buyLink="https://purchase.aspose.com/pricing/words/sharepoint" docsLink="https://docs.aspose.com/words/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -69,7 +69,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Word Document Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"/>
+  <img alt="SharePoint Word Document Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -140,7 +140,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document App for SharePoint" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"/>
+  <img alt="Word Document App for SharePoint" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -220,7 +220,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Document Format Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"/>
+  <img alt="SharePoint Document Format Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -392,12 +392,12 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png" sdkName="Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
