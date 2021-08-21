@@ -127,11 +127,7 @@ Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP pack
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DOCPREWORD60 into many other file formats including few listed below." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

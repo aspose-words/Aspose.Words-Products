@@ -113,11 +113,7 @@ A file with DOTM extension represents template file created with Microsoft Word 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert WORDML into many other file formats including few listed below." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

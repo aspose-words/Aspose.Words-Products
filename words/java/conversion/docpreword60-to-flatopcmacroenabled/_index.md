@@ -127,11 +127,7 @@ Office Open XML WordprocessingML Macro-Enabled Document stored in a flat XML fil
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DOCPREWORD60 into many other file formats including few listed below." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

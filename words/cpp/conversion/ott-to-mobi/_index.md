@@ -113,11 +113,7 @@ The MOBI file format is one of the most widely used ebook file format. The forma
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert OTT into many other file formats including few listed below." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
