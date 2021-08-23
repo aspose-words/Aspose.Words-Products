@@ -75,9 +75,6 @@ description: Sample Java conversion code for PDF format to MHTML file. Programme
 - Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 - Get latest version of Aspose.Words for Java directly from Maven.
 
-- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Get latest version of Aspose.Words for Java directly from Maven.
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java source code for PDF to MHTML Conversion" offSpacer="" %}}

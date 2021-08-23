@@ -76,9 +76,6 @@ description: Sample Java conversion code for DOCPREWORD60 format to PNG file. Pr
 - Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 - Get latest version of Aspose.Words for Java directly from Maven.
 
-- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Get latest version of Aspose.Words for Java directly from Maven.
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java source code for DOCPREWORD60 to PNG Conversion" offSpacer="" %}}
