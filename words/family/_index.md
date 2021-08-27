@@ -63,6 +63,6 @@ Export reports to Word and HTML formats from JasperReports or JasperServer.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words" pricingInformationLink="https://purchase.aspose.com/pricing/words" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words" pricingInformationLink="https://purchase.aspose.com/pricing/words/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
