@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-net.png" pfName="Aspose.Words" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/words/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-net.svg" pfName="Aspose.Words" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for .NET" >}}
 

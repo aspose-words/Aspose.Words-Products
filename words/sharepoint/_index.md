@@ -6,7 +6,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint Solution for Microsoft Word Files" h2="Combine and convert Word documents into multiple formats. Generate Reports from various sources within SharePoint applications." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-sharepoint.png" pfName="Aspose.Words" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/words/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint Solution for Microsoft Word Files" h2="Combine and convert Word documents into multiple formats. Generate Reports from various sources within SharePoint applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-sharepoint.svg" pfName="Aspose.Words" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/words/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for SharePoint" >}}
 
@@ -158,7 +158,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for SharePoint supports many popular [Word Processing file formats](https://docs.aspose.com/words/sharepoint/supported-document-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for SharePoint supports many popular [Word Processing file formats](https://docs.aspose.com/words/sharepoint/supported-document-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">

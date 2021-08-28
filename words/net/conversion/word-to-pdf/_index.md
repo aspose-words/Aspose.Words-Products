@@ -239,7 +239,7 @@ doc.Save("output.pdf", saveOptions);
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/agp/faq imgSrc="https://www.aspose.com/templates/brand/images/words/aspose_words-brand.png" >}}
+{{< blocks/products/pf/agp/faq imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-brand.svg" >}}
 
     {{< blocks/products/pf/agp/faq-item question="How can I get the Aspose.Words DLL?" answer="Simply execute Install-Package Aspose.Words in Package Manager console of Visual Studio or get it from [Downloads](https://downloads.aspose.com/words/net) in MSI or ZIP formats." >}}
     {{< blocks/products/pf/agp/faq-item question="What Word file formats are supported?" answer="Supported formats include DOC, DOCX, DOCM, XLSB, DOT, DOTX, RFT, WordML as well as HTML, ODT, OTT & TXT." >}}

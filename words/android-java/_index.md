@@ -6,7 +6,7 @@ description: Word processing library for mobile applications. Create Read Edit a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Word Document Processing Android APIs" h2="Generate, Manipulate, Convert and Render documents from within Android apps without depending upon Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-android.png" pfName="Aspose.Words" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/words/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Word Document Processing Android APIs" h2="Generate, Manipulate, Convert and Render documents from within Android apps without depending upon Microsoft Word." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-android-java.svg" pfName="Aspose.Words" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/words/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Android via Java" >}}
 

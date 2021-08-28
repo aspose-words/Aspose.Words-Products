@@ -6,7 +6,7 @@ description: Export reports from Jasper Reports and JasperServer in Word DOC Off
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Word Format" h2="Export reports to Word and HTML formats from JasperReports and JasperServer." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-jasperreports.png" pfName="Aspose.Words" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/words/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Word Format" h2="Export reports to Word and HTML formats from JasperReports and JasperServer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-jasperreports.svg" pfName="Aspose.Words" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/words/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for JasperReports" >}}
 
@@ -126,7 +126,7 @@ description: Export reports from Jasper Reports and JasperServer in Word DOC Off
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for JasperReports supports the most popular Word processing, text and web [file formats](https://docs.aspose.com/words/jasperreports/supported-document-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for JasperReports supports the most popular Word processing, text and web [file formats](https://docs.aspose.com/words/jasperreports/supported-document-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">

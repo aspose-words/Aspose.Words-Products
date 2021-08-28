@@ -6,7 +6,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SSRS Extension to Deliver Reports in Word Formats" h2="Export RDL and RDLC reports in Word document formats from SQL Server Reporting Services." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-ssrs.png" pfName="Aspose.Words" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/words/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="SSRS Extension to Deliver Reports in Word Formats" h2="Export RDL and RDLC reports in Word document formats from SQL Server Reporting Services." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-reporting-services.svg" pfName="Aspose.Words" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/words/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Reporting Services" >}}
 
@@ -195,7 +195,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Reporting Services allows output to business-critical word processing and meta language [file formats](https://docs.aspose.com/words/reportingservices/supported-document-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Reporting Services allows output to business-critical word processing and meta language [file formats](https://docs.aspose.com/words/reportingservices/supported-document-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">

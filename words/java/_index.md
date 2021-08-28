@@ -6,7 +6,7 @@ description: Java Microsoft word files processing library to create read write m
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Word Document Manipulation APIs" h2="Develop Java application with the ability to create, process, convert or render Word files to multiple formats." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words-for-java.png" pfName="Aspose.Words" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Word Document Manipulation APIs" h2="Develop Java application with the ability to create, process, convert or render Word files to multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-java.svg" pfName="Aspose.Words" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/words/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
@@ -158,7 +158,7 @@ description: Java Microsoft word files processing library to create read write m
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Java supports the most popular [Word Processing document formats](https://docs.aspose.com/words/java/supported-document-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Java supports the most popular [Word Processing document formats](https://docs.aspose.com/words/java/supported-document-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

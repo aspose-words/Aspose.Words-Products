@@ -6,7 +6,7 @@ description: C++ Word document processing library to add file manipulation capab
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/words/header/aspose_words_for-cpp.png" pfName="Aspose.Words" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-cpp.svg" pfName="Aspose.Words" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for C++" >}}
 
@@ -108,7 +108,7 @@ description: C++ Word document processing library to add file manipulation capab
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/words/cpp/installation/#system-requirements)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/words/cpp/installation/#system-requirements)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -154,7 +154,7 @@ description: C++ Word document processing library to add file manipulation capab
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for C++ supports most popular [Word Processing file formats](https://docs.aspose.com/words/cpp/supported-document-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for C++ supports most popular [Word Processing file formats](https://docs.aspose.com/words/cpp/supported-document-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

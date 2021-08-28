@@ -6,7 +6,7 @@ description: Create Word documents manipulation applications using On Premise or
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Word File Format Solution" h2="Aspose.Words provide the most complete and efficient set of Word document processing solution without any Microsoft Word dependencies." logoImageSrc="https://www.aspose.com/templates/brand/images/words/aspose_words-brand.png" imageAlt="Aspose.Words Product Family" subTitlepfName="Aspose.Words">}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Word File Format Solution" h2="Aspose.Words provide the most complete and efficient set of Word document processing solution without any Microsoft Word dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-brand.svg" imageAlt="Aspose.Words Product Family" subTitlepfName="Aspose.Words">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words On Premise APIs Include" >}}
