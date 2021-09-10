@@ -10,7 +10,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="https://purchase.aspose.com/pricing/words/reporting-services" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/reportingservices" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

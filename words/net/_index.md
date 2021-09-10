@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/pricing/words/net" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

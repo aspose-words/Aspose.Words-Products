@@ -10,7 +10,7 @@ description: Java Microsoft word files processing library to create read write m
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/pricing/words/java" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

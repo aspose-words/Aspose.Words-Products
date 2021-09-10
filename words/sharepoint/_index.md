@@ -10,7 +10,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/sharepoint" buyLink="https://purchase.aspose.com/pricing/words/sharepoint" docsLink="https://docs.aspose.com/words/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

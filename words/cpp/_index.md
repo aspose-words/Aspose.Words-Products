@@ -10,7 +10,7 @@ description: C++ Word document processing library to add file manipulation capab
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/cpp" buyLink="https://purchase.aspose.com/pricing/words/cpp" docsLink="https://docs.aspose.com/words/cpp/" installationsDocsLink="https://docs.aspose.com/words/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words.cpp" nugetPackageName="Aspose.Words.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/cpp/" installationsDocsLink="https://docs.aspose.com/words/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words.cpp" nugetPackageName="Aspose.Words.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
