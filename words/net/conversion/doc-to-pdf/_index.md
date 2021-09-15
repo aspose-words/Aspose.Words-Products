@@ -2,7 +2,7 @@
 title: Convert DOC to PDF via C# 
 weight: 7690
 url: /net/conversion/doc-to-pdf/ 
-description: Sample code for DOC to PDF C# conversion. Use API for Batch DOC Files to PDF conversion within VB.NET, Asp.NET or any .NET based application.
+description: C# Sample code for DOC to PDF conversion. Use this code for batch DOC files to PDF conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Words
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Words makes it easy for the developers to load & convert DOC files to PDF in just a few lines of code.
+ It is easy for the developers to load & convert DOC files to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -53,7 +53,7 @@ PM> Install-Package Aspose.Words
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Words for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Used API for this source code is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,9 +67,9 @@ PM> Install-Package Aspose.Words
 
 ```cs
 // load DOC with an instance of Document
-var document = new Aspose.Words.Document("template.doc");
+var document = new Document("template.doc");
 // call Save method while passing SaveFormat.PDF
-document.Save("output.pdf", Aspose.Words.SaveFormat.Pdf); 
+document.Save("output.pdf", SaveFormat.Pdf); 
 
 ```
 
