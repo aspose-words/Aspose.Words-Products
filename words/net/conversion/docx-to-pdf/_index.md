@@ -6,8 +6,9 @@ description: On-Premise APIs for Document Manipulation via .NET Framework, .NET 
 family: Words
 platform: .NET
 platformtag: net
-informat: DOC
+informat: DOCX
 outformat: PDF
+otherformats: XPS MOBi HTML MHTML MG ODT PS RTF DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
