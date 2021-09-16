@@ -39,13 +39,15 @@ PM> Install-Package Aspose.Words
 
 {{% blocks/products/pf/agp/text %}}
 
- It is easy for the developers to load & convert DOC files to PDF in just a few lines of code.
+ It is easy for the developers to load & convert DOC files to PDF programmatically in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load DOC file with an instance of Document class
-1.  Call the Save method with output file path & SaveFormat.Pdf as parameters
-1.  PDF file will be saved at the specified path
+1.  Include the namespace Aspose.Words in your class file
+1.  Create instance of Document class with input DOC file path location
+1.  Call the Save method with output PDF file path location & SaveFormat.Pdf as parameters
+1.  Save source code file, build and run the code.
+1.  PDF file will be created at the specified folder location
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
