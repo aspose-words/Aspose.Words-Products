@@ -8,7 +8,7 @@ platform: .NET
 platformtag: net
 informat: DOCX
 outformat: PDF
-otherformats: XPS MOBi HTML MHTML MD ODT PS RTF
+otherformats: XPS DOC HTML MHTML MD ODT PS RTF
 feature: Conversion
 ---
 
