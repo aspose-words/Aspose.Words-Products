@@ -11,19 +11,19 @@ description: Create Word documents manipulation applications using On Premise or
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" productLink="https://products.aspose.com/words/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" productLink="https://products.aspose.com/words/net/" >}}
 On Premise .NET APIs to manipulate Microsoft Word document formats within Windows, Web, iOS & Android based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" productLink="https://products.aspose.com/words/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" productLink="https://products.aspose.com/words/java/" >}}
 Java-based platform APIs to create, modify, render or parse Microsoft Word files, Web, Text and OpenOffice documents directly within applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productLink="https://products.aspose.com/words/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productLink="https://products.aspose.com/words/cpp/" >}}
 Create, load, manipulate, or convert Microsoft Word and word processing formats within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/words/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/words/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
