@@ -13,7 +13,7 @@ description: Convert Microsoft Word files to different formats including PDF, HT
 
 {{% blocks/products/pf/agp/content h2="Microsoft Word Formats Conversion" %}}
 
-Automate your document management systems by utilizing the highest quality optimized code for professional conversions of to and from any Microsoft Office, OpenOffice formats. Aspose provides stand alone .NET based APIs for integration without the need of additional software like Microsoft Office, OpenOffice or Adobe Acrobat. 
+It is easy for the developers to convert Word files with speed and accuracy. Get the results within no time. Converted file content and formatting will be the same as of the original document. Automate your document management systems by utilizing the highest quality optimized code for professional conversions of to and from any Microsoft Office, OpenOffice formats. Aspose provides stand alone .NET based APIs for integration without the need of additional software like Microsoft Office, OpenOffice or Adobe Acrobat. 
 
 If any existing document processing system needs the conversion feature or someone building the new system with this feature, Aspose APIs are the right soultion for converting Word, Excel, PDF, PowerPoint files to many popular formats. Just integrate the API source code within the system and get the benefits of all features including document conversion, merging etc.
 
@@ -22,12 +22,6 @@ If any existing document processing system needs the conversion feature or someo
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to convert JPG, PDF, Word and other formats" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- It is easy for the developers to convert Word files with speed and accuracy. Get the results within no time. Converted file content and formatting will be the same as of the original document.
-
-{{% /blocks/products/pf/agp/text %}}
 
 1.  Include the namespace Aspose.Words in your class file
 1.  Create a conversion method
