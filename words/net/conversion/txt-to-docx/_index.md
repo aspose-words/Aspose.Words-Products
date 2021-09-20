@@ -116,30 +116,30 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-bmp" name="TXT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-doc" name="TXT TO DOC" description="Microsoft Word Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-docm" name="TXT TO DOCM" description="Microsoft Word 2007 Marco File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-dot" name="TXT TO DOT" description="Microsoft Word Template Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-dotm" name="TXT TO DOTM" description="Microsoft Word 2007+ Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-dotx" name="TXT TO DOTX" description="Microsoft Word Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-emf" name="TXT TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-epub" name="TXT TO EPUB" description="E-book Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-gif" name="TXT TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-html" name="TXT TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-jpeg" name="TXT TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-mhtml" name="TXT TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-mobi" name="TXT TO MOBI" description="Open Ebook Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-odt" name="TXT TO ODT" description="OpenDocument Text File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-ott" name="TXT TO OTT" description="OpenDocument Standard Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-pcl" name="TXT TO PCL" description="Printer Command Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-pdf" name="TXT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-pdfa" name="TXT TO PDFA" description="{{pdfa_name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-png" name="TXT TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-ps" name="TXT TO PS" description="PostScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-rtf" name="TXT TO RTF" description="Rich Text Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-svg" name="TXT TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-tiff" name="TXT TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-xps" name="TXT TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-bmp/" name="TXT TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-doc/" name="TXT TO DOC" description="Microsoft Word Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-docm/" name="TXT TO DOCM" description="Microsoft Word 2007 Marco File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-dot/" name="TXT TO DOT" description="Microsoft Word Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-dotm/" name="TXT TO DOTM" description="Microsoft Word 2007+ Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-dotx/" name="TXT TO DOTX" description="Microsoft Word Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-emf/" name="TXT TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-epub/" name="TXT TO EPUB" description="E-book Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-gif/" name="TXT TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-html/" name="TXT TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-jpeg/" name="TXT TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-mhtml/" name="TXT TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-mobi/" name="TXT TO MOBI" description="Open Ebook Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-odt/" name="TXT TO ODT" description="OpenDocument Text File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-ott/" name="TXT TO OTT" description="OpenDocument Standard Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-pcl/" name="TXT TO PCL" description="Printer Command Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-pdf/" name="TXT TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-pdfa/" name="TXT TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-png/" name="TXT TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-ps/" name="TXT TO PS" description="PostScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-rtf/" name="TXT TO RTF" description="Rich Text Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-svg/" name="TXT TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-tiff/" name="TXT TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/txt-to-xps/" name="TXT TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
