@@ -135,29 +135,29 @@ Text files created with Markdown language dialects is saved with .MD or .MARKDOW
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DOC into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-bmp" name="DOC TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-docm" name="DOC TO DOCM" description="Microsoft Word 2007 Marco File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-docx" name="DOC TO DOCX" description="Office 2007+ Words Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-dot" name="DOC TO DOT" description="Microsoft Word Template Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-dotm" name="DOC TO DOTM" description="Microsoft Word 2007+ Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-dotx" name="DOC TO DOTX" description="Microsoft Word Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-emf" name="DOC TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-epub" name="DOC TO EPUB" description="E-book Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-gif" name="DOC TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-html" name="DOC TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-jpeg" name="DOC TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-mhtml" name="DOC TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-odt" name="DOC TO ODT" description="OpenDocument Text File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-ott" name="DOC TO OTT" description="OpenDocument Standard Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-pcl" name="DOC TO PCL" description="Printer Command Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-pdf" name="DOC TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-png" name="DOC TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-ps" name="DOC TO PS" description="PostScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-rtf" name="DOC TO RTF" description="Rich Text Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-svg" name="DOC TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-tiff" name="DOC TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-txt" name="DOC TO TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-xps" name="DOC TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-bmp/" name="DOC TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-docm/" name="DOC TO DOCM" description="Microsoft Word 2007 Marco File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-docx/" name="DOC TO DOCX" description="Office 2007+ Words Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-dot/" name="DOC TO DOT" description="Microsoft Word Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-dotm/" name="DOC TO DOTM" description="Microsoft Word 2007+ Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-dotx/" name="DOC TO DOTX" description="Microsoft Word Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-emf/" name="DOC TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-epub/" name="DOC TO EPUB" description="E-book Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-gif/" name="DOC TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-html/" name="DOC TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-jpeg/" name="DOC TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-mhtml/" name="DOC TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-odt/" name="DOC TO ODT" description="OpenDocument Text File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-ott/" name="DOC TO OTT" description="OpenDocument Standard Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-pcl/" name="DOC TO PCL" description="Printer Command Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-pdf/" name="DOC TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-png/" name="DOC TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-ps/" name="DOC TO PS" description="PostScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-rtf/" name="DOC TO RTF" description="Rich Text Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-svg/" name="DOC TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-tiff/" name="DOC TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-txt/" name="DOC TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/doc-to-xps/" name="DOC TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

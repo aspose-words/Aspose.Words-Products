@@ -135,29 +135,29 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-bmp" name="MHTML TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-doc" name="MHTML TO DOC" description="Microsoft Word Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-docm" name="MHTML TO DOCM" description="Microsoft Word 2007 Marco File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-dot" name="MHTML TO DOT" description="Microsoft Word Template Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-dotm" name="MHTML TO DOTM" description="Microsoft Word 2007+ Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-dotx" name="MHTML TO DOTX" description="Microsoft Word Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-emf" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-epub" name="MHTML TO EPUB" description="E-book Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-gif" name="MHTML TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-html" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-jpeg" name="MHTML TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-md" name="MHTML TO MD" description="Markdown Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-odt" name="MHTML TO ODT" description="OpenDocument Text File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-ott" name="MHTML TO OTT" description="OpenDocument Standard Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-pcl" name="MHTML TO PCL" description="Printer Command Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-pdf" name="MHTML TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-png" name="MHTML TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-ps" name="MHTML TO PS" description="PostScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-rtf" name="MHTML TO RTF" description="Rich Text Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-svg" name="MHTML TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-tiff" name="MHTML TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-txt" name="MHTML TO TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-xps" name="MHTML TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-bmp/" name="MHTML TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-doc/" name="MHTML TO DOC" description="Microsoft Word Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-docm/" name="MHTML TO DOCM" description="Microsoft Word 2007 Marco File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-dot/" name="MHTML TO DOT" description="Microsoft Word Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-dotm/" name="MHTML TO DOTM" description="Microsoft Word 2007+ Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-dotx/" name="MHTML TO DOTX" description="Microsoft Word Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-emf/" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-epub/" name="MHTML TO EPUB" description="E-book Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-gif/" name="MHTML TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-html/" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-jpeg/" name="MHTML TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-md/" name="MHTML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-odt/" name="MHTML TO ODT" description="OpenDocument Text File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-ott/" name="MHTML TO OTT" description="OpenDocument Standard Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-pcl/" name="MHTML TO PCL" description="Printer Command Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-pdf/" name="MHTML TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-png/" name="MHTML TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-ps/" name="MHTML TO PS" description="PostScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-rtf/" name="MHTML TO RTF" description="Rich Text Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-svg/" name="MHTML TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-tiff/" name="MHTML TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-txt/" name="MHTML TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/mhtml-to-xps/" name="MHTML TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

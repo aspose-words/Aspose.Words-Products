@@ -135,29 +135,29 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert OTT into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-bmp" name="OTT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-doc" name="OTT TO DOC" description="Microsoft Word Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-docm" name="OTT TO DOCM" description="Microsoft Word 2007 Marco File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-dot" name="OTT TO DOT" description="Microsoft Word Template Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-dotm" name="OTT TO DOTM" description="Microsoft Word 2007+ Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-dotx" name="OTT TO DOTX" description="Microsoft Word Template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-emf" name="OTT TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-epub" name="OTT TO EPUB" description="E-book Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-gif" name="OTT TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-html" name="OTT TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-jpeg" name="OTT TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-md" name="OTT TO MD" description="Markdown Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-mhtml" name="OTT TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-odt" name="OTT TO ODT" description="OpenDocument Text File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-pcl" name="OTT TO PCL" description="Printer Command Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-pdf" name="OTT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-png" name="OTT TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-ps" name="OTT TO PS" description="PostScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-rtf" name="OTT TO RTF" description="Rich Text Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-svg" name="OTT TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-tiff" name="OTT TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-txt" name="OTT TO TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-xps" name="OTT TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-bmp/" name="OTT TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-doc/" name="OTT TO DOC" description="Microsoft Word Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-docm/" name="OTT TO DOCM" description="Microsoft Word 2007 Marco File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-dot/" name="OTT TO DOT" description="Microsoft Word Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-dotm/" name="OTT TO DOTM" description="Microsoft Word 2007+ Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-dotx/" name="OTT TO DOTX" description="Microsoft Word Template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-emf/" name="OTT TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-epub/" name="OTT TO EPUB" description="E-book Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-gif/" name="OTT TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-html/" name="OTT TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-jpeg/" name="OTT TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-md/" name="OTT TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-mhtml/" name="OTT TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-odt/" name="OTT TO ODT" description="OpenDocument Text File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-pcl/" name="OTT TO PCL" description="Printer Command Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-pdf/" name="OTT TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-png/" name="OTT TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-ps/" name="OTT TO PS" description="PostScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-rtf/" name="OTT TO RTF" description="Rich Text Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-svg/" name="OTT TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-tiff/" name="OTT TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-txt/" name="OTT TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/java/conversion/ott-to-xps/" name="OTT TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
