@@ -119,7 +119,7 @@ Files with .EPUB extension are an e-book file format that provide a standard dig
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert WORDML into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="" name="" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/" name="" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
