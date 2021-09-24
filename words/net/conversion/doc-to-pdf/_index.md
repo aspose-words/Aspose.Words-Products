@@ -2,7 +2,7 @@
 title: Convert DOC to PDF via C# 
 weight: 7690
 url: /net/conversion/doc-to-pdf/ 
-description: C# Sample code for DOC to PDF conversion. Use this code for batch DOC files to PDF conversion within VB.NET, Asp.NET or any .NET based application.
+description: C# Sample code for DOC to PDF conversion. Use this code for batch Word to PDF conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -15,11 +15,7 @@ description: C# Sample code for DOC to PDF conversion. Use this code for batch D
 
  In order to convert DOC to PDF, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.words) 
- package manager, search for
- **Aspose.Words** 
- and install. You may also use the following command from the Package Manager Console.
+ API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.words) package manager, search for Aspose.Words and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -43,7 +39,7 @@ PM> Install-Package Aspose.Words
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Include the namespace Aspose.Words in your class file
+1.  Include the namespace in your class file
 1.  Create instance of Document class with input DOC file path location
 1.  Call the Save method with output PDF file path location & SaveFormat.Pdf as parameters
 1.  Save source code file, build and run the code.
@@ -55,7 +51,7 @@ PM> Install-Package Aspose.Words
 
 {{% blocks/products/pf/agp/text %}}
 
- Used API for this source code is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ **Word DOC to PDF conversion** API for this source code is supported on all major operating systems. Just make sure that system have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -69,9 +65,9 @@ PM> Install-Package Aspose.Words
 
 ```cs
 // load DOC with an instance of Document
-var document = new Document("template.doc");
-// call Save method while passing SaveFormat.PDF
-document.Save("output.pdf", SaveFormat.Pdf); 
+var doc_file = new Document("sourFile.doc");
+// call Save method while passing target file path and SaveFormat.PDF
+doc_file.Save("output.pdf", SaveFormat.Pdf); 
 
 ```
 
