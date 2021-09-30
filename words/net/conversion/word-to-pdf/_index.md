@@ -41,9 +41,9 @@ description: Convert Word DOC DOCX DOCM DOT RTF ODT OTT & other formats to PDF v
 ```cs
 
 // load the document from disk
-var doc = new Aspose.Words.Document("word.doc");
+var doc = new Document("word.doc");
 // save in PDF format
-doc.Save("output.pdf", Aspose.Words.SaveFormat.Pdf);
+doc.Save("output.pdf", SaveFormat.Pdf);
 
 ```
 
@@ -83,7 +83,7 @@ doc.Save("output.pdf", Aspose.Words.SaveFormat.Pdf);
 
 ```cs
 // load the document from disk
-var doc = new Aspose.Words.Document("word.doc");
+var doc = new Document("word.doc");
 // create an instance of PdfSaveOptions
 var saveOptions = new Aspose.Words.Saving.PdfSaveOptions();
 // disallow all operations
@@ -132,7 +132,7 @@ doc.Save("output.pdf", saveOptions);
 
 ```cs
 // load the document from disk
-var doc = new Aspose.Words.Document("word.docx");
+var doc = new Document("word.docx");
 // create an instance of PdfSaveOptions
 var saveOptions = new Aspose.Words.Saving.PdfSaveOptions();
 // set document's pages to export in PDF
@@ -178,7 +178,7 @@ doc.Save("output.pdf", saveOptions);
 
 ```cs
 // load the document from disk
-var doc = new Aspose.Words.Document("word.doc");
+var doc = new Document("word.doc");
 // create an instance of PdfSaveOptions
 var saveOptions = new Aspose.Words.Saving.PdfSaveOptions();
 // set image compression type to control the quality of all images
@@ -225,7 +225,7 @@ doc.Save("output.pdf", saveOptions);
 
 ```cs
 // load the document from disk
-var doc = new Aspose.Words.Document("word.doc");
+var doc = new Document("word.doc");
 // create an instance of PdfSaveOptions
 var saveOptions = new Aspose.Words.Saving.PdfSaveOptions();
 // set PDF compliance 
