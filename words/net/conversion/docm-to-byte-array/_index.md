@@ -20,7 +20,7 @@ description: C# Sample code for DOCM to Byte Array conversion. Use this code for
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert DOCM to PDF via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert DOCM to Byte Array via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -89,7 +89,7 @@ load_docm.Save("output.docm", SaveFormat.Docm);
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
-A Document Processing Library to perform a wide range of document management and manipulation tasks including DOCM generation, editing, conversion, rendering and printing. .NET Word API supports all of word-processing formats as well as allows exporting or converting DOCM to PDF, HTMl, fixed-layout and most commonly used image & multimedia formats.
+A Document Processing Library to perform a wide range of document management and manipulation tasks including DOCM generation, editing, conversion, rendering and printing. .NET Word API supports all of word-processing formats as well as allows exporting or **converting DOCM to PDF**, HTML, fixed-layout and most commonly used image & multimedia formats.
 
 
 

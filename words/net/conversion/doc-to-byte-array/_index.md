@@ -20,7 +20,7 @@ description: C# Sample code for DOC to Byte Array conversion. Use this code for 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert DOC to PDF via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert DOC to Byte Array via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -89,7 +89,7 @@ load_doc.Save("output.doc", SaveFormat.Doc);
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
-A Document Processing Library to perform a wide range of document management and manipulation tasks including DOC generation, editing, conversion, rendering and printing. .NET Word API supports all of word-processing formats as well as allows exporting or converting DOC to PDF, HTMl, fixed-layout and most commonly used image & multimedia formats.
+A Document Processing Library to perform a wide range of document management and manipulation tasks including DOC generation, editing, conversion, rendering and printing. .NET Word API supports all of word-processing formats as well as allows exporting or **converting DOC to PDF**, HTML, fixed-layout and most commonly used image & multimedia formats.
 
 
 
