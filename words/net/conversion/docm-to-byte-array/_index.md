@@ -34,7 +34,7 @@ description: C# Sample code for DOCM to Byte Array conversion. Use this code for
 1.  Convert stream data to byte array
 1.  Process data as of your requirement
 1.  To convert byte array to DOCM, Load byte array to MemoryStream
-1.  Load stread into Document Object
+1.  Load stream into Document Object
 1.  Use Save method with output file path and SaveFormat.Docm 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,7 +52,7 @@ description: C# Sample code for DOCM to Byte Array conversion. Use this code for
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows DOCM to PDF C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="This sample code shows DOCM to byte array C# Conversion" offSpacer="" %}}
 
 ```cs
 // Create instance and load the DOCM file from disk.

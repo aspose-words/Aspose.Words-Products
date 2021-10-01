@@ -34,7 +34,7 @@ description: C# Sample code for DOT to Byte Array conversion. Use this code for 
 1.  Convert stream data to byte array
 1.  Process data as of your requirement
 1.  To convert byte array to DOT, Load byte array to MemoryStream
-1.  Load stread into Document Object
+1.  Load stream into Document Object
 1.  Use Save method with output file path and SaveFormat.Dot 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,7 +52,7 @@ description: C# Sample code for DOT to Byte Array conversion. Use this code for 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows DOT to PDF C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="This sample code shows DOT to byte array C# Conversion" offSpacer="" %}}
 
 ```cs
 // Create instance and load the DOT file from disk.
