@@ -2,7 +2,7 @@
 title: On Premise, Cloud & App Based Microsoft Word File Format Solution 
 weight: 9630
 url: /
-description: Create Word documents manipulation applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert Word files
+description: Create Word documents manipulation applications using On Premise or Cloud APIs or simply use cross-platform apps to view compare inspect or convert Word files
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
