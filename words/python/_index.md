@@ -12,10 +12,12 @@ description: Python library to work with Word and PDF files. Create, edit, conve
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://docs.aspose.com/words/python/licensing/#purchased-license" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/python/" installationsDocsLink="https://docs.aspose.com/words/python/installation/" >}}
 
+{{< blocks/products/pf/tab-content >}}
+
 <p>With the advent of powerful computer hardware in the last decades, Python has become a popular programming language widely used in web development (Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with an incredible number of extensive libraries, Python is considered to be a good choice for rapid software development.</p>
 
 <p>Aspose.Words decided to keep up in the line with the latest programming trends and provide Python developers with a professional instrument to work with DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XAML files.</p>
-<h2 class="h2title">What you can do the our Python library</h2>
+<h2 class="h2title">What you can do with Aspose.Words Python for .NET</h2>
 
 <p><strong>Aspose.Words for Python</strong> is a package, designed to open and manipulate documents of various types, with a primary focus on Microsoft Word, PDF, and Web documents. It provides a possibility to implement script-based office automation. Our library contains more than 100 programmatic types to handle low-level operations behind document processing and data formatting.</p>
 
@@ -45,11 +47,11 @@ description: Python library to work with Word and PDF files. Create, edit, conve
   <li>Work with metadata that provides information about authors, date of creation, editing time, etc.</li>
 </ul>
 
-<h2 class="h2title">Build Reports and Use Mail Merge in Python</h2>
+<h2 class="h2title">Build reports and use Mail Merge in Python</h2>
 
 <p>You can generate reports based on templates and data sources in JSON and XML formats. You can also use this feature to create bulk email, letters, envelopes, and labels. In the current version, only basic Mail Merge functionality is supported. </p>
 
-<h2 class="h2title">Split, Merge, Compare documents in Python</h2>
+<h2 class="h2title">Split, merge, compare documents in Python</h2>
 
 <p>You can use a powerful set of utility functions:</p>
 
@@ -114,6 +116,8 @@ doc = aw.Document("Input.docx")
 doc.save("Output.pdf")
 </code>
 </pre>
+
+{{< /blocks/products/pf/tab-content >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
