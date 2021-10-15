@@ -85,7 +85,6 @@ load_docm.Save("output.docm", SaveFormat.Docm);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -104,7 +103,6 @@ DOCM files are Microsoft Word 2007 or higher generated documents with the abilit
 
            {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

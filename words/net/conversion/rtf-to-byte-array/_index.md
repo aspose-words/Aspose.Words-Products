@@ -84,8 +84,6 @@ load_rtf.Save("output.rtf", SaveFormat.Rtf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -103,8 +101,6 @@ Introduced and documented by Microsoft, the Rich Text Format (RTF) represents a 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
            {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
