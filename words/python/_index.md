@@ -14,46 +14,46 @@ description: Python library to work with Word and PDF files. Create, edit, conve
 
 {{< blocks/products/pf/tab-content >}}
 
-<p>With the advent of powerful computer hardware in the last decades, Python has become a popular programming language widely used in web development (Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with an incredible number of extensive libraries, Python is considered to be a good choice for rapid software development.</p>
+<p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (together with popular Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with enormous amount of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
 
-<p>Aspose.Words decided to keep up in the line with the latest programming trends and provide Python developers with a professional instrument to work with DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XAML files.</p>
-<h2 class="h2title">What you can do with Aspose.Words Python for .NET</h2>
+<p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python is considered to be a programming language number one.
 
-<p><strong>Aspose.Words for Python</strong> is a package, designed to open and manipulate documents of various types, with a primary focus on Microsoft Word, PDF, and Web documents. It provides a possibility to implement script-based office automation. Our library contains more than 100 programmatic types to handle low-level operations behind document processing and data formatting.</p>
+<p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
 
-<p>Core features:</p>
+<h2 class="h2title">Functionality of Aspose.Words for Python via .NET</h2>
+
+<p><strong>Aspose.Words for Python via .NET</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. This product enables Python developers a unique possibility to implement script-based document automation. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting.</p>
+
+<p>It's a self-contained Python library - you don't require to install any office suite to get your Python code working. This Python API relies on the "Document Object Model" (DOM) to access document nodes and elements.</p>
+
+{{< /blocks/products/pf/tab-content >}}
+
+<h3 class="h3title">Create and modify Word documents in Python</h2>
 
 <ul>
-  <li>A self-contained Python library. You don't require to install an office suite to get your Python code working</li>
-  <li>Relies on the "Document Object Model" (DOM) to access document nodes and elements</li>
-</ul>
-
-<h2 class="h2title">Create and modify Word documents in Python</h2>
-
-<ul>
-  <li>Work with major industry-standard file formats</li>
+  <li>Work with major industry-standard document and image formats</li>
   <li>Create new documents as well as make changes to existing ones</li>
   <li>Generate PDF using Python by specifying the output format when saving the document</li>
 </ul>
 
-<h2 class="h2title">Read, convert and write documents in Python</h2>
+<h3 class="h3title">Read, write and convert documents using Python</h2>
 
 <ul>
-  <li>Access and manipulate text, paragraphs, tables, images, sections, headers, footers, lists, fields, OLE objects</li>
+  <li>Access and manipulate document elements programmatically: text, paragraphs, tables, images, sections, headers, footers, lists, fields, OLE objects</li>
   <li>Specify formatting and styling of any complexity</li>
-  <li>Render document’s structure, content, and style to a print-ready representation</li>
-  <li>Save document pages as images, i.e. JPG, PNG, GIF, EMF files</li>
-  <li>Add watermark to documents and remove it</li>
-  <li>Work with metadata that provides information about authors, date of creation, editing time, etc.</li>
+  <li>Render document's content to a print-ready representation</li>
+  <li>Save document pages as images: JPG, PNG, GIF, EMF pictures</li>
+  <li>Add watermark to documents or remove it</li>
+  <li>Edit document's metadata that stores information about date of creation, editing time, etc.</li>
 </ul>
 
-<h2 class="h2title">Build reports and use Mail Merge in Python</h2>
+<h3 class="h3title">Build reports, Mail Merge in Python</h2>
 
-<p>You can generate reports based on templates and data sources in JSON and XML formats. You can also use this feature to create bulk email, letters, envelopes, and labels. In the current version, only basic Mail Merge functionality is supported. </p>
+<p>You can generate custom reports based on templates and data sources in JSON and XML formats. Use this powerful feature to create bulk email, letters, envelopes, and labels. In current version, only basic Reporting/Mail Merge features are supported.</p>
 
-<h2 class="h2title">Split, merge, compare documents in Python</h2>
+<h3 class="h3title">Split, merge, compare documents with Python</h2>
 
-<p>You can use a powerful set of utility functions:</p>
+<p>You can use a powerful set of utility functions that are rarely available in common office suites, like Microsoft Word, LibreOffice, OpenOffice, WPS Office:</p>
 
 <ul>
   <li>Join several documents to a single file</li>
@@ -66,13 +66,13 @@ description: Python library to work with Word and PDF files. Create, edit, conve
 <h2 class="h2title">System Requirements</h2>
 
 <ul>
-  <li>Compatible with Python versions 3.5, 3.6, 3.7, 3.8 and 3.9</li>
-  <li>There are additional system requirements for Linux platform. See https://pypi.org/project/Aspose.Words-for-Python-via-NET/
+  <li>Compatible with Python 3.5, 3.6, 3.7, 3.8 and 3.9</li>
+  <li>In case you write Python code on Linux, have a look at [additional requirements for Linux](https://pypi.org/project/Aspose.Words-for-Python-via-NET/)<li>
 </ul>
 
 <h2 class="h2title">How to Install</h2>
 
-<p>Use <strong>pip</strong> to install our Python library for document processing from the Python Package Index (PyPI repository):
+<p>Use <strong>pip</strong> to install our Python library for Word document processing from the [PyPI repository](https://pypi.org/project/Aspose.Words-for-Python-via-NET/):
 
 <pre>
 <code>
@@ -80,9 +80,9 @@ pip install Aspose.Words-for-Python-via-NET
 </code>
 </pre>
 
-<h2 class="h2title">How to open and edit a DOCX document in Python</h2>
+<h2 class="h2title">Edit a Word document in Python</h2>
 
-The following code example in Python shows how to open a Word document, insert a text paragraph to it, and save the result as a PDF document:
+The following code example shows how to insert text to a document, and save the result as PDF:
 
 <pre>
 <code class="python">
@@ -93,35 +93,34 @@ doc = aw.Document()
 
 # Use a DocumentBuilder instance to add content to the document
 builder = aw.DocumentBuilder(doc)
-# Write a new paragraph to the document
+
+# Add a paragraph to the document
 builder.writeln("Hello World!")
 
-# Save the result as a PDF document. The output format is determined by the file extension.
+# Save the result as a PDF document. The output format is determined by the file extension
 doc.save("Output.pdf")
 </code>
 </pre>
 
 <h2 class="h2title">Convert a Word document in Python</h2>
 
-You can easily convert files from one format to another, extract text from documents. The following code sample shows how to convert Word to PDF in Python:
+You can easily convert files from one format to another. Do you know how to extract text from Word documents via Python? The following code sample shows how to do it with a single line of code by converting DOCX to HTML (or TXT):
 
 <pre>
 <code class="python">
 import aspose.words as aw
 
-# Load the document from the local drive
+# Load a document from the local drive
 doc = aw.Document("Input.docx")
 
-# Save the document to PDF format
-doc.save("Output.pdf")
+# Save the output as hypertext
+doc.save("Output.html")
 </code>
 </pre>
 
-{{< /blocks/products/pf/tab-content >}}
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/words/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/words/python/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-words/Aspose.Words-for-Python-via-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/words/net" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
