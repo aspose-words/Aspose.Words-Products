@@ -126,7 +126,7 @@ A file with DOTM extension represents template file created with Microsoft Word 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-          
+     {{< /blocks/products/pf/agp/about-file-section >}}     
 
 <!-- aboutfile Ends -->
 

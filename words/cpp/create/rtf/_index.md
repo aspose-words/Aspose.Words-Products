@@ -87,7 +87,7 @@ Introduced and documented by Microsoft, the Rich Text Format (RTF) represents a 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-          
+      {{< /blocks/products/pf/agp/about-file-section >}}    
 
 <!-- aboutfile Ends -->
 

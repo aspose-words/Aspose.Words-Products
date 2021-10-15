@@ -86,7 +86,7 @@ A Document Processing Library to perform a wide range of document creation, mana
 ODT files are type of documents created with word processing applications that are based on OpenDocument Text File format. These are created with word processor applications such as free OpenOffice Writer and can hold content such as text, images, objects and styles. The ODT file is to Writer word processor what the DOCX is to Microsoft Word. Several applications including Google Docs and Google&rsquo;s web-based word processor included with Google Drive can open the ODT files for editing. Microsoft Word can also open ODT files and save it in to other formats such as DOC and DOCX.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+{{< /blocks/products/pf/agp/about-file-section >}}
           
 
 <!-- aboutfile Ends -->

@@ -126,7 +126,7 @@ DOCM files are Microsoft Word 2007 or higher generated documents with the abilit
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-          
+   {{< /blocks/products/pf/agp/about-file-section >}}       
 
 <!-- aboutfile Ends -->
 
