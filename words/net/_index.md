@@ -13,13 +13,9 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks. API supports to generate, modify, convert, render and print files without utilizing Microsoft Word directly within cross-platform applications. Moreover, API supports all the popular formats as well as allows exporting or converting Word files to fixed-layout and most commonly used image/multimedia formats.
-</p>
+<p>Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks. API supports to generate, modify, convert, render and print files without utilizing Microsoft Word directly within cross-platform applications. Moreover, API supports all the popular formats as well as allows exporting or converting Word files to fixed-layout and most commonly used image/multimedia formats.</p>
 
-<p>
- By integrating API, some of the basic tasks developers can perform such as designing of fully-featured Microsoft Word reports having standard mail merge fields, reliable conversion between several popular formats, high fidelity rendering of pages, formatting of all document elements and more.
-</p>
+<p> By integrating Word API, developers can perform tasks such as designing fully-featured Microsoft Word reports using standard mail merge fields, reliable conversion between several popular formats, high fidelity rendering of pages, formatting of all document elements and more.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
