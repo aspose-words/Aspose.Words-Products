@@ -84,8 +84,6 @@ load_dot.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -103,8 +101,6 @@ Files with .DOT extension are template files created by Microsoft Word to have p
         {{< /blocks/products/pf/agp/about-file-text >}}
 
            {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

@@ -84,8 +84,6 @@ load_odt.Save("output.odt", SaveFormat.Odt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -103,8 +101,6 @@ ODT files are type of documents created with word processing applications that a
         {{< /blocks/products/pf/agp/about-file-text >}}
 
            {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
