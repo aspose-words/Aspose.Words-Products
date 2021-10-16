@@ -13,7 +13,7 @@ description: C# Sample code for creating template based DOTX documents. Use it f
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generating MS Word DOTX file dynamically from templates within running application is easy. In order to create Microsoft Word DOTX documents from scratch or just by populating the predefined Word templates without requiring MS Office, we’ll use
+ A template is a file with pre-applied formatting like tabs, styles, line spacing etc. Generating MS Word DOTX file dynamically from templates within running application is easy. In order to generate a batch of documents with the same structure based on the template without requiring MS Office, we’ll use
  [Aspose.Words for .NET](https://products.aspose.com/words/net) 
  API that offers different features for document creation, manipulation and conversion using .NET platform.  For populating the predefined Word template, we’ll create a Word DOTX file with the following placeholders as the content of the document: <code><<[sender.Name]>> says: "<<[sender.Message]>>."</code> where <code>sender</code> is the <code>Sender</code> class object that will be used to populate the template. Beside a predefine class like Sender in our case, One can also use XML and JSON data as a source data sources.
 {{% /blocks/products/pf/agp/content %}}
