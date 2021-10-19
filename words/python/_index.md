@@ -506,8 +506,8 @@ description: Python library to work with Microsoft Word files. Create edit conve
     </h2>
     <ul>
 	  <li>Compatible with Python 3.5, 3.6, 3.7, 3.8 and 3.9</li>
-	  <li>In case you write Python code on Linux, have a look at [additional requirements for Linux](https://docs.aspose.com/words/python/system-requirements/)<li>
-	</ul>
+	  <li>In case you write Python code on Linux, have a look at [additional requirements for Linux](https://docs.aspose.com/words/python/system-requirements/)</li>
+    </ul>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
