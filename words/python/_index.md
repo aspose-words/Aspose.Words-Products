@@ -94,9 +94,6 @@ description: Python library to work with Microsoft Word files. Create edit conve
      SVG
     </li>
     <li>
-     Printing
-    </li>
-    <li>
      HTMLFixed
     </li>
     <li>
