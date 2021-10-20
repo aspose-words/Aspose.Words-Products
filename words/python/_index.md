@@ -14,7 +14,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
 {{< blocks/products/pf/tab-content >}}
 <p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (together with popular Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with enormous amount of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
-<p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python is considered to be a programming language number one.
+<p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
 <p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
 <h2 class="h2title">Functionality of Aspose.Words for Python via .NET</h2>
 <p><strong>Aspose.Words for Python via .NET</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. This product enables Python developers a unique possibility to implement script-based document automation. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting.</p>
@@ -535,7 +535,7 @@ doc.save("Output.pdf")
      Convert a Word document in Python
     </h2>
     <p>
-     You can easily convert files from one format to another. Do you know how to extract text from Word documents via Python? The following code sample shows how to do it with a single line of code by converting DOCX to HTML (or any other supported save format):
+     You can easily convert files from one format to another. Do you know how to extract text from Word documents via Python? The following code sample shows how to do it with a single line of code by converting DOCX to HTML:
     </p>
 	<pre>
 <code class="python">
