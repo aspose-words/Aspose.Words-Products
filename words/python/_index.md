@@ -10,7 +10,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/python/" installationsDocsLink="https://docs.aspose.com/words/python/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/python" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/python/" installationsDocsLink="https://docs.aspose.com/words/python/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/python" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (together with popular Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with enormous amount of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
@@ -609,7 +609,7 @@ doc.save("Output.html")
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/python" pricingInformationLink="https://purchase.aspose.com/pricing/words/python" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/python" pricingInformationLink="https://purchase.aspose.com/pricing/words/python-net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
