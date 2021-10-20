@@ -14,17 +14,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
 {{< blocks/products/pf/tab-content >}}
 <p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (together with popular Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with enormous amount of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
-
 <p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python is considered to be a programming language number one.
-
 <p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
-
 <h2 class="h2title">Functionality of Aspose.Words for Python via .NET</h2>
-
 <p><strong>Aspose.Words for Python via .NET</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. This product enables Python developers a unique possibility to implement script-based document automation. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting.</p>
-
 <p>It's a self-contained Python library - you don't require to install any office suite to get your Python code working. This Python API relies on the "Document Object Model" (DOM) to access document nodes and elements.</p>
-
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -495,11 +489,6 @@ description: Python library to work with Microsoft Word files. Create edit conve
      Show revisions in balloons
     </p>
    </div>
-   
-   
-   
-   
-   
    <div class="col-lg-12">
     <h2 class="h2title">
      System Requirements
@@ -625,12 +614,12 @@ doc.save("Output.html")
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
 	{{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
