@@ -495,14 +495,14 @@ description: Python library to work with Microsoft Word files. Create edit conve
     </h2>
     <ul>
 	  <li>Compatible with Python 3.5, 3.6, 3.7, 3.8 and 3.9</li>
-	  <li>In case you write Python code on Linux, have a look at [additional requirements for Linux](https://docs.aspose.com/words/python/system-requirements/)</li>
+	  <li>In case you write Python code on Linux, have a look at <a href="https://docs.aspose.com/words/python/system-requirements/">additional requirements for Linux</a></li>
     </ul>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
      How to Install
     </h2>
-    <p>Use <strong>pip</strong> to install our Python library for Word document processing from the [PyPI repository](https://pypi.org/project/aspose-words/):
+    <p>Use <strong>pip</strong> to install our Python library for Word document processing from the <a href="https://pypi.org/project/aspose-words/">PyPI repository</a>:
 	<pre><code>pip install aspose-words</code></pre>
    </div>
    <div class="col-lg-12">
