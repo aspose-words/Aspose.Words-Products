@@ -108,7 +108,7 @@ description: C++ Word document processing library to add file manipulation capab
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/words/cpp/installation/#system-requirements)." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/words/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -130,6 +130,12 @@ description: C++ Word document processing library to add file manipulation capab
     <i class="fa fa-cubes">
     </i>
     Linux 64 bit
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Intel x64 macOS
    </header>
   </div>
   <!--/right-->
@@ -168,7 +174,13 @@ description: C++ Word document processing library to add file manipulation capab
      <b>
       Microsoft Word:
      </b>
-     DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
+     DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODT, OTT
     </li>
     <li>
      <b>
@@ -183,19 +195,7 @@ description: C++ Word document processing library to add file manipulation capab
      HTML, MHTML
     </li>
     <li>
-     <b>
-      OpenOffice:
-     </b>
-     ODT
-    </li>
-    <li>
-     <b>
-      Text:
-     </b>
-     TXT
-    </li>
-    <li>
-     MOBI
+     MOBI, TXT
     </li>
    </ul>
   </div>
@@ -211,13 +211,13 @@ description: C++ Word document processing library to add file manipulation capab
      <strong>
       Fixed Layout:
      </strong>
-     PDF, XPS, OpenXPS
+     PDF, XPS, OpenXPS, PostScript (PS)
     </li>
     <li>
      <strong>
-      Graphics:
+      Images:
      </strong>
-     SVG, EMF, TIFF, PNG, BMP, JPEG, GIF
+     TIFF, JPEG, PNG, BMP, SVG, EMF, GIF
     </li>
     <li>
      <strong>
@@ -229,7 +229,7 @@ description: C++ Word document processing library to add file manipulation capab
      <strong>
       Others:
      </strong>
-     PS, PCL, XamlFlow, XamlFixed, EPUB
+     PCL, EPUB, XamlFixed, XamlFlow, XamlFlowPack
     </li>
    </ul>
   </div>
@@ -375,25 +375,25 @@ description: C++ Word document processing library to add file manipulation capab
      </h3>
      <pre><code class="cpp">
 
-// load source &amp; destination files
+// load source & destination files 
 
-System::SharedPtr dstDoc = System::MakeObject(dir + u"destination.doc");
+auto dstDoc = System::MakeObject<Document>(dir + u"destination.doc");
 
-System::SharedPtr srcDoc = System::MakeObject(dir + u"source.doc");
+auto srcDoc = System::MakeObject<Document>(dir + u"source.doc");
 
-    
 
-// set the appended file to start on a new page.
 
-srcDoc-&gt;get_FirstSection()-&gt;get_PageSetup()-&gt;set_SectionStart(Aspose::Words::SectionStart::NewPage);
+// set the appended file to start on a new page. 
 
-// append the source file using the original styles found in the source file.
+srcDoc->get_FirstSection()->get_PageSetup()->set_SectionStart(SectionStart::NewPage); 
 
-dstDoc-&gt;AppendDocument(srcDoc, Aspose::Words::ImportFormatMode::KeepSourceFormatting);
+// append the source file using the original styles found in the source file. 
 
-// save result
+dstDoc->AppendDocument(srcDoc, ImportFormatMode::KeepSourceFormatting); 
 
-dstDoc-&gt;Save(dir + u"output.doc);</code></pre>
+// save result 
+
+dstDoc->Save(dir + u"output.doc);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -415,17 +415,18 @@ dstDoc-&gt;Save(dir + u"output.doc);</code></pre>
      <h3>
       Protect/un-protect files - C++
      </h3>
-     <pre><code class="cpp">// load document to be processed
-
-System::SharedPtr wrdoc = System::MakeObject(dir + u"template.doc");
+     <pre><code class="cpp">
+// load document to be processed
+     
+auto wrdoc = System::MakeObject<Document>(dir + u"template.doc");
 
 // protect file 
 
-wrdoc-&gt;Protect(Aspose::Words::ProtectionType::AllowOnlyFormFields, u"password");
+wrdoc->Protect(ProtectionType::AllowOnlyFormFields, u"password");
 
-// un-protect file
+// un-protect file 
 
-wrdoc-&gt;Unprotect(); 
+wrdoc->Unprotect(); 
 
 </code></pre>
     </div>
