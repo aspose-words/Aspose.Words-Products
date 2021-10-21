@@ -23,7 +23,7 @@ Java-based platform APIs to create, modify, render or parse Microsoft Word files
 Create, load, manipulate, or convert Microsoft Word and word processing formats within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" productLink="https://products.aspose.com/words/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="Python" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" productLink="https://products.aspose.com/words/python/" >}}
 Use Python to accelerate the development process. Generate and manipulate documents with Python scripts. Our product provides a comprehensive set of features you may need in your software solutions.
 {{< /blocks/products/pf/product >}}
 
