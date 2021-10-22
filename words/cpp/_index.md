@@ -375,24 +375,19 @@ description: C++ Word document processing library to add file manipulation capab
      </h3>
      <pre><code class="cpp">
 
-// load source & destination files 
+// load source &amp; destination files
+auto dstDoc = System::MakeObject&lt;Document&gt;(dir + u"destination.doc");
 
-auto dstDoc = System::MakeObject<Document>(dir + u"destination.doc");
-
-auto srcDoc = System::MakeObject<Document>(dir + u"source.doc");
-
+auto srcDoc = System::MakeObject&lt;Document&gt;(dir + u"source.doc");
 
 
-// set the appended file to start on a new page. 
-
+// set the appended file to start on a new page
 srcDoc->get_FirstSection()->get_PageSetup()->set_SectionStart(SectionStart::NewPage); 
 
-// append the source file using the original styles found in the source file. 
-
+// append the source file using the original styles found in the source file
 dstDoc->AppendDocument(srcDoc, ImportFormatMode::KeepSourceFormatting); 
 
-// save result 
-
+// save the result 
 dstDoc->Save(dir + u"output.doc);</code></pre>
     </div>
    </div>
@@ -416,16 +411,13 @@ dstDoc->Save(dir + u"output.doc);</code></pre>
       Protect/un-protect files - C++
      </h3>
      <pre><code class="cpp">
-// load document to be processed
-     
-auto wrdoc = System::MakeObject<Document>(dir + u"template.doc");
+// load a document to be processed
+auto wrdoc = System::MakeObject&lt;Document&gt;(dir + u"template.doc");
 
-// protect file 
-
+// protect the file 
 wrdoc->Protect(ProtectionType::AllowOnlyFormFields, u"password");
 
-// un-protect file 
-
+// un-protect the file 
 wrdoc->Unprotect(); 
 
 </code></pre>
