@@ -19,7 +19,7 @@ Inter coversion Microsoft Word formats like DOC to DOCX or DOCX to DOC is just t
 ```cs
 // Load a word document that exists in the local system:
 auto doctodocx = MakeObject<Document>(u"sourceFile.doc");
-Save to the resultant document
+// Save to the resultant document
 doctodocx->Save(u"Interconversion.docx", SaveFormat::Docx);   
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -71,7 +71,7 @@ docxtohtml->Save(u"cpp-word-to.html", htmlOpts);
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options pairs="doc-to-html docx-to-html docm-to-html dotm-to-html dot-to-html dotx-to-html md-to-html" >}}
+{{< blocks/products/pf/feature-page-options pairs="doc-to-html docx-to-html docm-to-html dotm-to-html dot-to-html dotx-to-html" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Save Microsoft Word Files As Images" %}}
 Converting Microsoft Word documents as images is needed for variety of scenarios like preveiwing and sharing. Conversion process is simple in general. Loading the document and calling the Save method for relevant JPEG, PNG, or BMP format. But in case of getting more control on the resultant images quality, API provides [ ImageSaveOptions class](https://apireference.aspose.com/words/cpp/class/aspose.words.saving.image_save_options/) for adjusting different options like  HorizontalResolution, VerticalResolution, Resolution, Scale, PixelFormat, ImageBrightness, ImageColorMode, ImageContrast, PaperColor etc.
@@ -102,7 +102,7 @@ doctojpeg->Save(u"word-to-image.jpeg", imageOptions);
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options pairs="doc-to-png odt-to-jpeg docm-to-bmp ott-to-tiff rtf-to-gif txt-to-png wordml-to-jpeg" >}}
+{{< blocks/products/pf/feature-page-options pairs="doc-to-png odt-to-jpeg docm-to-bmp ott-to-tiff rtf-to-gif txt-to-png" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Microsoft Word DOC DOX to Markdown MD File" %}}
 Markdown MD format is famous for documentation, blog articles publishing, describing projects etc as well as its further conversion to HTML, PDF and more formats makes it popular. API supports  Markdown features like Headings H1 – H6 styles, Blockquotes, IndentedCode, FencedCode, and more.
@@ -136,5 +136,3 @@ doctomd->Save(u"converted-word-to.md");
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
-{{< blocks/products/pf/feature-page-options pairs="doc-to-md odt-to-md docm-md docx-to-md" >}}
