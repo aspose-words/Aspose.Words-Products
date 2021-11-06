@@ -30,7 +30,7 @@ srcFile.save("doc-to.docx", SaveFormat.DOCX);
 {{% blocks/products/pf/feature-page-section  h2="Java Word to PDF Conversion" %}}
 Java Word library supports Microsoft Word formats to PDF conversion. Programmers can easily set different options as of the requirement like conversion of only selected pages of word documents as well as to a particular PDF PDF/A-1a, PDF 1.5, etc Standard along with Text or Image Compression and more. For conversion with praticular options **Java Word to PDF converter** API provides [PdfSaveOptions class](https://apireference.aspose.com/java/words/com.aspose.words/PdfSaveOptions) that handles all the specific settings.
 
-{{% blocks/products/pf/feature-page-code h3="Java PDF to Word Converter Code" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Word to PDF Converter Code" %}}
 
 ```cs
 // Load the Word document from disk

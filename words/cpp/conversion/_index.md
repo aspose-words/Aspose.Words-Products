@@ -30,7 +30,7 @@ doctodocx->Save(u"Interconversion.docx", SaveFormat::Docx);
 {{% blocks/products/pf/feature-page-section  h2="C++ Word to PDF Conversion" %}}
 Word to PDF conversion is famouse becuase of the most demanding sharing document scenario. C++ Microsoft Word API provides [PdfSaveOptions class](https://apireference.aspose.com/words/cpp/class/aspose.words.saving.pdf_save_options/) to achieve different PDF standard settings during conversion process. Pass these finalized options as parameter to Save method.
 
-{{% blocks/products/pf/feature-page-code h3="C++ PDF to Word Converter Code" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Word to PDF Converter Code" %}}
 
 ```cs
 // Load the file.
