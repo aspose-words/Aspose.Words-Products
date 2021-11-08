@@ -5,7 +5,7 @@ description: Convert Microsoft Word files to different formats including PDF, HT
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft Word Document Conversions using .NET Platform" h2="C# Source Codes for 200+ conversions to convert files and images to Word, PDF, JPG, HTML and other formats." >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft Word Document Conversion using .NET Platform" h2="C# Source Codes for 200+ conversions to convert files and images to Word, PDF, JPG, HTML and other formats." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
