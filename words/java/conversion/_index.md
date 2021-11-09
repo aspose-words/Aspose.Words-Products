@@ -5,7 +5,7 @@ description: Convert Microsoft Word DOC DOCX formats to HTML, Images and many ot
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft Word File Conversion via Java" h2="Export Microsoft Office® Word document to PDF, HTML, Images and fixed-layout formats" >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Word File Conversion via Java" h2="Export Microsoft Office® Word document to PDF, HTML, Images and fixed-layout formats" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 There are lot of conversion cases specially whenever there is need of sharing the documents. Various apps availible to **convert word to PDF**, HTML and images. But the best solution is to enhance the application functionality to add conversion feature for MS Word automation and report generation instead of relying on limited scope of other softwares. We are listing few code snippets for automation and batch conversion of files using **Java Word document library** and dvelopers can easily integrate it.
@@ -57,7 +57,7 @@ docxtopdf.save("word-to.pdf", specificOptions);
 {{< blocks/products/pf/feature-page-options pairs="doc-to-pdf docx-to-pdf rtf-to-pdf txt-to-pdf" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Mircrosoft<sup>&reg;</sup> Word to HTML Conversion" %}}
 As of web era, it's the most demanding case, where organizations or individuals wants to convert all of their Micrsoft Word data to HTML to display it on websites in form of webpages instead of document downloading options. So to convert Word data to HTML for the websites developed using Java language, below code makes it easy. Procedure of conversion is almost simple, Load the word documents using Document Class then calling the save method with output file path and SaveFormat.HTML as parameters. For applying special settings, **Jave Word to HTML** API provides [HtmlSaveOptions class](https://apireference.aspose.com/words/java/com.aspose.words/htmlsaveoptions) that deals all the specific settings.
 {{% blocks/products/pf/feature-page-code h3="Java code for Word to HTML Generic Conversion" %}}
 

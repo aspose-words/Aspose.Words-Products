@@ -5,7 +5,7 @@ description: Convert Microsoft Word files to different formats including PDF, HT
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft Word Document Conversion using .NET Platform" h2="C# Source Codes for 200+ conversions to convert files and images to Word, PDF, JPG, HTML and other formats." >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Word Document Conversion using .NET Platform" h2="C# Source Codes for 200+ conversions to convert files and images to Word, PDF, JPG, HTML and other formats." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -31,7 +31,7 @@ doctodocx.Save("csharp-doc-to.docx", SaveFormat.Docx);
 
 
 {{% blocks/products/pf/feature-page-section  h2="C# Word to PDF Conversion" %}}
-Word to PDF conversion is common case due to its sharing nature. Although Microsoft Word provides the facility of conversion, but whenever it is need to do it programmatically without having Microsoft Office installed then C# Microsoft Word API can do it easily. It provides PdfSaveOptions class for various settings like number of pages to convert, PDF standard using PdfCompliance enum, iext and image compression options, adding electronic signatures and more. Pass these finalized options as parameter to Save method.
+Word to PDF conversion is common case due to its sharing nature. Although Microsoft Word<sup>&reg;</sup> provides the facility of conversion, but whenever it is need to do it programmatically without having Microsoft Office installed then C# Microsoft Word API can do it easily. It provides PdfSaveOptions class for various settings like number of pages to convert, PDF standard using PdfCompliance enum, iext and image compression options, adding electronic signatures and more. Pass these finalized options as parameter to Save method.
 
 {{% blocks/products/pf/feature-page-code h3="C# Word to PDF Converter Code" %}}
 
@@ -69,7 +69,7 @@ docxtopdf.Save("cshar-word-to.pdf", pdfSpecificSettings);
 {{< blocks/products/pf/feature-page-options pairs="word-to-pdf doc-to-pdf docx-to-pdf rtf-to-pdf txt-to-pdf" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word<sup>&reg;</sup> to HTML Conversion" %}}
 Organizations and individuals, now a days, prefer to add documents data in the form of webpages on websites instead of providing "Files Download" options on websites, for easy access to their data as well as much more cases. So **Word to HTML Conversion** is one of the demanding case. C# Microsoft Word library makes it easy and programmers can easily achieve it via few lines of code. After loading the document use [HtmlSaveOptions](https://apireference.aspose.com/words/net/aspose.words.saving/htmlsaveoptions) class for specific features.
 {{% blocks/products/pf/feature-page-code h3="C# code for Word to HTML Conversion" %}}
 

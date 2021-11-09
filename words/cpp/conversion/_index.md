@@ -5,14 +5,14 @@ description: Convert Microsoft Word DOCX DOC DOCM formats to Image  HTML PDF and
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft Office Word File Conversion via C++" h2="Export Microsoft Office® Word documents to HTML, PDF, Images and fixed-layout formats" >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Office Word File Conversion via C++" h2="Export Microsoft Office® Word documents to HTML, PDF, Images and fixed-layout formats" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
 Conversion of Word documents to other formats is the most popular and widely used case. We are discussing here few cases for batch conversion and automation of files conversion using **C++ Word library**. Dvelopers can easily develop their solutions or integrate any of these codes within their existing applications.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Inter Conversion Of Microsoft Word Formats via C++" %}}
+{{% blocks/products/pf/feature-page-section  h2="Inter Conversion Of Microsoft Word<sup>&reg;</sup> Formats via C++" %}}
 Inter coversion Microsoft Word formats like DOC to DOCX or DOCX to DOC is just two steps process in general. Load the source file using [Document class](https://apireference.aspose.com/words/cpp/class/aspose.words.document) and calling the [Save meothod](https://apireference.aspose.com/words/cpp/class/aspose.words.saving.save_output_parameters/) of same class by specifying the output parameters. 
 {{% blocks/products/pf/feature-page-code h3="C++ code for DOC to DOCX Conversion" %}}
 
@@ -49,7 +49,7 @@ docxtopdf->Save(u"word-to.pdf", options);
 {{< blocks/products/pf/feature-page-options pairs="doc-to-pdf docx-to-pdf rtf-to-pdf txt-to-pdf" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Mircrosoft<sup>&reg;</sup> Word to HTML Conversion" %}}
 **Word to HTML Conversion** is the most demanding case of web era. Instead of proividing downloading documents on website, just convert the data into HTML, MHTML and generate webpages. Words library makes it easy and developers can easily convert Microsoft Word to HTML or MHTML format. Library provides [HtmlSaveOptions](https://apireference.aspose.com/words/cpp/class/aspose.words.saving.html_save_options) class for specific features like embedded fonts, Round-Trip Information and more. 
 {{% blocks/products/pf/feature-page-code h3="C++ code for Word to HTML Conversion" %}}
 
@@ -104,7 +104,7 @@ doctojpeg->Save(u"word-to-image.jpeg", imageOptions);
 
 {{< blocks/products/pf/feature-page-options pairs="doc-to-png odt-to-jpeg docm-to-bmp ott-to-tiff rtf-to-gif txt-to-png" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Microsoft Word DOC DOX to Markdown MD File" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Microsoft<sup>&reg;</sup> Word DOC DOX to Markdown MD File" %}}
 Markdown MD format is famous for documentation, blog articles publishing, describing projects etc as well as its further conversion to HTML, PDF and more formats makes it popular. API supports  Markdown features like Headings H1 – H6 styles, Blockquotes, IndentedCode, FencedCode, and more.
 {{% blocks/products/pf/feature-page-code h3="C++ Word to MD Converter Code" %}}
 ```cs
