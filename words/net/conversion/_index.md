@@ -9,13 +9,13 @@ description: Convert Microsoft Word files to different formats including PDF, HT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-It is easy for the developers to convert Word files with speed and accuracy. Get the results within no time. Converted file content and formatting will be the same as of the original document. Automate your document management systems by utilizing the highest quality optimized code for professional conversions of to and from any Microsoft Office, OpenOffice formats. Aspose provides stand alone .NET based APIs for integration without the need of additional software like Microsoft Office, OpenOffice or Adobe Acrobat. 
+It is easy for the developers to convert Word files with speed and accuracy. Get the results within no time. Converted file content and formatting will be the same as of the original document. Automate your document management systems by utilizing the highest quality optimized code for professional conversions of to and from any Microsoft Office<sup>&reg;</sup>, OpenOffice<sup>&trade;</sup> formats. Aspose provides stand alone .NET based APIs for integration without the need of additional software like Microsoft Office, OpenOffice or Adobe Acrobat. 
 
 If any existing document processing system needs the conversion feature or someone building the new system with this feature, APIs are the right soultion for converting Word, Excel, PDF, PowerPoint files to many popular formats. Just integrate the API source code within the system and get the benefits of all features including document conversion, merging etc.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Inter Conversion Of Microsoft Word Formats via C#" %}}
-Whenever there is need to automate the inter conversion of Microsoft Words format. Word coverter API's two lines code can do the whole process. Load the source file using [Document class](https://apireference.aspose.com/words/net/aspose.words/document) and calling the [Save method](https://apireference.aspose.com/words/net/class/aspose.words.saving.save_output_parameters/) of same class by specifying the output parameters. 
+Whenever there is need to automate the inter conversion of Microsoft<sup>&reg;</sup> Words format. Word coverter API's two lines code can do the whole process. Load the source file using [Document class](https://apireference.aspose.com/words/net/aspose.words/document) and calling the [Save method](https://apireference.aspose.com/words/net/class/aspose.words.saving.save_output_parameters/) of same class by specifying the output parameters. 
 {{% blocks/products/pf/feature-page-code h3="C# code for DOC to DOCX Conversion" %}}
 
 ```cs
@@ -69,7 +69,7 @@ docxtopdf.Save("cshar-word-to.pdf", pdfSpecificSettings);
 {{< blocks/products/pf/feature-page-options pairs="word-to-pdf doc-to-pdf docx-to-pdf rtf-to-pdf txt-to-pdf" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word<sup>&reg;</sup> to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
 Organizations and individuals, now a days, prefer to add documents data in the form of webpages on websites instead of providing "Files Download" options on websites, for easy access to their data as well as much more cases. So **Word to HTML Conversion** is one of the demanding case. C# Microsoft Word library makes it easy and programmers can easily achieve it via few lines of code. After loading the document use [HtmlSaveOptions](https://apireference.aspose.com/words/net/aspose.words.saving/htmlsaveoptions) class for specific features.
 {{% blocks/products/pf/feature-page-code h3="C# code for Word to HTML Conversion" %}}
 
@@ -97,7 +97,7 @@ docxtohtml.Save("csharp-word-to.html", htmlOptions);
 {{< blocks/products/pf/feature-page-options pairs="doc-to-html docx-to-html docm-to-html dotm-to-html dot-to-html dotx-to-html docx-to-mhtml docm-to-mhtml doc-to-mhtml" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Word File Pages to Image Formats" %}}
-Converting Microsoft Word Documents DOC DOCX to images JPEG, PNG, TIFF etc is another common scenario. Developers can easily utilize code listed below to convert Word document pages to images. After loading the document using Document class instance, Use [ImageSaveOptions Class](https://apireference.aspose.com/words/net/aspose.words.saving/imagesaveoptions) for specific image option settings. 
+Converting Microsoft Word<sup>&reg;</sup> Documents DOC DOCX to images JPEG, PNG, TIFF etc is another common scenario. Developers can easily utilize code listed below to convert Word document pages to images. After loading the document using Document class instance, Use [ImageSaveOptions Class](https://apireference.aspose.com/words/net/aspose.words.saving/imagesaveoptions) for specific image option settings. 
 {{% blocks/products/pf/feature-page-code h3="C# Word to Image Converter Code" %}}
 ```cs
 Document docxtojpeg = new Document(@"sourceWordFile.docx");

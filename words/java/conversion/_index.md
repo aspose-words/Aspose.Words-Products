@@ -57,7 +57,7 @@ docxtopdf.save("word-to.pdf", specificOptions);
 {{< blocks/products/pf/feature-page-options pairs="doc-to-pdf docx-to-pdf rtf-to-pdf txt-to-pdf" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Mircrosoft<sup>&reg;</sup> Word to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
 As of web era, it's the most demanding case, where organizations or individuals wants to convert all of their Micrsoft Word data to HTML to display it on websites in form of webpages instead of document downloading options. So to convert Word data to HTML for the websites developed using Java language, below code makes it easy. Procedure of conversion is almost simple, Load the word documents using Document Class then calling the save method with output file path and SaveFormat.HTML as parameters. For applying special settings, **Jave Word to HTML** API provides [HtmlSaveOptions class](https://apireference.aspose.com/words/java/com.aspose.words/htmlsaveoptions) that deals all the specific settings.
 {{% blocks/products/pf/feature-page-code h3="Java code for Word to HTML Generic Conversion" %}}
 
@@ -86,7 +86,7 @@ doctohtml.save("word-to-html5.html", optsHtml5);
 {{< blocks/products/pf/feature-page-options pairs="doc-to-html docx-to-html docm-to-html dotm-to-html dot-to-html dotx-to-html md-to-html" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Word to Image" %}}
-Sometime it is needed to convert Microsoft Word DOC / DOCX files to images, one of the case is when someone want to preview of data alongwith pictures in word documents. So Java Word API makes it easy to save in JPEG, BMP, PNG, TIFF or more formats. Conversion procedure is simple as for generic cases i.e loading the document and saving using save method with output file path and [SaveFormat](https://apireference.aspose.com/words/java/com.aspose.words/saveformat) image extension. For setting different options API provides [ImageSaveOptions class](https://apireference.aspose.com/words/java/com.aspose.words/imagesaveoptions). 
+Sometime it is needed to convert Microsoft<sup>&reg;</sup> Word DOC / DOCX files to images, one of the case is when someone want to preview of data alongwith pictures in word documents. So Java Word API makes it easy to save in JPEG, BMP, PNG, TIFF or more formats. Conversion procedure is simple as for generic cases i.e loading the document and saving using save method with output file path and [SaveFormat](https://apireference.aspose.com/words/java/com.aspose.words/saveformat) image extension. For setting different options API provides [ImageSaveOptions class](https://apireference.aspose.com/words/java/com.aspose.words/imagesaveoptions). 
 {{% blocks/products/pf/feature-page-code h3="Java Word to Image Converter Code" %}}
 ```cs
 // Load the document from disk.
