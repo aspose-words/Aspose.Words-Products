@@ -63,13 +63,7 @@ PM> Install-Package Aspose.Words
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows DOC to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// load DOC with an instance of Document
-var doc_file = new Document("sourFile.doc");
-// call Save method while passing target file path and SaveFormat.PDF
-doc_file.Save("output.pdf", SaveFormat.Pdf); 
-
-```
+{{< gist "aspose-com-gists" "9166650f2162227241bf8391d11c3b65" "doc-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
