@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Words.Cpp
 
 {{% blocks/products/pf/agp/code-block title="DOC to PDF C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the DOC.
-System::SharedPtr<Document> doc = System::MakeObject<Document>(u"sourceFile.doc");
-// Save in PDF format.
-doc->Save(u"convertedFile.pdf");
-
-```
+{{< gist "aspose-com-gists" "b5bd96eaeb3ed86f1b6969d13c981573" "doc-to-pdf.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

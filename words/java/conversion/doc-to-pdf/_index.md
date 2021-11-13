@@ -80,13 +80,7 @@ description: Sample Java conversion code for DOC format to PDF file. Programmers
 
 {{% blocks/products/pf/agp/code-block title="Java source code for DOC to PDF Conversion" offSpacer="" %}}
 
-```cs
-// load DOC with an instance of Document
-Document document = new Document("template.doc");
-// call Save method while passing SaveFormat.PDF
-document.save("output.pdf", SaveFormat.PDF);   
-
-```
+{{< gist "aspose-com-gists" "93b4ce624f1d3f35b476f172980667d5" "doc-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
