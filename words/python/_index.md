@@ -13,19 +13,26 @@ description: Python library to work with Microsoft Word files. Create edit conve
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/python/" installationsDocsLink="https://docs.aspose.com/words/python/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/python" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (together with popular Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with enormous amount of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
-<p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
-<p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
-<h2 class="h2title">Functionality of Aspose.Words for Python</h2>
+
 <p><strong>Aspose.Words for Python</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. This product enables Python developers a unique possibility to implement script-based document automation. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting.</p>
-<p>It's a self-contained Python library - you don't require to install any office suite to get your Python code working. This Python API relies on the "Document Object Model" (DOM) to access document nodes and elements.</p>
+
+<p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with a great number of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
+
+<p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
+
+<p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
+
+<h2 class="h2title">Functionality of Aspose.Words for Python</h2>
+
+<p>Aspose.Words is a self-contained Python library. You do not need to install any office suite to get your Python code working. This Python API relies on the "Document Object Model" (DOM) to access document nodes and elements.</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -125,7 +132,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Python Word API supports all major platforms including the following." >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -193,7 +200,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Python supports the popular [Word Processing file formats](https://docs.aspose.com/words/python/supported-document-formats/)  listed below." >}}
-<div class="diagram1 d2 d1-net">
+<div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
