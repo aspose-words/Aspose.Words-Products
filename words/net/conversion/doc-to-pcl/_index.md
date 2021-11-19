@@ -127,7 +127,7 @@ PCL stands for Printer Command Language which is a Page Description Language int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-odt/" name="DOC TO ODT" description="OpenDocument Text File Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-ott/" name="DOC TO OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-pdf/" name="DOC TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-pdfa/" name="DOC TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-pdfa/" name="DOC TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-png/" name="DOC TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-ps/" name="DOC TO PS" description="PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/doc-to-svg/" name="DOC TO SVG" description="Scalable Vector Graphics" >}}

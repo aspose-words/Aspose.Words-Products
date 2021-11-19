@@ -128,7 +128,7 @@ PostScript (PS) is a general-purpose page description language used in the busin
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-ott/" name="DOCX TO OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-pcl/" name="DOCX TO PCL" description="Printer Command Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-pdf/" name="DOCX TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-pdfa/" name="DOCX TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-pdfa/" name="DOCX TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-png/" name="DOCX TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-svg/" name="DOCX TO SVG" description="Scalable Vector Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/docx-to-tiff/" name="DOCX TO TIFF" description="Tagged Image Format" >}}

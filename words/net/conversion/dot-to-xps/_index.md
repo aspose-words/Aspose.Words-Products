@@ -128,7 +128,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-ott/" name="DOT TO OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-pcl/" name="DOT TO PCL" description="Printer Command Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-pdf/" name="DOT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-pdfa/" name="DOT TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-pdfa/" name="DOT TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-png/" name="DOT TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-ps/" name="DOT TO PS" description="PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dot-to-svg/" name="DOT TO SVG" description="Scalable Vector Graphics" >}}

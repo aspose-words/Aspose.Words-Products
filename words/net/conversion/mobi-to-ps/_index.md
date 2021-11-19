@@ -133,7 +133,7 @@ PostScript (PS) is a general-purpose page description language used in the busin
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-ott/" name="MOBI TO OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-pcl/" name="MOBI TO PCL" description="Printer Command Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-pdf/" name="MOBI TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-pdfa/" name="MOBI TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-pdfa/" name="MOBI TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-png/" name="MOBI TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-rtf/" name="MOBI TO RTF" description="Rich Text Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/mobi-to-svg/" name="MOBI TO SVG" description="Scalable Vector Graphics" >}}

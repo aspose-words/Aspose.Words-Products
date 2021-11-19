@@ -128,7 +128,7 @@ PostScript (PS) is a general-purpose page description language used in the busin
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-ott/" name="DOTM TO OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-pcl/" name="DOTM TO PCL" description="Printer Command Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-pdf/" name="DOTM TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-pdfa/" name="DOTM TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-pdfa/" name="DOTM TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-png/" name="DOTM TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-svg/" name="DOTM TO SVG" description="Scalable Vector Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/dotm-to-tiff/" name="DOTM TO TIFF" description="Tagged Image Format" >}}

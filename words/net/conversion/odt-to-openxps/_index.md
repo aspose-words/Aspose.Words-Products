@@ -127,7 +127,7 @@ Saves the document in the OpenXPS (Ecma-388) format.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-ott/" name="ODT TO OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-pcl/" name="ODT TO PCL" description="Printer Command Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-pdf/" name="ODT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-pdfa/" name="ODT TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-pdfa/" name="ODT TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-png/" name="ODT TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-ps/" name="ODT TO PS" description="PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/odt-to-svg/" name="ODT TO SVG" description="Scalable Vector Graphics" >}}

@@ -126,7 +126,7 @@ PCL stands for Printer Command Language which is a Page Description Language int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-mobi/" name="OTT TO MOBI" description="Open Ebook Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-odt/" name="OTT TO ODT" description="OpenDocument Text File Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-pdf/" name="OTT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-pdfa/" name="OTT TO PDFA" description="{{pdfa_name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-pdfa/" name="OTT TO PDFA" description="Portable Document Format/A" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-png/" name="OTT TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-ps/" name="OTT TO PS" description="PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/conversion/ott-to-svg/" name="OTT TO SVG" description="Scalable Vector Graphics" >}}
