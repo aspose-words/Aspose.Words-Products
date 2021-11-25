@@ -1,7 +1,8 @@
 ---
 title: Python Word Document Processing API - Aspose 
 weight: 2200
-url: /python/ 
+url: /python-net/
+aliases: [/python/] 
 description: Python library to work with Microsoft Word files. Create edit convert DOCX DOC RTF PDF EPUB WordML ODT HTML Text and much more formats.
 ---
 
@@ -15,17 +16,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 {{< blocks/products/pf/tab-content >}}
 
 <p><strong>Aspose.Words for Python</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. This product enables Python developers a unique possibility to implement script-based document automation. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting.</p>
-
 <p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with a great number of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
-
 <p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
-
 <p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
-
 <h2 class="h2title">Functionality of Aspose.Words for Python</h2>
-
 <p>Aspose.Words is a self-contained Python library. You do not need to install any office suite to get your Python code working. This Python API relies on the "Document Object Model" (DOM) to access document nodes and elements.</p>
-
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
