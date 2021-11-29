@@ -391,9 +391,7 @@ description: Java Microsoft word files processing library to create read write m
    <!--<div class="col-lg-12">
 
 <h2 class="h2title">API Latest Features</h2>
-
 <p>Word Java API continuously enhancing its features to manipulate rich Microsoft Word files in all aspects. Here is a list of few latest features currently added.</p>
-
 <ul>
 
 <li>Get font leading/metrics of Running node.</li>
@@ -597,7 +595,7 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
     {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
-	{{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" sdkName="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" sdkName="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}

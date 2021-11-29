@@ -389,9 +389,7 @@ description: Word processing library for mobile applications. Create Read Edit a
    <!--<div class="col-lg-12">
 
 <h2 class="h2title">Newly Added Features</h2>
-
 <p>Android API continuously enhancing advance features to keep its uniqueness. Following is the list of few picks currently added</p>
-
 <ul>
 
 <li>Ability to check if particular Dml text effect is applied.</li>
@@ -478,9 +476,7 @@ doc.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 <div class="col-lg-12">
 
 <h2 class="h2title">Microsoft Office Automation - Not Needed</h2>
-
 <p>Aspose.Words for Android via Java is built using managed code that never needs Microsoft Office or Microsoft Word to work with Word document formats. It is a perfect Microsoft Word automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
-
 </div>
 
 -->
@@ -520,7 +516,7 @@ doc.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
     {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" sdkName="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" sdkName="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/words/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" sdkName="JasperReports" >}}

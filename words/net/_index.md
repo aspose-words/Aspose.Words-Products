@@ -14,9 +14,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks. API supports to generate, modify, convert, render and print files without utilizing Microsoft Word directly within cross-platform applications. Moreover, API supports all the popular formats as well as allows exporting or converting Word files to fixed-layout and most commonly used image/multimedia formats.</p>
-
 <p> By integrating Word API, developers can perform tasks such as designing fully-featured Microsoft Word reports using standard mail merge fields, reliable conversion between several popular formats, high fidelity rendering of pages, formatting of all document elements and more.</p>
-
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -642,7 +640,7 @@ var wfle = new Aspose.Words.Document(dir + "template.doc");
 wfle.MailMerge.Execute(
 
     new string[] { "FullName", "Company", "Deparment", "City" },
-
+    
     new object[] { "John Doe", "Aspose", "Sales", "London" });
 
 // save the result
@@ -724,7 +722,7 @@ wfle.Save(dir + "merged.doc");</code></pre>
 
     {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" sdkName="C++" >}}
-	{{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" sdkName="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" sdkName="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/words/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg" sdkName="Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/words/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" sdkName="SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/words/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" sdkName="Reporting Services" >}}
