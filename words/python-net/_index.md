@@ -11,7 +11,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/python/" installationsDocsLink="https://docs.aspose.com/words/python/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/python" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/python-net/" installationsDocsLink="https://docs.aspose.com/words/python-net/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/python" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -194,7 +194,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Python supports the popular [Word Processing file formats](https://docs.aspose.com/words/python/supported-document-formats/)  listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Words for Python supports the popular [Word Processing file formats](https://docs.aspose.com/words/python-net/supported-document-formats/)  listed below." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -491,7 +491,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
     </h2>
     <ul>
 	  <li>Compatible with Python 3.5, 3.6, 3.7, 3.8 and 3.9</li>
-	  <li>In case you write Python code on Linux, have a look at <a href="https://docs.aspose.com/words/python/system-requirements/">additional requirements for Linux</a></li>
+	  <li>In case you write Python code on Linux, have a look at <a href="https://docs.aspose.com/words/python-net/system-requirements/">additional requirements for Linux</a></li>
     </ul>
    </div>
    <div class="col-lg-12">
@@ -585,9 +585,9 @@ doc.save("Output.html")
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/words/python/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/words/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-words/Aspose.Words-for-Python-via-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://docs.aspose.com/words/python/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://docs.aspose.com/words/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -595,7 +595,7 @@ doc.save("Output.html")
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/words" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/words/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/words/python/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/words/python-net/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Words for Python?" tabId="success-stories" >}}
