@@ -16,7 +16,7 @@ If any existing document processing system needs the conversion feature or someo
 
 {{% blocks/products/pf/feature-page-section  h2="Inter Conversion Of Microsoft Word Formats via C#" %}}
 Whenever there is need to automate the inter conversion of Microsoft<sup>&reg;</sup> Words format. Word coverter API's two lines code can do the whole process. Load the source file using [Document class](https://apireference.aspose.com/words/net/aspose.words/document) and calling the [Save method](https://apireference.aspose.com/words/net/class/aspose.words.saving.save_output_parameters/) of same class by specifying the output parameters. 
-{{% blocks/products/pf/feature-page-code h3="C# code for DOC to DOCX Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code for DOC to DOCX Conversion" %}}
 
 ```cs
 // Load source Word file
@@ -71,7 +71,7 @@ docxtopdf.Save("cshar-word-to.pdf", pdfSpecificSettings);
 
 {{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
 Organizations and individuals, now a days, prefer to add documents data in the form of webpages on websites instead of providing "Files Download" options on websites, for easy access to their data as well as much more cases. So **Word to HTML Conversion** is one of the demanding case. C# Microsoft Word library makes it easy and programmers can easily achieve it via few lines of code. After loading the document use [HtmlSaveOptions](https://apireference.aspose.com/words/net/aspose.words.saving/htmlsaveoptions) class for specific features.
-{{% blocks/products/pf/feature-page-code h3="C# code for Word to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code for Word to HTML Conversion" %}}
 
 ```cs
 

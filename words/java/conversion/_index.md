@@ -13,7 +13,7 @@ There are lot of conversion cases specially whenever there is need of sharing th
 
 {{% blocks/products/pf/feature-page-section  h2="Inter Conversion Of Microsoft Word Files using Java" %}}
 Converting Word document to its own formats is just two steps process in general. Load the source file using [Document class](https://apireference.aspose.com/words/java/com.aspose.words/Document) and calling the [save meothod](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.io.OutputStream,int)) of same class with output file path and SaveFormat.TargetFormat as parameters. 
-{{% blocks/products/pf/feature-page-code h3="Java code for DOC to DOCX Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code for DOC to DOCX Conversion" %}}
 
 ```cs
 // load source Microsoft Word Doc File
@@ -59,7 +59,7 @@ docxtopdf.save("word-to.pdf", specificOptions);
 
 {{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
 As of web era, it's the most demanding case, where organizations or individuals wants to convert all of their Micrsoft Word data to HTML to display it on websites in form of webpages instead of document downloading options. So to convert Word data to HTML for the websites developed using Java language, below code makes it easy. Procedure of conversion is almost simple, Load the word documents using Document Class then calling the save method with output file path and SaveFormat.HTML as parameters. For applying special settings, **Jave Word to HTML** API provides [HtmlSaveOptions class](https://apireference.aspose.com/words/java/com.aspose.words/htmlsaveoptions) that deals all the specific settings.
-{{% blocks/products/pf/feature-page-code h3="Java code for Word to HTML Generic Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code for Word to HTML Generic Conversion" %}}
 
 ```cs
 Document docxtohtml = new Document("sourceWordFile.docx");

@@ -14,7 +14,7 @@ Conversion of Word documents to other formats is the most popular and widely use
 
 {{% blocks/products/pf/feature-page-section  h2="Inter Conversion Of Microsoft Word Formats via C++" %}}
 Inter coversion Microsoft Word formats like DOC to DOCX or DOCX to DOC is just two steps process in general. Load the source file using [Document class](https://apireference.aspose.com/words/cpp/class/aspose.words.document) and calling the [Save meothod](https://apireference.aspose.com/words/cpp/class/aspose.words.saving.save_output_parameters/) of same class by specifying the output parameters. 
-{{% blocks/products/pf/feature-page-code h3="C++ code for DOC to DOCX Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Code for DOC to DOCX Conversion" %}}
 
 ```cs
 // Load a word document that exists in the local system:
@@ -51,7 +51,7 @@ docxtopdf->Save(u"word-to.pdf", options);
 
 {{% blocks/products/pf/feature-page-section  h2="Mircrosoft Word to HTML Conversion" %}}
 **Word to HTML Conversion** is the most demanding case of web era. Instead of proividing downloading documents on website, just convert the data into HTML, MHTML and generate webpages. Words library makes it easy and developers can easily convert Microsoft Word to HTML or MHTML format. Library provides [HtmlSaveOptions](https://apireference.aspose.com/words/cpp/class/aspose.words.saving.html_save_options) class for specific features like embedded fonts, Round-Trip Information and more. 
-{{% blocks/products/pf/feature-page-code h3="C++ code for Word to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Code for Word to HTML Conversion" %}}
 
 ```cs
 
