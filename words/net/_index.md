@@ -13,19 +13,19 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/net/" installationsDocsLink="https://docs.aspose.com/words/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words/" nugetPackageName="Aspose.Words" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks in a variety of file formats. API supports to create, modify, convert, render and print files without using Microsoft Word or other third-party software directly in cross-platform applications. You can see the full list of Aspose.Words features <a href="https://docs.aspose.com/words/net/developer-guide/">in our documentation</a>.</p>
+<p>Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks in a variety of file formats. API supports to create, modify, convert, render and print files without using Microsoft Word or other third-party software directly in cross-platform applications. You can see the full list of Aspose.Words features <a href="https://docs.aspose.com/words/net/developer-guide/">in our documentation</a>.</p>
 
-<p> Aspose.Words API supports all popular loading and saving formats. You can save or convert Word documents to fixed-layout formats such as PDF or XML, as well as convert your Word files to popular image or multimedia formats such as JPEG, SVG, GIF and others. Check out the <a href="https://docs.aspose.com/words/net/supported-document-formats/">full list of supported formats</a>.</p>
+<p> Aspose.Words API supports all popular loading and saving formats. You can save or convert Word documents to fixed-layout formats such as PDF or XML, as well as convert your Word files to popular image or multimedia formats such as JPEG, SVG, GIF and others. Check out the <a href="https://docs.aspose.com/words/net/supported-document-formats/">full list of supported formats</a>.</p>
 <p> By integrating Words API, developers can perform tasks such as:</p>
 
 <ul>
-<li>design fully-featured Microsoft Word reports using standard <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">mail merge</a> fields</li>
-<li>reliably <a href="https://docs.aspose.com/words/net/convert-a-document/">convert a document</a> between several popular formats</li>
-<li><a href="https://docs.aspose.com/words/net/rendering/">render pages</a> with high fidelity</li>
-<li><a href="https://docs.aspose.com/words/net/programming-with-documents/">format all document elements</a></li>
-<li><a href="https://docs.aspose.com/words/net/compare-documents/">compare two documents</a></li>
-<li><a href="https://docs.aspose.com/words/net/find-and-replace/">find and replace</a> text</li>
-<li><a href="https://docs.aspose.com/words/net/split-a-document/">split a document</a> into parts</li>
+<li>design fully-featured Microsoft Word reports using standard <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">mail merge</a> fields</li>
+<li>reliably <a href="https://docs.aspose.com/words/net/convert-a-document/">convert a document</a> between several popular formats</li>
+<li><a href="https://docs.aspose.com/words/net/rendering/">render pages</a> with high fidelity</li>
+<li><a href="https://docs.aspose.com/words/net/programming-with-documents/">format all document elements</a></li>
+<li><a href="https://docs.aspose.com/words/net/compare-documents/">compare two documents</a></li>
+<li><a href="https://docs.aspose.com/words/net/find-and-replace/">find and replace</a> text</li>
+<li><a href="https://docs.aspose.com/words/net/split-a-document/">split a document</a> into parts</li>
 <li>and more</li>
 </ul>
 
@@ -145,7 +145,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description=".NET Word API supports all major platforms including the following." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description=".NET Word API supports all major platforms including the following." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -327,7 +327,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
      PCL, EPUB, XamlFixed, XamlFlow, XamlFlowPack
     </li>
    </ul>
-   <!--<header><i class="fa  fa-long-arrow-down"> </i> Input Only</header>
+   <!--<header><i class="fa  fa-long-arrow-down"> </i> Input Only</header>
 
 <ul>
 
@@ -377,110 +377,110 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
     <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/convert-a-document/">Convert a Document</a>
+     <a href="https://docs.aspose.com/words/net/convert-a-document/">Convert a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/rendering/">Render a Document to Fixed-layout Formats</a>
+     <a href="https://docs.aspose.com/words/net/rendering/">Render a Document to Fixed-layout Formats</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/compare-documents/">Compare Documents</a>
+     <a href="https://docs.aspose.com/words/net/compare-documents/">Compare Documents</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/clone-a-document/">Clone a Document</a>
+     <a href="https://docs.aspose.com/words/net/clone-a-document/">Clone a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/insert-and-append-documents/">Join documents: insert and append</a>
+     <a href="https://docs.aspose.com/words/net/insert-and-append-documents/">Join documents: insert and append</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/split-a-document/">Split Files</a>
+     <a href="https://docs.aspose.com/words/net/split-a-document/">Split Files</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/find-and-replace/">Find and replace text</a>
+     <a href="https://docs.aspose.com/words/net/find-and-replace/">Find and replace text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/protect-or-encrypt-a-document/">Protect or Encrypt a Document</a>
+     <a href="https://docs.aspose.com/words/net/protect-or-encrypt-a-document/">Protect or Encrypt a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/working-with-digital-signatures/">Work with Digital Signatures</a>
+     <a href="https://docs.aspose.com/words/net/working-with-digital-signatures/">Work with Digital Signatures</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">Mail Merge and Reporting</a>
+     <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">Mail Merge and Reporting</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/working-with-watermark/">Add Watermark to a Document</a>
+     <a href="https://docs.aspose.com/words/net/working-with-watermark/">Add Watermark to a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/working-with-tables/">Work with Tables</a>
+     <a href="https://docs.aspose.com/words/net/working-with-tables/">Work with Tables</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-database ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/linq-reporting-engine/">LINQ Reporting Engine</a>
+     <a href="https://docs.aspose.com/words/net/linq-reporting-engine/">LINQ Reporting Engine</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/programming-with-documents/">Format All Document Elements</a>
+     <a href="https://docs.aspose.com/words/net/programming-with-documents/">Format All Document Elements</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comments-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/working-with-comments/">Work with Comments and Revisions</a>
+     <a href="https://docs.aspose.com/words/net/working-with-comments/">Work with Comments and Revisions</a>
     </p>
    </div>
    <div>
    <p>
-     Please note that the list is not complete and you can find more features and descriptions in the <a href="https://docs.aspose.com/words/net/developer-guide/">documentation</a>.
+     Please note that the list is not complete and you can find more features and descriptions in the <a href="https://docs.aspose.com/words/net/developer-guide/">documentation</a>.
     </p>
    </div>
    <div class="col-lg-12">
@@ -509,10 +509,10 @@ wrdf.Save(dir + "output.html", Aspose.Words.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Render, Print or View  Files
+     Render, Print or View  Files
     </h2>
     <p>
-     Aspose.Words for .NET has its own <a href="https://docs.aspose.com/words/net/rendering/">rendering engine</a> specifically designed to render and print documents with highest fidelity. Using this feature, developers can render (draw) any page onto a .NET Graphics object while specifying the size and zoom level to create thumbnails for displaying images in a browser. Moreover, API is fully integrated with the .NET printing infrastructure and has the ability to completely customize the process so that developers can easily print or preview documents in their own applications.
+     Aspose.Words for .NET has its own <a href="https://docs.aspose.com/words/net/rendering/">rendering engine</a> specifically designed to render and print documents with highest fidelity. Using this feature, developers can render (draw) any page onto a .NET Graphics object while specifying the size and zoom level to create thumbnails for displaying images in a browser. Moreover, API is fully integrated with the .NET printing infrastructure and has the ability to completely customize the process so that developers can easily print or preview documents in their own applications.
     </p>
     <p>
     Some of the rendering capabilities that API can perform:
@@ -522,16 +522,16 @@ wrdf.Save(dir + "output.html", Aspose.Words.SaveFormat.Html);</code></pre>
       Render pages or complete documents to PDF, XPS or SWF
      </li>
      <li>
-      <a href="https://docs.aspose.com/words/net/print-a-document-programmatically-or-using-dialogs/">Print a document</a> programmatically or using dialogs 
+      <a href="https://docs.aspose.com/words/net/print-a-document-programmatically-or-using-dialogs/">Print a document</a> programmatically or using dialogs 
      </li>
      <li>
-      <a href="https://docs.aspose.com/words/net/convert-a-document-to-an-image/">Convert document pages</a> into image previews including but not limited to PNG, EMF, JPEG, GIF
+      <a href="https://docs.aspose.com/words/net/convert-a-document-to-an-image/">Convert document pages</a> into image previews including but not limited to PNG, EMF, JPEG, GIF
      </li>
      <li>
-      <a href="https://docs.aspose.com/words/net/manipulating-and-substitution-truetype-fonts/">Manage fonts and font substitutions</a> to better match the original Word document
+      <a href="https://docs.aspose.com/words/net/manipulating-and-substitution-truetype-fonts/">Manage fonts and font substitutions</a> to better match the original Word document
      </li>
      <li>
-      <a href="https://docs.aspose.com/words/net/saving-a-document-as-a-multipage-tiff/">Save a document to multi-page TIFF</a>
+      <a href="https://docs.aspose.com/words/net/saving-a-document-as-a-multipage-tiff/">Save a document to multi-page TIFF</a>
      </li>
      <li>
       Render pages or shapes to a .NET Graphics object with transforms
@@ -574,10 +574,10 @@ wrdf.Save(dir + "output.html", Aspose.Words.SaveFormat.Html);</code></pre>
      Reporting and Mail Merge
     </h2>
     <p>
-     Aspose.Words for .NET provides an extended API syntax for mail merge fields to perform more complex operations during <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">mail merge</a>. You can perform a simple mail merge operation or mail merge with regions. Data for mail merge operation can come from various data tables, array of values supported by ADO .NET or custom data sources.
+     Aspose.Words for .NET provides an extended API syntax for mail merge fields to perform more complex operations during <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">mail merge</a>. You can perform a simple mail merge operation or mail merge with regions. Data for mail merge operation can come from various data tables, array of values supported by ADO .NET or custom data sources.
     </p>
     <p>
-     In addition, developers can use the <a href="https://docs.aspose.com/words/net/linq-reporting-engine/">LINQ Reporting Engine</a> to generate documents from templates and data from a variety of sources, including databases, XML, JSON, OData, CLR custom type objects, external documents, and more right out of the box.
+     In addition, developers can use the <a href="https://docs.aspose.com/words/net/linq-reporting-engine/">LINQ Reporting Engine</a> to generate documents from templates and data from a variety of sources, including databases, XML, JSON, OData, CLR custom type objects, external documents, and more right out of the box.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -605,7 +605,7 @@ wfle.Save(dir + "merged.doc");</code></pre>
      No Need for Microsoft Office Automation
     </h2>
     <p>
-     You can work with documents programmatically without installing any other third-party application. This is possible because the library is built using managed code. Therefore, you <a href="https://docs.aspose.com/words/net/aspose-words-or-microsoft-office-automation/">do not need to install Microsoft Office or Microsoft Word on your computer</a> to work with Word formats. It is a perfect alternative to Microsoft Office Automation in terms of supported features, security, stability, scalability, speed, and price.
+     You can work with documents programmatically without installing any other third-party application. This is possible because the library is built using managed code. Therefore, you <a href="https://docs.aspose.com/words/net/aspose-words-or-microsoft-office-automation/">do not need to install Microsoft Office or Microsoft Word on your computer</a> to work with Word formats. It is a perfect alternative to Microsoft Office Automation in terms of supported features, security, stability, scalability, speed, and price.
     </p>
    </div>
   </div>
@@ -615,7 +615,7 @@ wfle.Save(dir + "merged.doc");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
