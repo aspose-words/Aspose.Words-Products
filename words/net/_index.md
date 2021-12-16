@@ -2,7 +2,7 @@
 title: C# .NET Word Document Processing API - Aspose 
 weight: 2200
 url: /net/ 
-description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create edit convert DOCX DOC RTF PDF EPUB WordML ODT HTML Text and much more formats.
+description: C# ASP.NET VB.NET library to work with Word files. Create edit convert DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG and many more formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -14,16 +14,14 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words for .NET is an advanced document processing API to perform a wide range of management and manipulation tasks in a variety of file formats. API supports to create, modify, convert, render and print files without using Microsoft Word or other third-party software directly in cross-platform applications. You can see the full list of Aspose.Words features <a href="https://docs.aspose.com/words/net/developer-guide/">in our documentation</a>.</p>
-
 <p> Aspose.Words API supports all popular loading and saving formats. You can save or convert Word documents to fixed-layout formats such as PDF or XML, as well as convert your Word files to popular image or multimedia formats such as JPEG, SVG, GIF and others. Check out the <a href="https://docs.aspose.com/words/net/supported-document-formats/">full list of supported formats</a>.</p>
 <p> By integrating Words API, developers can perform tasks such as:</p>
-
 <ul>
 <li>design fully-featured Microsoft Word reports using standard <a href="https://docs.aspose.com/words/net/mail-merge-and-reporting/">mail merge</a> fields</li>
 <li>reliably <a href="https://docs.aspose.com/words/net/convert-a-document/">convert a document</a> between several popular formats</li>
 <li><a href="https://docs.aspose.com/words/net/rendering/">render pages</a> with high fidelity</li>
 <li><a href="https://docs.aspose.com/words/net/programming-with-documents/">format all document elements</a></li>
-<li><a href="https://docs.aspose.com/words/net/compare-documents/">compare two documents</a></li>
+<li><a href="https://docs.aspose.com/words/net/compare-documents/">compare documents</a></li>
 <li><a href="https://docs.aspose.com/words/net/find-and-replace/">find and replace</a> text</li>
 <li><a href="https://docs.aspose.com/words/net/split-a-document/">split a document</a> into parts</li>
 <li>and more</li>
@@ -485,7 +483,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Word files. Create
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Popular File Format Conversions
+     Convert a Document in C#
     </h2>
     <p>
      API allows you to quickly, reliably and efficiently convert a file from one supported format to another with just two lines of code. It is so simple!

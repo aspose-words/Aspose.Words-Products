@@ -2,11 +2,11 @@
 title: Java Word API | Create Manipulate and Render Word Documents 
 weight: 7990
 url: /java/ 
-description: Java Microsoft word files processing library to create read write modify and convert formats including DOC DOCX HTML PDF RTF XPS EPUB XML EMF and images
+description: Java Word files processing library to create edit convert DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG and many more formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Word Document Manipulation APIs" h2="Develop Java application with the ability to create, process, convert or render Word files to multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-java.svg" pfName="Aspose.Words" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java API to Process Word Files" h2="Develop applications with the ability to create, process, render and convert Word documents to multiple formats in Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-java.svg" pfName="Aspose.Words" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/words/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
@@ -14,11 +14,11 @@ description: Java Microsoft word files processing library to create read write m
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Words for Java is a feature-rich Word Processing API allowing the developers to embed the ability to generate, modify, convert, render and print all formats supported by Microsoft Word in their own Java applications. It does not depend upon Microsoft Word, however, it provides the features that Microsoft Word supports via its APIs such as formatting of all elements, high-quality conversion to multiple formats, rendering individual pages or complete files to images, generation of reports with data from various sources, revision management and so on.
+Aspose.Words for Java is a feature rich document processing API to create, modify, convert, render and print files in all formats supported by Microsoft Word and more. It does not depend on Microsoft Word or other third-party applications. However Aspose.Words for Java provides features that Word supports – <a href="https://docs.aspose.com/words/java/compare-documents/">compare documents</a>, <a href="https://docs.aspose.com/words/java/find-and-replace/">find and replace</a> text, <a href="https://docs.aspose.com/words/java/split-a-document/">split a document</a> into parts, <a href="https://docs.aspose.com/words/java/mail-merge-and-reporting/">mail merge</a> fields, <a href="https://docs.aspose.com/words/java/rendering/">render pages</a>, <a href="https://docs.aspose.com/words/java/programming-with-documents/">format all document elements</a> and so on. You can see the full list of Aspose.Words features <a href="https://docs.aspose.com/words/java/">in our documentation</a>.
 </p>
 
 <p>
- Aspose.Words for Java supports all popular formats while allowing the export or conversion to other Word Processing, fixed-layout, image, HTML, ePUB and major industry-standard formats.
+Aspose.Words API supports all popular loading and saving formats. You can save or convert Word documents to fixed-layout formats – PDF or XML, as well as convert your Word files to popular image or multimedia formats – JPEG, SVG, GIF and others. Check out the <a href="https://docs.aspose.com/words/java/supported-document-formats/">full list of supported formats</a>.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -273,183 +273,142 @@ description: Java Microsoft word files processing library to create read write m
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java Word Library Supports
+    Advanced Java Words API Features
    </h2>
    <p>
+   Check out the most popular features in Aspose.Words:
    </p>
-   <div class="col-lg-4">
-    <em class="fa fa-envelope-square ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Mail merge &amp; automated report generation
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-word-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Table, text, paragraph &amp; image formatting &amp; styling
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-table ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Table creation using data retrieved from the database
-    </p>
-   </div>
+   <div style="height:40px"></div>
    <div class="col-lg-4">
     <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Interconversion of Word Processing formats
+     <a href="https://docs.aspose.com/words/java/convert-a-document/">Convert a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Styling of date &amp; numeric fields during mail merge
+     <a href="https://docs.aspose.com/words/java/rendering/">Render a Document to Fixed-layout Formats</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Split or combine documents. Move sections between files.
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-book ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Document encryption and the ability to load encrypted files
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Find &amp; replace text or enumerate over its elements
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Preserve or extract OLE objects &amp; ActiveX controls
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Preserve or remove VBA macros
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil-square ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Ability to detect digital signatures
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Insert HTML contents
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Convert EquationXML to Office Math
+     <a href="https://docs.aspose.com/words/java/compare-documents/">Compare Documents</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     LINQ Reporting Engine
+     <a href="https://docs.aspose.com/words/java/clone-a-document/">Clone a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/insert-and-append-documents/">Join documents: insert and append</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-th ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/split-a-document/">Split Files</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/find-and-replace/">Find and replace text</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/protect-or-encrypt-a-document/">Protect or Encrypt a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/working-with-digital-signatures/">Work with Digital Signatures</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-envelope-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/mail-merge-and-reporting/">Mail Merge and Reporting</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/working-with-watermark/">Add Watermark to a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/working-with-tables/">Work with Tables</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-database ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/linq-reporting-engine/">LINQ Reporting Engine</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/java/programming-with-documents/">Format All Document Elements</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comments-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Document revision Management
+     <a href="https://docs.aspose.com/words/java/working-with-comments/">Work with Comments and Revisions</a>
     </p>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">API Latest Features</h2>
-<p>Word Java API continuously enhancing its features to manipulate rich Microsoft Word files in all aspects. Here is a list of few latest features currently added.</p>
-<ul>
-
-<li>Get font leading/metrics of Running node.</li>
-
-<li>Provide API to identify Style Separator Paragraph.</li>
-
-<li>Generate tags for Table of contents in PDF.</li>
-
-<li>Reduce startup time.</li>
-
-<li>Add a border to a DML shape.</li>
-
-<li>Formatting the bar chart labels on Y axis.</li>
-
-<li>Preserve special content of DOC during DOC to DOCX conversion.</li>
-
-<li>Comment and Editable ranges are allowed at the block node level.</li>
-
-<li>Keep indentation of Lists when saving as Text.</li>
-
-<li>Preserve fields during Word to HTML to Word round trip.</li>
-
-</ul>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Support for Industry Standard Document Formats</h2>-->
-   <!--<p>Aspose.Words for Java supports many popular document formats. The distinct advantage of Aspose.Words is the great extent to which it supports the DOC format. It is incredibly hard to find another technology that has the same level of support for many important features other than in Microsoft Word itself. Aspose.Words also provide extensive support for loading, saving and converting WordprocessingML, RTF & ODT documents.</p>-->
-   <!--<p>Aspose.Words for Java supports many popular document formats as well as provide extensive support for loading, saving and converting DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM, OPC, ODT, OTT & HTML formats.</p>
-
-<ul>
-
-<li>Quick & reliable document formats conversion.</li>
-
-<li>The most complete DOC format implementation.</li>
-
-<li>Support for OOXML, FlatOPC and Word 2003 XML formats.</li>
-
-<li>Support for RTF format to interact with a variety of applications.</li>
-
-<li>Load & save HTML/MTML formats as well as convert such files to other formats.</li>
-
-<li>Load & save OTT & ODT files via APIs.</li>
-
-</ul>
-
-</div>-->
+   <div>
+   <p>
+     Please note that the list is not complete and you can find more features and descriptions in the <a href="https://docs.aspose.com/words/java/developer-guide/">documentation</a>.
+   </p>
+   </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert Word Processing Formats
+     Convert a Document in Java
     </h2>
     <p>
-     The ability to quickly and reliably save different formats with a high degree of precision is the reason most of our customers choose Aspose.Words. The Word processing and conversion Java API allows you to save Word files from any supported format to any other supported format with just two lines of code. It is really that simple!
+     The ability to quickly, reliably and efficiently save a file into different formats with a high degree of precision is the reason most of our customers choose Aspose.Words.
+    </p>
+    <p>
+     Java API allows you to convert a file from one supported format to another with just two lines of code. It is so simple!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save the file in different formats - Java
+      Save the file in different formats – Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -463,40 +422,53 @@ wpd.save(dir + "output.pdf", SaveFormat.PDF);
 
 wpd.save(dir + "output.html", SaveFormat.HTML);</code></pre>
     </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Automated Report Generation with Mail Merge
-    </h2>
     <p>
-     Aspose.Words for Java is a fully-featured reporting solution. You can design reports in Microsoft Word and then allow API to populate files with data from a number of data sources while keeping the mail merge settings preserved. Aspose.Words for Java allows using standard Microsoft Word mail merge fields in reports. Additionally, you can use library extended syntax for mail merge fields to perform more complex tasks during the merging operations such as inserting images or repeatable regions.
+     See more details on <a href="https://products.aspose.com/words/java/conversion/">the Conversion page</a>.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Build, Parse &amp; Edit with Document Object Model
+     Render, View or Print Files using Java
     </h2>
     <p>
-     Aspose.Words for Java helps developers to create, build, modify, parse and examine loaded files using our intuitive document object model that consists of over 100 classes. This object model allows the developers to programmatically create, modify, extract and replace all elements including Sections, Headers, Footers, Paragraphs, Lists, Tables, Text, Fields, Hyperlinks, Bookmarks, Images, Smart tags, Shapes, Custom XML and many other elements.
+     Aspose.Words for Java has its own rendering engine specifically designed to render and print documents with highest fidelity.
     </p>
     <p>
-     Furthermore, all drawing objects including shapes, TextBoxes, images, OLE objects, and controls are supported through this document object model, thus allowing you to perform many tasks such as inserting watermarks in pages or extracting images from a pre-existing file.
+     On the documentation pages you can find out how to:
+    </p>
+    <ul>
+    <li><a href="https://docs.aspose.com/words/java/rendering/">render pages or complete documents</a> </li>
+    <li><a href="https://docs.aspose.com/words/java/saving-a-document-as-a-multipage-tiff/">convert document pages to images</a> for preview</li>
+    <li>convert a document <a href="https://docs.aspose.com/words/java/specify-rendering-options-when-converting-to-pdf/">to PDF</a> or <a href="https://docs.aspose.com/words/java/learn-features-of-conversion-to-pdf-a/">PDF/A</a></li>
+    <li><a href="https://docs.aspose.com/words/java/using-truetype-fonts/">manage fonts and font substitutions</a></li>
+    <li><a href="https://docs.aspose.com/words/java/print-a-document-programmatically-or-using-dialogs/">print the documentc programmatically or using dialogs</li>
+    <li>and so on</li>
+    </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manipulate HTML Files with Ease
+     Reporting and Mail Merge
     </h2>
     <p>
-     API can load and save HTML and XHTML files. The import process is resilient to documents that are not well-formed, that is; invalid or unrecognized elements or attributes can safely be ignored during the import. Conversion to HTML &amp; XHTML is highly customizable thus allowing you to adjust a number of settings to suit the application requirements.
+     Aspose.Words for Java is a full featured reporting solution. You can design reports in Microsoft Word and then allow the API to populate files with data from a variety of data sources while keeping the mail merge settings preserved.
+    </p>
+    <p>
+     Aspose.Words for Java allows you to use standard Microsoft Word mail merge fields in reports. Additionally, you can use <a href="https://docs.aspose.com/words/java/mail-merge-and-reporting/">library extended syntax for mail merge fields</a> to perform more complex tasks during the merging operations such as inserting images or repeatable regions.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Utility Features to Improve Productivity
+     Programming with Documents Using Document Object Model (DOM)
     </h2>
     <p>
-     Aspose.Words for Java provides useful utility features such as join or split files, copy fragments between them, protect or un-protect files, modify properties and insert HTML fragments into documents. All of these features are available via easy-to-use APIs to help developers perform complex operations without worrying about the file format specifications.
+     Aspose.Words for Java helps developers to create, build, modify, parse and examine loaded files using our intuitive Document Object Model (DOM) that consists of over 100 classes. This object model allows developers to programmatically manipulate various elements such as Sections, Headers, Footers, Paragraphs, Lists, Tables, Text, Fields, Hyperlinks, Bookmarks, Images, Smart tags, Shapes, Custom XML and more.
+    </p>
+    <p>
+     Furthermore, all drawing objects, including shapes, text boxes, images, OLE objects and controls are supported through this document object model, allowing you to perform many tasks such as inserting watermarks on pages or extracting images from a pre-existing file.
+    </p>
+    <p>
+     Aspose.Words for Java provides useful utility features, for example, join or split files, find and replace text, protect or unprotect files, modify properties and insert HTML fragments into documents. All of these features are available via easy-to-use APIs to help developers perform complex operations without worrying about the file format specifications.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -523,10 +495,10 @@ dstDoc.save(dir + "output.docx");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation - Not Needed
+     No Need for Microsoft Office Automation
     </h2>
     <p>
-     Aspose.Words for Java is built using managed code that does not need Microsoft Office or Microsoft Word to be installed on the machine to work with Word formats. It is a perfect Microsoft Word automation alternative in terms of supported features, security, stability, scalability, speed and price.
+     You can work with documents programmatically without installing any other third-party application. This is possible because the library is built using managed code. Therefore, you <a href="https://docs.aspose.com/words/java/aspose-words-or-microsoft-office-automation/">do not need to install Microsoft Office or Microsoft Word on your computer</a> to work with Word formats. It is a perfect alternative to Microsoft Office Automation in terms of supported features, security, stability, scalability, speed, and price.
     </p>
    </div>
   </div>
