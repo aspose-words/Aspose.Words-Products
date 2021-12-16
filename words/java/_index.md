@@ -441,7 +441,7 @@ wpd.save(dir + "output.html", SaveFormat.HTML);</code></pre>
     <li><a href="https://docs.aspose.com/words/java/saving-a-document-as-a-multipage-tiff/">convert document pages to images</a> for preview</li>
     <li>convert a document <a href="https://docs.aspose.com/words/java/specify-rendering-options-when-converting-to-pdf/">to PDF</a> or <a href="https://docs.aspose.com/words/java/learn-features-of-conversion-to-pdf-a/">PDF/A</a></li>
     <li><a href="https://docs.aspose.com/words/java/using-truetype-fonts/">manage fonts and font substitutions</a></li>
-    <li><a href="https://docs.aspose.com/words/java/print-a-document-programmatically-or-using-dialogs/">print the documentc programmatically or using dialogs</li>
+    <li><a href="https://docs.aspose.com/words/java/print-a-document-programmatically-or-using-dialogs/">print the documentc programmatically or using dialogs</a></li>
     <li>and so on</li>
     </ul>
     </p>
