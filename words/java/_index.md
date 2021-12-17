@@ -414,7 +414,7 @@ Aspose.Words API supports all popular loading and saving formats. You can save o
 Document wpd = new Document(dir + "template.doc");
 
 // Convert DOC to DOCX
-wpd.save(dir + "output.docx", SaveFormat.DOCX);
+wpd.save(dir + "output.docx", SaveFormat.DOCX);</code></pre>
     </div>
     <div class="codeblock" id="code">
      <h3>
@@ -424,7 +424,7 @@ wpd.save(dir + "output.docx", SaveFormat.DOCX);
 Document wpd = new Document(dir + "template.html");
 
 // Convert HTML to DOCX
-wpd.save(dir + "output.docx", SaveFormat.DOCX);
+wpd.save(dir + "output.docx", SaveFormat.DOCX);</code></pre>
     </div>
     <div class="codeblock" id="code">
      <h3>
@@ -434,8 +434,8 @@ wpd.save(dir + "output.docx", SaveFormat.DOCX);
 Document wpd = new Document(dir + "template.rtf");
 
 // Convert RTF to PDF
-wpd.save(dir + "output.pdf", SaveFormat.PDF);
-    </div
+wpd.save(dir + "output.pdf", SaveFormat.PDF);</code></pre>
+    </div>
     <p>
      See more details on <a href="https://products.aspose.com/words/java/conversion/">the Conversion page</a>.
     </p>
