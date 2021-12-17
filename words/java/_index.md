@@ -408,20 +408,34 @@ Aspose.Words API supports all popular loading and saving formats. You can save o
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save the file in different formats – Java
+      Convert DOC to DOCX – Java
      </h3>
-     <pre><code class="java">// load the file to be converted
-
+     <pre><code class="java">// Load DOC file to be converted
 Document wpd = new Document(dir + "template.doc");
 
-// convert doc to docx, PDF and HTML
-
+// Convert DOC to DOCX
 wpd.save(dir + "output.docx", SaveFormat.DOCX);
-
-wpd.save(dir + "output.pdf", SaveFormat.PDF);
-
-wpd.save(dir + "output.html", SaveFormat.HTML);</code></pre>
     </div>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert HTML to DOCX – Java
+     </h3>
+     <pre><code class="java">// Load HTML file to be converted
+Document wpd = new Document(dir + "template.html");
+
+// Convert HTML to DOCX
+wpd.save(dir + "output.docx", SaveFormat.DOCX);
+    </div>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert RTF to PDF – Java
+     </h3>
+     <pre><code class="java">// Load RTF file to be converted
+Document wpd = new Document(dir + "template.rtf");
+
+// Convert RTF to PDF
+wpd.save(dir + "output.pdf", SaveFormat.PDF);
+    </div
     <p>
      See more details on <a href="https://products.aspose.com/words/java/conversion/">the Conversion page</a>.
     </p>
@@ -472,24 +486,19 @@ wpd.save(dir + "output.html", SaveFormat.HTML);</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Join two documents - Java
+      Join two documents – Java
      </h3>
-     <pre><code class="java">// load source &amp; destination files
-
+     <pre><code class="java">// Load source &amp; destination files
 Document srcDoc = new Document(dir + "source.docx");
-
 Document dstDoc = new Document(dir + "destination.docx");
 
-// set the appended file to start from a new page
-
+// Set the appended file to start from a new page
 srcDoc.getFirstSection().getPageSetup().setSectionStart(SectionStart.NEW_PAGE);
 
-// append the source file using its original styles
-
+// Append the source file using its original styles
 dstDoc.appendDocument(srcDoc, ImportFormatMode.KEEP_SOURCE_FORMATTING);
 
-// save final result
-
+// Save final result
 dstDoc.save(dir + "output.docx");</code></pre>
     </div>
    </div>
