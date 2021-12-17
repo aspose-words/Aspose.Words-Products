@@ -490,20 +490,37 @@ description: C# ASP.NET VB.NET library to work with Word files. Create edit conv
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save the document in different formats – C#
+      Convert Word to PDF using C#, e.g. DOCX to PDF – C#
      </h3>
-     <pre><code class="cs">// load the file to be converted
+     <pre><code class="cs">// Load DOCX file to be converted
+var wrdf = new Aspose.Words.Document(dir + "template.docx");
 
-var wrdf = new Aspose.Words.Document(dir + "template.doc");
+// Convert DOCX to PDF
+wrdf.Save(dir + "output.pdf", Aspose.Words.SaveFormat.Pdf);</code></pre>
+    </div>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert Word to HTML using C#, e.g. DOCX to HTML – C#
+     </h3>
+     <pre><code class="cs">// Load DOCX file to be converted
+var wrdf = new Aspose.Words.Document(dir + "template.docx");
 
-// save in different formats
-
-wrdf.Save(dir + "output.docx", Aspose.Words.SaveFormat.Docx);
-
-wrdf.Save(dir + "output.pdf", Aspose.Words.SaveFormat.Pdf);
-
+// Convert DOCX to HTML
 wrdf.Save(dir + "output.html", Aspose.Words.SaveFormat.Html);</code></pre>
     </div>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert PDF to JPG – C#
+     </h3>
+     <pre><code class="cs">// Load PDF file to be converted
+var wrdf = new Aspose.Words.Document(dir + "template.pdf");
+
+// Convert PDF to JPG
+wrdf.Save(dir + "output.jpeg", Aspose.Words.SaveFormat.Jpeg);</code></pre>
+    </div>
+    <p>
+     See more details on <a href="https://products.aspose.com/words/net/conversion/">the Conversion page</a>.
+    </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
