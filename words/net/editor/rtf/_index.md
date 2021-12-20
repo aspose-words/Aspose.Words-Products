@@ -116,7 +116,7 @@ try{
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -127,20 +127,20 @@ try{
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/demobox sectionTitle="Online RTF Editor Live Demos" sectionDescription="Edit RTF documents right now by visiting our [Live Demos website](https://products.aspose.app/words/editor). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your RTF files, Use online editor for editing instantly." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Then save and download." >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="RTF" readMoreLink="https://docs.fileformat.com/word-processing/rtf/" >}}
 Introduced and documented by Microsoft, the Rich Text Format (RTF) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public download and can be referred to from developer's perspective. 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -158,7 +158,7 @@ Introduced and documented by Microsoft, the Rich Text Format (RTF) represents a 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/ott/" name="OTT" description="OpenDocument Standard Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/xhtml/" name="XHTML" description="XML Text Based Markup" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/flatopc/" name="FLATOPC" description="OOXML stored in a flat XML file" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

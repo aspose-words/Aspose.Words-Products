@@ -116,7 +116,7 @@ try{
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -127,20 +127,20 @@ try{
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/demobox sectionTitle="Online MHTML Editor Live Demos" sectionDescription="Edit MHTML documents right now by visiting our [Live Demos website](https://products.aspose.app/words/editor). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your MHTML files, Use online editor for editing instantly." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Then save and download." >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
 Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557. 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -158,7 +158,7 @@ Files with MHTML extension represent a web page archive format that can be creat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/rtf/" name="RTF" description="Rich Text Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/xhtml/" name="XHTML" description="XML Text Based Markup" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/flatopc/" name="FLATOPC" description="OOXML stored in a flat XML file" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

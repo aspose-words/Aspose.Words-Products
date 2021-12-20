@@ -116,7 +116,7 @@ try{
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -127,20 +127,20 @@ try{
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/demobox sectionTitle="Online MD Editor Live Demos" sectionDescription="Edit MD documents right now by visiting our [Live Demos website](https://products.aspose.app/words/editor). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your MD files, Use online editor for editing instantly." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Then save and download." >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}
 Text files created with Markdown language dialects is saved with .MD or .MARKDOWN file extension. MD files are saved in plain text format that uses Markdown language which also includes inline text symbols, defining how a text can be formatted such as indentations, table formatting, fonts, and headers.  MD files can be converted to HTML with a program called Markdown. Markdown language is released by John Gruber. 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -158,7 +158,7 @@ Text files created with Markdown language dialects is saved with .MD or .MARKDOW
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/rtf/" name="RTF" description="Rich Text Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/xhtml/" name="XHTML" description="XML Text Based Markup" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/flatopc/" name="FLATOPC" description="OOXML stored in a flat XML file" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -116,7 +116,7 @@ try{
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -127,20 +127,20 @@ try{
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/demobox sectionTitle="Online DOCX Editor Live Demos" sectionDescription="Edit DOCX documents right now by visiting our [Live Demos website](https://products.aspose.app/words/editor). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DOCX files, Use online editor for editing instantly." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Then save and download." >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}
 DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 with the release of Microsoft Office 2007, the structure of this new Document format was changed from plain binary to a combination of XML and binary files. Docx files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word which support DOC file extensions. 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -158,7 +158,7 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/rtf/" name="RTF" description="Rich Text Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/xhtml/" name="XHTML" description="XML Text Based Markup" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/flatopc/" name="FLATOPC" description="OOXML stored in a flat XML file" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

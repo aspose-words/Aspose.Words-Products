@@ -116,7 +116,7 @@ try{
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -127,20 +127,20 @@ try{
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/demobox sectionTitle="Online ODT Editor Live Demos" sectionDescription="Edit ODT documents right now by visiting our [Live Demos website](https://products.aspose.app/words/editor). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your ODT files, Use online editor for editing instantly." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Then save and download." >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ODT" readMoreLink="https://docs.fileformat.com/word-processing/odt/" >}}
 ODT files are type of documents created with word processing applications that are based on OpenDocument Text File format. These are created with word processor applications such as free OpenOffice Writer and can hold content such as text, images, objects and styles. The ODT file is to Writer word processor what the DOCX is to Microsoft Word. Several applications including Google Docs and Google's web-based word processor included with Google Drive can open the ODT files for editing. Microsoft Word can also open ODT files and save it in to other formats such as DOC and DOCX. 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -158,7 +158,7 @@ ODT files are type of documents created with word processing applications that a
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/rtf/" name="RTF" description="Rich Text Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/xhtml/" name="XHTML" description="XML Text Based Markup" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/flatopc/" name="FLATOPC" description="OOXML stored in a flat XML file" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

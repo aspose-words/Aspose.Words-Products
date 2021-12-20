@@ -110,7 +110,7 @@ try{
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -121,27 +121,27 @@ try{
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/demobox sectionTitle="Online MOBI Editor Live Demos" sectionDescription="Edit MOBI documents right now by visiting our [Live Demos website](https://products.aspose.app/words/editor). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your MOBI files, Use online editor for editing instantly." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Then save and download." >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="MOBI" readMoreLink="https://docs.fileformat.com/ebook/mobi/" >}}
 The MOBI file format is one of the most widely used ebook file format. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as proprietary format for Mobipocket Reader. Like EPUB, it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as PDF, EPUB and several other formats using publicly available software applications such as the Kindle app. There are several companies that offer free MOBI books such as Project Gutenberg, Feedbooks, and Open Library. 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using C#, one can easily edit different formats using any editor including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/doc/" name="DOC" description="Microsoft Word Binary Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/docx/" name="DOCX" description="Office 2007+ Words Document" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/dot/" name="DOT" description="Microsoft Word Template Files" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/dotx/" name="DOTX" description="Microsoft Word Template File" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/html/" name="HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/md/" name="MD" description="Markdown Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/mhtml/" name="MHTML" description="Web Page Archive Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/odt/" name="ODT" description="OpenDocument Text File Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/ott/" name="OTT" description="OpenDocument Standard Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/rtf/" name="RTF" description="Rich Text Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/xhtml/" name="XHTML" description="XML Text Based Markup" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/doc/" name="DOC" description="Microsoft Word Binary Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/docx/" name="DOCX" description="Office 2007+ Words Document" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/dot/" name="DOT" description="Microsoft Word Template Files" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/dotx/" name="DOTX" description="Microsoft Word Template File" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/html/" name="HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/md/" name="MD" description="Markdown Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/mhtml/" name="MHTML" description="Web Page Archive Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/odt/" name="ODT" description="OpenDocument Text File Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/ott/" name="OTT" description="OpenDocument Standard Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/pdf/" name="PDF" description="Portable Document Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/rtf/" name="RTF" description="Rich Text Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/txt/" name="TXT" description="Text Document" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/words/net/editor/flatopc/" name="FLATOPC" description="OOXML stored in a flat XML file" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
