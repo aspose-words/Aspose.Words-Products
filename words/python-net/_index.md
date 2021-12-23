@@ -17,7 +17,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
 <p><strong>Aspose.Words for Python via .NET</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting. Thus, Aspose.Words enables Python developers a unique opportunity to implement script-based document automation.</p>
 <p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with a great number of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
 <p>Aspose.Words team decided to keep up with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML and other file formats. You can see <a href="https://docs.aspose.com/words/python-net/supported-document-formats/">the full list of supported formats</a>.</p>
-<p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
+<p><i>Note:</i> according to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
 <h2 class="h2title">Functionality of Aspose.Words for Python via .NET</h2>
 <p>Aspose.Words is a self-contained Python library. You do not need to install any office suite to get your Python code working. This Python API relies on the <a href="https://docs.aspose.com/words/python-net/aspose-words-document-object-model/">Document Object Model (DOM)</a> to access document nodes and elements.</p>
 {{< /blocks/products/pf/tab-content >}}
@@ -407,7 +407,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
     <em class="fa fa-database ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="https://docs.aspose.com/words/net/linq-reporting-engine/">LINQ Reporting Engine</a>
+     <a href="https://docs.aspose.com/words/python-net/linq-reporting-engine/">LINQ Reporting Engine</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -503,10 +503,10 @@ doc.save("Output.html")
 </code>
 </pre>
     </div>
-   </div>
    <p>
      See <a href="https://docs.aspose.com/words/python-net/convert-a-document/">the Conversion section</a> for more details.
     </p>
+   </div>
   </div>
  </div>
 </div>
