@@ -1,13 +1,12 @@
 ---
-title: Python Word Document Processing API - Aspose 
+title: Python Word Document Processing API – Aspose 
 weight: 2200
 url: /python-net/
-aliases: [/python/]
 description: Python library to work with Microsoft Word files. Create edit convert DOCX DOC RTF PDF EPUB WordML ODT HTML Text and much more formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Process Word Documents" h2="Create, manipulate, render or convert Word files to multiple formats as well as generate reports without depending on any external software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-python.svg" pfName="Aspose.Words" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/words/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python API to Process Word Documents" h2="Create, edit, render and convert Word files to multiple formats using Python. Also generate reports and visualize your data. All this without using external software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-python.svg" pfName="Aspose.Words" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/words/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Python via .NET" >}}
 
@@ -15,13 +14,12 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
 {{< blocks/products/pf/tab-content >}}
 
-<p><strong>Aspose.Words for Python via .NET</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. This product enables Python developers a unique possibility to implement script-based document automation. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting.</p>
+<p><strong>Aspose.Words for Python via .NET</strong> is a package, designed to read and manipulate documents of various types, with a primary focus on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. Our library contains more than 100 Python classes to handle low-level operations behind document processing and data formatting. Thus, Aspose.Words enables Python developers a unique opportunity to implement script-based document automation.</p>
 <p>With the advent of powerful computer hardware in the last decades, Python has become a programming language widely used in web development (Django, Flask, Pyramid frameworks), scientific tasks, and data analytics. The usefulness of Python derives from a vast ecosystem of third-party packages. Supplied with a great number of progressively developing libraries, Python is considered to be the best choice for rapid software development.</p>
+<p>Aspose.Words team decided to keep up with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML and other file formats. You can see <a href="https://docs.aspose.com/words/python-net/supported-document-formats/">the full list of supported formats</a>.</p>
 <p>According to TIOBE Programming Index, which reflects the popularity of programming languages, Python today is a programming language number one.</p>
-<p>Aspose.Words team decided to keep up in the line with the latest programming trends and supply Python community with professional software to process DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML files.</p>
 <h2 class="h2title">Functionality of Aspose.Words for Python via .NET</h2>
-<p>Aspose.Words is a self-contained Python library. You do not need to install any office suite to get your Python code working. This Python API relies on the "Document Object Model" (DOM) to access document nodes and elements.</p>
-
+<p>Aspose.Words is a self-contained Python library. You do not need to install any office suite to get your Python code working. This Python API relies on the <a href="https://docs.aspose.com/words/python-net/aspose-words-document-object-model/">Document Object Model (DOM)</a> to access document nodes and elements.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -315,177 +313,120 @@ description: Python library to work with Microsoft Word files. Create edit conve
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Python Word API Features
+    Advanced Python Words API Features
    </h2>
    <p>
+   Check out the most popular features in Aspose.Words:
    </p>
+   <div style="height:40px"></div>
    <div class="col-lg-4">
-    <em class="fa fa-envelope-square ico-blue fa-2x col-lg-2">
+    <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Perform mail merge &amp; generate reports
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-word-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Insert formatted text, paragraphs, images, and tables
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-table ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Fill tables using data from the database as well as create and modify table styles
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Create mailing labels
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-database ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Move sections between files
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-database ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Mail merge data from multiple tables
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add watermark to document
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Format date and numeric fields during mail merge
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Join and split files
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Encrypt documents as well as Load encrypted files
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Find and replace text, enumerate over document content
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Preserve or extract OLE objects and ActiveX controls
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Preserve or remove VBA macros
+     <a href="https://docs.aspose.com/words/python-net/convert-a-document/">Convert a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Preserve VBA macros' digital signature
+     <a href="https://docs.aspose.com/words/python-net/rendering/">Render a Document to Fixed-layout Formats</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-pencil-square ico-blue fa-2x col-lg-2">
+    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Detect digital signatures
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Insert HTML contents
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Interconvert file format
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-bookmark-o ico-blue fa-2x col-lg-2">
-    </em>
-    <!--<p class="col-lg-10">Bookmarks are Allowed on Block, Cell, Row Levels</p>-->
-    <p class="col-lg-10">
-     Add a bookmark at a deep level
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Convert EquationXML to Office Math
+     <a href="https://docs.aspose.com/words/python-net/compare-documents/">Compare Documents</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nested reports are supported by LINQ reporting engine
+     <a href="https://docs.aspose.com/words/python-net/clone-a-document/">Clone a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-cog ico-blue fa-2x col-lg-2">
+    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create snip corner rectangle
+     <a href="https://docs.aspose.com/words/python-net/insert-and-append-documents/">Join documents: insert and append</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
+    <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Save the resources of MHTML document using the "Content-Id" URL Scheme
+     <a href="https://docs.aspose.com/words/python-net/split-a-document/">Split Files</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-commenting-o ico-blue fa-2x col-lg-2">
+    <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Show or hide comments in fixed file format
+     <a href="https://docs.aspose.com/words/python-net/find-and-replace/">Find and replace text</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/python-net/protect-or-encrypt-a-document/">Protect or Encrypt a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/python-net/working-with-digital-signatures/">Work with Digital Signatures</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-envelope-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/python-net/mail-merge-and-reporting/">Mail Merge and Reporting</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/python-net/working-with-watermark/">Add Watermark to a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/python-net/working-with-tables/">Work with Tables</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-database ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/net/linq-reporting-engine/">LINQ Reporting Engine</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/python-net/programming-with-documents/">Format All Document Elements</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comments-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Show revisions in balloons
+     <a href="https://docs.aspose.com/words/python-net/working-with-comments/">Work with Comments and Revisions</a>
+    </p>
+   </div>
+   <div>
+   <p>
+     Please note that the list is not complete and you can find more features and descriptions in the <a href="https://docs.aspose.com/words/python-net/developer-guide/">documentation</a>.
     </p>
    </div>
    <div class="col-lg-12">
@@ -499,18 +440,27 @@ description: Python library to work with Microsoft Word files. Create edit conve
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     How to Install
+     How to Install the Python Library
     </h2>
     <p>Use <strong>pip</strong> to install our Python library for Word document processing from the <a href="https://pypi.org/project/aspose-words/">PyPI repository</a>:
+    <div class="codeblock" id="code">
+     <h3>
+      How to Install Aspose.Words for Python via .NET
+     </h3>
 	<pre><code>pip install aspose-words</code></pre>
+    </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Edit a Word document in Python
+     Edit Word documents in Python
     </h2>
     <p>
-     The following code example shows how to insert text to a document, and save the result as PDF:
+     The following code example shows how to create a blank document, insert text into it and save the result as PDF:
     </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Create a Document and Save it to PDF – Python
+     </h3>
 <pre>
 <code class="python">
 import aspose.words as aw
@@ -528,14 +478,19 @@ builder.writeln("Hello World!")
 doc.save("Output.pdf")
 </code>
 </pre>
+    </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert a Word document in Python
+     Convert Word documents in Python
     </h2>
     <p>
      You can easily convert files from one format to another. Do you know how to extract text from Word documents via Python? The following code sample shows how to do it with a single line of code by converting DOCX to HTML:
     </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert DOCX to HTML – Python
+     </h3>
 	<pre>
 <code class="python">
 import aspose.words as aw
@@ -547,7 +502,11 @@ doc = aw.Document("Input.docx")
 doc.save("Output.html")
 </code>
 </pre>
+    </div>
    </div>
+   <p>
+     See <a href="https://docs.aspose.com/words/python-net/convert-a-document/">the Conversion section</a> for more details.
+    </p>
   </div>
  </div>
 </div>
