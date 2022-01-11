@@ -90,7 +90,7 @@ description: C++ Word document processing library to add file manipulation capab
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Word Processing Library" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Word Processing Library" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -142,7 +142,7 @@ description: C++ Word document processing library to add file manipulation capab
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg"/>
+  <img width="70" height="75" alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -237,7 +237,7 @@ description: C++ Word document processing library to add file manipulation capab
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg"/>
   <header>
    Aspose.Words
   </header>

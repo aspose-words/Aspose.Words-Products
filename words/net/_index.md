@@ -125,7 +125,7 @@ description: C# ASP.NET VB.NET library to work with Word files. Create edit conv
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -229,7 +229,7 @@ description: C# ASP.NET VB.NET library to work with Word files. Create edit conv
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
+  <img width="70" height="75" alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -337,7 +337,7 @@ description: C# ASP.NET VB.NET library to work with Word files. Create edit conv
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C# Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
+  <img width="70" height="75" alt="C# Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg"/>
   <header>
    Aspose.Words
   </header>

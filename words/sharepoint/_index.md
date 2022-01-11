@@ -69,7 +69,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Word Document Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Word Document Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -140,7 +140,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document App for SharePoint" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="Word Document App for SharePoint" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -220,7 +220,7 @@ description: SharePoint Word Files Converter API for MOSS & WSS. Document librar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Document Format Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Document Format Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg"/>
   <header>
    Aspose.Words
   </header>

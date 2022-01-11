@@ -106,7 +106,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg"/>
+  <img width="70" height="75" alt="Python Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -175,7 +175,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg"/>
+  <img width="70" height="75" alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -284,7 +284,7 @@ description: Python library to work with Microsoft Word files. Create edit conve
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg"/>
+  <img width="70" height="75" alt="Python Word Programming APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg"/>
   <header>
    Aspose.Words
   </header>

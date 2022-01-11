@@ -97,7 +97,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="RDL to Word Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="RDL to Word Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -177,7 +177,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SSRS to Word Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="SSRS to Word Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -261,7 +261,7 @@ description: SQL Server Reporting Services rendering extension - Export Word DOC
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Rendering Extension" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="Word Rendering Extension" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg"/>
   <header>
    Aspose.Words
   </header>

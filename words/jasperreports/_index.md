@@ -50,7 +50,7 @@ description: Export reports from Jasper Reports and JasperServer in Word DOC Off
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -108,7 +108,7 @@ description: Export reports from Jasper Reports and JasperServer in Word DOC Off
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -169,7 +169,7 @@ description: Export reports from Jasper Reports and JasperServer in Word DOC Off
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg"/>
   <header>
    Aspose.Words
   </header>

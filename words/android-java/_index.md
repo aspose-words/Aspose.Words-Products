@@ -119,7 +119,7 @@ description: Word processing library for mobile applications. Create Read Edit a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
+  <img width="70" height="75" alt="Android Word Processing APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -159,7 +159,7 @@ description: Word processing library for mobile applications. Create Read Edit a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Word Document Format APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
+  <img width="70" height="75" alt="Android Word Document Format APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -270,7 +270,7 @@ description: Word processing library for mobile applications. Create Read Edit a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
+  <img width="70" height="75" alt="Word Document Manipulation APIs" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-android-java.svg"/>
   <header>
    Aspose.Words
   </header>

@@ -97,7 +97,7 @@ Aspose.Words API supports all popular loading and saving formats. You can save o
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java APIs for Word Documents" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
+  <img width="70" height="75" alt="Java APIs for Word Documents" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -140,7 +140,7 @@ Aspose.Words API supports all popular loading and saving formats. You can save o
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Word Processing API" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
+  <img width="70" height="75" alt="Java Word Processing API" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
   <header>
    Aspose.Words
   </header>
@@ -251,7 +251,7 @@ Aspose.Words API supports all popular loading and saving formats. You can save o
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Word Document Manipulation APIs for Java" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
+  <img width="70" height="75" alt="Word Document Manipulation APIs for Java" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"/>
   <header>
    Aspose.Words
   </header>
