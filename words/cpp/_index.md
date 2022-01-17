@@ -2,21 +2,21 @@
 title: C++ Word API | Document Creation Parsing and Conversion 
 weight: 8250
 url: /cpp/ 
-description: C++ Word document processing library to add file manipulation capabilities. Developers can dynamically read write and parse Microsoft Word formats.
+description: C++ Word document processing library to generate, edit, convert and render a document using C++. Dynamically read, write and parse Word formats like DOC, DOCX, or other formats like PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert & render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-cpp.svg" pfName="Aspose.Words" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Word Document Processing API" h2="Generate, edit, convert and render Microsoft Word documents in C++ application without requiring Microsoft Word." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/headers/aspose_words-for-cpp.svg" pfName="Aspose.Words" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/cpp/" installationsDocsLink="https://docs.aspose.com/words/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Words.cpp" nugetPackageName="Aspose.Words.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Words for C++ is an advanced Word Document Processing API to perform a wide range of processing tasks. API provides document formatting, manipulation, mail merge, watermarking and much more capabilities directly within your own C++ applications without requiring Microsoft Word. API supports most of the Microsoft Word formats, and can render the document pages to a number of image formats.
-</p>
-
+<p><strong>Aspose.Words for C++</strong> is an advanced Word Document Processing API to perform a wide range of processing tasks. Words' API provides document formatting, manipulation, mail merge, watermarking and much more capabilities directly within your own C++ applications without requiring Microsoft Word.</p>
+<p>Aspose.Words API supports most of the Microsoft Word formats, and can render the document pages to a number of image formats. Thus, you can work with documents in DOC, DOCX, PDF, RTF, DOT, DOTX, DOTM, DOCM, FlatOPC, ODT, OTT, HTML, MHTML, MOBI, TXT, XPS, PS, TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, PCL, EPUB, XML, XAML and more. You can see <a href="https://docs.aspose.com/words/cpp/supported-document-formats/">the full list of supported formats</a>.</p>
+<h2 class="h2title">Functionality of Aspose.Words for C++</h2>
+<p>Aspose.Words is a self-contained C++ library. You do not need to install additional applications to get your C++ code working. This C++ API relies on the <a href="https://docs.aspose.com/words/cpp/aspose-words-document-object-model/">Document Object Model (DOM)</a> to access document nodes and elements.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -259,98 +259,127 @@ description: C++ Word document processing library to add file manipulation capab
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced C++ Word Document Processing API Features
+    Advanced C++ Word API Features
    </h2>
    <p>
+   Check out the most popular features in Aspose.Words:
    </p>
+   <div style="height:40px"></div>
    <div class="col-lg-4">
-    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Join &amp; split files on the fly
+     <a href="https://docs.aspose.com/words/cpp/convert-a-document/">Convert a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-word-o ico-blue fa-2x col-lg-2">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate built-in &amp; custom properties
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Enumerate over file content
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-database ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Preserve OLE objects and ActiveX controls
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Manipulate fonts, colors, effects, borders &amp; shading
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Manipulate indents, spacing, borders, shading, tab stops
+     <a href="https://docs.aspose.com/words/cpp/rendering/">Render a Document to Fixed-layout Formats</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate bulleted and numbered lists
+     <a href="https://docs.aspose.com/words/cpp/compare-documents/">Compare Documents</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate paper size, margins &amp; orientation
+     <a href="https://docs.aspose.com/words/cpp/clone-a-document/">Clone a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/insert-and-append-documents/">Join documents: insert and append</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-th ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/split-a-document/">Split Files</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Find, replace &amp; highlight text
+     <a href="https://docs.aspose.com/words/cpp/find-and-replace/">Find and replace text</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/protect-or-encrypt-a-document/">Protect or Encrypt a Document</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/working-with-digital-signatures/">Work with Digital Signatures</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail Merge support
+     <a href="https://docs.aspose.com/words/cpp/mail-merge-and-reporting/">Mail Merge and Reporting</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-edit ico-blue fa-2x col-lg-2">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Update fields except page layout to porting
+     <a href="https://docs.aspose.com/words/cpp/working-with-watermark/">Add Watermark to a Document</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert EquationXML to Office Math
+     <a href="https://docs.aspose.com/words/cpp/working-with-tables/">Work with Tables</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-database ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/working-with-fields/">Insert, Update or Remove Fields</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/programming-with-documents/">Format All Document Elements</a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-comments-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/words/cpp/working-with-comments/">Work with Comments and Revisions</a>
+    </p>
+   </div>
+   <div>
+   <p>
+     Please note that the list is not complete and you can find more features and descriptions in the <a href="https://docs.aspose.com/words/cpp/developer-guide/">documentation</a>.
     </p>
    </div>
    <div class="col-lg-12">
@@ -364,62 +393,71 @@ description: C++ Word document processing library to add file manipulation capab
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Join or Append Documents
+     Convert a Document in C++
+    </h2>
+    <p>
+     Convert a file from one supported format to another with just two lines of code. It is so simple!
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert Word to PDF using C++, e.g. DOCX to PDF – C++
+     </h3>
+     <pre><code class="cpp">
+// Load the document from disk.
+System::SharedPtr<Document> doc = System::MakeObject<Document>(inputDataDir + u"Rendering.doc");
+
+System::String outputPath = outputDataDir + u"Doc2Pdf.SaveDoc2Pdf.pdf";
+// Save the document in PDF format.
+doc->Save(outputPath);
+     </code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Join or Append Documents in C++
     </h2>
     <p>
      Aspose.Words for C++ supports joining &amp; appending multiple files into one. This process is very simple as well as configurable, providing the means to control how the files are joined. C++ Word processing library also allows resetting the page numbering after joining the documents.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Join two files - C++
+      Merge two files – C++
      </h3>
      <pre><code class="cpp">
-
-// load source &amp; destination files
+// Load source and destination files.
 auto dstDoc = System::MakeObject&lt;Document&gt;(dir + u"destination.doc");
-
 auto srcDoc = System::MakeObject&lt;Document&gt;(dir + u"source.doc");
 
-
-// set the appended file to start on a new page
+// Set the appended file to start on a new page.
 srcDoc->get_FirstSection()->get_PageSetup()->set_SectionStart(SectionStart::NewPage); 
 
-// append the source file using the original styles found in the source file
+// Append the source file using the original styles found in the source file.
 dstDoc->AppendDocument(srcDoc, ImportFormatMode::KeepSourceFormatting); 
 
-// save the result 
+// Save the result.
 dstDoc->Save(dir + u"output.doc);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Add Watermark to Documents
-    </h2>
-    <p>
-     Aspose.Words for C++ provides extensive support for watermarks. While using API, it is very easy to insert any shape, image or text as a watermark with the ability to format it in any way. This provides the ability to create watermark of any imaginable type.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Easy to Use Security Options
+     Use Document Protection in C++
     </h2>
     <p>
      Aspose.Words for C++ offers the facility to protect &amp; un-protect documents with single line of code. You may set the protection in a way that the user can make only limited changes, such as adding annotations, making revisions or completing a form.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Protect/un-protect files - C++
+      Protect and unprotect files – C++
      </h3>
      <pre><code class="cpp">
-// load a document to be processed
+// Load a document to be processed.
 auto wrdoc = System::MakeObject&lt;Document&gt;(dir + u"template.doc");
 
-// protect the file 
+// Protect the file.
 wrdoc->Protect(ProtectionType::AllowOnlyFormFields, u"password");
 
-// un-protect the file 
-wrdoc->Unprotect(); 
-
+// Unprotect the file.
+wrdoc->Unprotect();
 </code></pre>
     </div>
    </div>
@@ -429,7 +467,6 @@ wrdoc->Unprotect();
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
