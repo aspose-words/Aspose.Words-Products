@@ -340,11 +340,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 <div class="row app-styles">
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/editor">
+     <a href="https://products.aspose.app/words/editor">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_editor-app.png" alt="Editor" align="left">
      </a>
     </div>
-    <a href="/words/editor">
+    <a href="https://products.aspose.app/words/editor">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -360,11 +360,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/merger">
+     <a href="https://products.aspose.app/words/merger">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" alt="Merger" align="left">
      </a>
     </div>
-    <a href="/words/merger">
+    <a href="https://products.aspose.app/words/merger">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -379,11 +379,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/viewer">
+     <a href="https://products.aspose.app/words/viewer">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" alt="Viewer" align="left">
      </a>
     </div>
-    <a href="/words/viewer">
+    <a href="https://products.aspose.app/words/viewer">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -399,11 +399,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/conversion">
+     <a href="https://products.aspose.app/words/conversion">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" alt="Сonversion" align="left">
      </a>
     </div>
-    <a href="/words/conversion">
+    <a href="https://products.aspose.app/words/conversion">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -419,11 +419,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/splitter">
+     <a href="https://products.aspose.app/words/splitter">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_words-splitter-app.png" alt="Splitter" align="left">
      </a>
     </div>
-    <a href="/words/splitter">
+    <a href="https://products.aspose.app/words/splitter">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -439,11 +439,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/removepages">
+     <a href="https://products.aspose.app/words/removepages">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_removepages-app.png" alt="RemovePages" align="left">
      </a>
     </div>
-    <a href="/words/removepages">
+    <a href="https://products.aspose.app/words/removepages">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -460,11 +460,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/ocr">
+     <a href="https://products.aspose.app/words/ocr">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_document-ocr-app.png" alt="OCR" align="left">
      </a>
     </div>
-    <a href="/words/ocr">
+    <a href="https://products.aspose.app/words/ocr">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -479,11 +479,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/unlock">
+     <a href="https://products.aspose.app/words/unlock">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_unlock-app.png" alt="Unlock" align="left">
      </a>
     </div>
-    <a href="/words/unlock">
+    <a href="https://products.aspose.app/words/unlock">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -499,11 +499,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/comparison">
+     <a href="https://products.aspose.app/words/comparison">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_comparison-app.png" alt="Comparison" align="left">
      </a>
     </div>
-    <a href="/words/comparison">
+    <a href="https://products.aspose.app/words/comparison">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -520,11 +520,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/translator">
+     <a href="https://products.aspose.app/words/translator">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_translate-app.png" alt="Translator" align="left">
      </a>
     </div>
-    <a href="/words/translator">
+    <a href="https://products.aspose.app/words/translator">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -539,11 +539,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/compress">
+     <a href="https://products.aspose.app/words/compress">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_compress-app.png" alt="Compress" align="left">
      </a>
     </div>
-    <a href="/words/compress">
+    <a href="https://products.aspose.app/words/compress">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
@@ -559,11 +559,11 @@ description: Python library to work with Microsoft Word files. Create edit conve
 
    <div class="col-lg-4">
     <div class="imgblock">
-     <a href="/words/watermark">
+     <a href="https://products.aspose.app/words/watermark">
       <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" alt="Watermark" align="left">
      </a>
     </div>
-    <a href="/words/watermark">
+    <a href="https://products.aspose.app/words/watermark">
      <p class="col-lg-10 aspose-words">
      Aspose.Words
      </p>
