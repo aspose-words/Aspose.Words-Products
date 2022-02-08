@@ -268,8 +268,277 @@ description: C++ Word document processing library to generate, edit, convert and
    <h2 class="pr-ft">
     Advanced C++ Word API Features
    </h2>
+   
    <p>
-   Check out the most popular features in Aspose.Words:
+   You can try some of the popular Aspose.Words features on the online application pages:
+   </p>
+   <div style="height:40px"></div>
+
+  <style>
+  .app-styles .col-lg-4 .imgblock img {
+  width: 50px;
+  height: 50px;
+  }
+  .app-styles .col-lg-4 a .description,
+  .app-styles .col-lg-4 a .aspose-words {
+  font-size: 10pt;
+  }
+  .app-styles .col-lg-4 a .aspose-words {
+  margin: 0 0 0 10px;
+  }
+  .app-styles .col-lg-4 a .app-name {
+  margin: -20px 0 0 10px; !important
+  }
+  </style>
+
+<div class="row app-styles">
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/editor">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_editor-app.png" alt="Editor" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/editor">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Editor</strong>
+     </p>
+     <p class="description">
+      A simple online alternative to Microsoft Word<br>
+      and OpenOffice
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/merger">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" alt="Merger" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/merger">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Merger</strong>
+     </p>
+     <p class="description">
+      An easy way to join multiple files together
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/viewer">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" alt="Viewer" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/viewer">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Viewer</strong>
+     </p>
+     <p class="description">
+      View Word & OpenOffice documents from any device
+     </p>
+    </a>
+    <div style="height:50px"></div>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/conversion">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" alt="Сonversion" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/conversion">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Сonversion</strong>
+     </p>
+     <p class="description">
+      Convert documents with speed and<br>
+      professional quality
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/splitter">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_words-splitter-app.png" alt="Splitter" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/splitter">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Splitter</strong>
+     </p>
+     <p class="description">
+      Split documents to separate pages<br>
+      Various splitting modes are supported
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/removepages">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_removepages-app.png" alt="RemovePages" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/removepages">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>RemovePages</strong>
+     </p>
+     <p class="description">
+      Remove a single page or multiple pages from a document<br>
+      Delete blank pages in documents
+     </p>
+    </a>
+    <div style="height:50px"></div>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/ocr">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_document-ocr-app.png" alt="OCR" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/ocr">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>OCR</strong>
+     </p>
+     <p class="description">
+      Capture and extract text from image files
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/unlock">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_unlock-app.png" alt="Unlock" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/unlock">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Unlock</strong>
+     </p>
+     <p class="description">
+      Unlock protected Word and OpenOffice documents<br>
+      with a provided password
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/comparison">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_comparison-app.png" alt="Comparison" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/comparison">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Comparison</strong>
+     </p>
+     <p class="description">
+      Compare two documents and download<br>
+      the result highlighting all differences
+     </p>
+    </a>
+    <div style="height:50px"></div>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/translator">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_translate-app.png" alt="Translator" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/translator">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Translator</strong>
+     </p>
+     <p class="description">
+      Quick and high-quality document translation service
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/compress">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_compress-app.png" alt="Compress" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/compress">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Compress</strong>
+     </p>
+     <p class="description">
+      Shrink the size of documents while preserving<br>
+      the original quality
+     </p>
+    </a>
+   </div>
+
+   <div class="col-lg-4">
+    <div class="imgblock">
+     <a href="https://products.aspose.app/words/watermark">
+      <img src="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" alt="Watermark" align="left">
+     </a>
+    </div>
+    <a href="https://products.aspose.app/words/watermark">
+     <p class="col-lg-10 aspose-words">
+     Aspose.Words
+     </p>
+     <p class="col-lg-10 app-name">
+     <strong>Watermark</strong>
+     </p>
+     <p class="description">
+      Work with watermark in documents, insert and<br>
+      remove watermark online
+     </p>
+    </a>
+    <div style="height:50px"></div>
+   </div>
+  </div>
+
+   <p>
+   You can try <a href="https://products.aspose.app/words/family">all Aspose.Words online applications</a>.
+   </p>
+   
+   <p>
+   Also check out the documentation for the most popular features in Aspose.Words:
    </p>
    <div style="height:40px"></div>
    <div class="col-lg-4">
