@@ -23,7 +23,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 Add Word document processing capabilities to C++ applications developed on Windows platform.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="Python" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" productLink="/words/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" productLink="/words/python-net/" >}}
 Read, write, convert documents with Python scripts.
 {{< /blocks/products/pf/product >}}
 
