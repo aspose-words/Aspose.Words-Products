@@ -10,7 +10,7 @@ description: Экспорт отчетов из Jasper Reports и JasperServer �
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/words/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/jasperreports/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/words/jasperreports" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
