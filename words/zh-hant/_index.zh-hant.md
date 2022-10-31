@@ -11,23 +11,23 @@ description: 使用 On Premise 或 Cloud API 創建 Word 文檔操作應用程�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" productLink="https://products.aspose.com/words/zh-TW/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-net.svg" productLink="https://products.aspose.com/words/zh-hant/net/" >}}
 On Premise .NET API 用於在基於 Windows、Web、iOS 和 Android 的應用程序中操作 Microsoft Word 文檔格式。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" productLink="https://products.aspose.com/words/zh-TW/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" productLink="https://products.aspose.com/words/zh-hant/java/" >}}
 基於 Java 的平台 API，用於直接在應用程序中創建、修改、呈現或解析 Microsoft Word 文件、Web、文本和 OpenOffice 文檔。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productLink="https://products.aspose.com/words/zh-TW/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productLink="https://products.aspose.com/words/zh-hant/cpp/" >}}
 使用原生 C++ 庫在純 C++ 應用程序中創建、加載、操作或轉換 Microsoft Word 和文字處理格式。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words for " title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" productLink="https://products.aspose.com/words/zh-TW/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words for " title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-python.svg" productLink="https://products.aspose.com/words/zh-hant/python-net/" >}}
 使用 Python 加速開發過程。使用 Python 腳本生成和操作文檔。我們的產品提供了您在軟件解決方案中可能需要的一整套功能。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/words/zh-TW/family/" innerText="查看所有高代碼 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/words/zh-hant/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
