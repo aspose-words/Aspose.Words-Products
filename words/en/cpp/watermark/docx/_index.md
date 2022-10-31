@@ -1,7 +1,7 @@
 ---
 title: Watermark DOCX document via C++ 
 weight: 810
-url: /cpp/watermark/docx/ 
+
 description: C++ example code to add or remove watermark to DOCX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

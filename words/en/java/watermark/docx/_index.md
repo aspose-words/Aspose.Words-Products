@@ -1,7 +1,7 @@
 ---
 title: Watermark DOCX document via Java 
 weight: 8990
-url: /java/watermark/docx/ 
+
 description: Java source code to add or remove watermark to Microsoft Word DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

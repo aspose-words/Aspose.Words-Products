@@ -1,7 +1,7 @@
 ---
 title: Create DOCM Files via C# 
 weight: 7690
-url: /net/create/docm/ 
+
 description: C# Sample code for generating DOCM documents. Use this code for creating Word DOCM files within VB.NET, Asp.NET or any .NET based application.
 ---
 

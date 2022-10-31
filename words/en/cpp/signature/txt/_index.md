@@ -1,7 +1,7 @@
 ---
 title: e-Sign TXT Documents via C++ 
 weight: 1630
-url: /cpp/signature/txt/ 
+
 description: C++ example code to eSgin TXT documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

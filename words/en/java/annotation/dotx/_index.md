@@ -1,7 +1,7 @@
 ---
 title: Remove DOTX Annotation via Java 
 weight: 10360
-url: /java/annotation/dotx/ 
+
 description: Java source code to delete DOTX format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOCX document via Java 
 weight: 1600
-url: /java/redaction/docx/ 
+
 description: Java source code to redact sensitive information in Microsoft Word DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java 和 C++ API 用于自动化文字处理任务 
 weight: 10
-url: /zh/family
+
 description: 使用相关库从 .NET Java C++ Android 和 SharePoint 读写和导出 Microsoft Word 文档格式。在 SSRS 和 JasperReports 中导出文件
 ---
 

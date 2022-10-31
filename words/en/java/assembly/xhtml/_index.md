@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XHTML Files via Java 
 weight: 3060
-url: /java/assembly/xhtml/ 
+
 description: Java source code to create XHTML format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

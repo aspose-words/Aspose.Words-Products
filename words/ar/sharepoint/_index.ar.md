@@ -1,7 +1,7 @@
 ---
 title: تطبيق محول ملفات SharePoint Word - Aspose 
 weight: 1050
-url: /ar/sharepoint/ 
+
 description: واجهة برمجة تطبيقات محول ملفات Word لـ SharePoint لـ MOSS & WSS. تقوم مكتبة المستندات بتصدير مستندات DOC DOCX PDF XML EPUB RTF XPS ODT داخل Windows و MS Office SharePoint Server
 ---
 

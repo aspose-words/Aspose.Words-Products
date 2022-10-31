@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOC document via .NET 
 weight: 10380
-url: /net/protect/doc/ 
+
 description: C# sample code to lock DOC file using password using server side .NET library.
 ---
 

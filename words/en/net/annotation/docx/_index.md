@@ -1,7 +1,7 @@
 ---
 title: Remove DOCX Annotation via .NET 
 weight: 11230
-url: /net/annotation/docx/ 
+
 description: Delete Microsoft Word DOCX format annotations using server side .NET library
 ---
 

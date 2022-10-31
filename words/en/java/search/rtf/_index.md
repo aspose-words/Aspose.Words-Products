@@ -1,7 +1,7 @@
 ---
 title: Search RTF document without opening via Java 
 weight: 7530
-url: /java/search/rtf/ 
+
 description: Java source code to search words with pattern in Microsoft Word RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python 워드 문서 처리 API – Aspose 
 weight: 2200
-url: /ko/python-net/
+
 description: Microsoft Word 파일과 함께 작동하는 Python 라이브러리. 편집 변환 DOCX DOC RTF PDF EPUB WordML ODT HTML 텍스트 및 훨씬 더 많은 형식을 만듭니다.
 ---
 

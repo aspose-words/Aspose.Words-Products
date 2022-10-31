@@ -1,7 +1,7 @@
 ---
 title: Unlock DOT document via .NET 
 weight: 8140
-url: /net/unlock/dot/ 
+
 description: C# code to unlock password protected Microsoft Word DOT file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Op locatie, cloud en app gebaseerde oplossing voor Microsoft Word-bestandsindeling 
 weight: 9630
-url: /nl/
+
 description: Maak toepassingen voor het manipuleren van Word-documenten met behulp van On Premise of Cloud API's of gebruik eenvoudig platformonafhankelijke apps om Word-bestanden te bekijken, te vergelijken, te inspecteren of te converteren
 ---
 

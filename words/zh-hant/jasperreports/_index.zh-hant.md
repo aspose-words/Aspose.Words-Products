@@ -1,7 +1,7 @@
 ---
 title: 在 JasperReports 和 JasperServer 中導出 Word 文件中的報告 
 weight: 10660
-url: /zh-TW/jasperreports/ 
+
 description: 以 Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML 和 TXT 格式從 Jasper Reports 和 JasperServer 導出報告
 ---
 

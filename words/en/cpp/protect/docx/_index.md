@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOCX document via C++ 
 weight: 9200
-url: /cpp/protect/docx/ 
+
 description: C++ example code to lock DOCX file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

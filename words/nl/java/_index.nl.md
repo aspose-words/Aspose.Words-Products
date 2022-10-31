@@ -1,7 +1,7 @@
 ---
 title: Java Word-API | Maken Manipuleren en renderen van Word-documenten 
 weight: 7990
-url: /nl/java/ 
+
 description: Java Word-bestandenverwerkingsbibliotheek om bewerkingen te maken, converteer DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG en nog veel meer formaten.
 ---
 

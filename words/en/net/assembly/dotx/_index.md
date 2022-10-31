@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOTX Files via .NET 
 weight: 9850
-url: /net/assembly/dotx/ 
+
 description: C# sample code to generate DOTX format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

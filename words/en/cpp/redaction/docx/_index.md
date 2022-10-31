@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOCX document via C++ 
 weight: 11550
-url: /cpp/redaction/docx/ 
+
 description: C++ example code to redact sensitive information in DOCX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

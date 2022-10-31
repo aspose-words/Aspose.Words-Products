@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in RTF Files via .NET 
 weight: 4930
-url: /net/assembly/rtf/ 
+
 description: C# sample code to generate RTF format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

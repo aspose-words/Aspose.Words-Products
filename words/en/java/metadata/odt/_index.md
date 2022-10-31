@@ -1,7 +1,7 @@
 ---
 title: Edit or View ODT Files Metadata via Java 
 weight: 3220
-url: /java/metadata/odt/ 
+
 description: Java source code to edit or view Microsoft Word ODT format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

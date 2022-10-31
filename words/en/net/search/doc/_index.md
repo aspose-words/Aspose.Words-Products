@@ -1,7 +1,7 @@
 ---
 title: Search DOC document without opening via .NET 
 weight: 5360
-url: /net/search/doc/ 
+
 description: C# code to search words with pattern in Microsoft Word DOC file using server side .NET library.
 ---
 

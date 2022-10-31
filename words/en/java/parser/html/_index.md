@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from HTML document via Java 
 weight: 7430
-url: /java/parser/html/ 
+
 description: Java source code to extract text and images from HTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

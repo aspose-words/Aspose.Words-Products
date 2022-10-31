@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOCX Files via .NET 
 weight: 5560
-url: /net/assembly/docx/ 
+
 description: C# sample code to generate DOCX format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

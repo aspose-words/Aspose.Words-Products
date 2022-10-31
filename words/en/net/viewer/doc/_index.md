@@ -1,7 +1,7 @@
 ---
 title: View DOC File Formats via .NET 
 weight: 5090
-url: /net/viewer/doc/ 
+
 description: Load, render and display Microsoft Word DOC documents using server side .NET library.
 ---
 

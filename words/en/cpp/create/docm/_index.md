@@ -1,7 +1,7 @@
 ---
 title: Create DOCM Files via C++ 
 weight: 7690
-url: /cpp/create/docm/ 
+
 description: C++ Sample code for generating DOCM documents. Use this code for creating Word DOCM files within C++ based application.
 ---
 

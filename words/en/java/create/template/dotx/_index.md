@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOTX documents from template via Java 
 weight: 7690
-url: /java/create/template/dotx/ 
+
 description: Java Sample code for creating template based DOTX documents. Use it for automated generation of Word DOTX files within Java based desktop or web application.
 ---
 

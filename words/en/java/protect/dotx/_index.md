@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOTX document via Java 
 weight: 4120
-url: /java/protect/dotx/ 
+
 description: Java source code to lock Microsoft Word DOTX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

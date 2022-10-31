@@ -1,7 +1,7 @@
 ---
 title: Protect and lock ODT document via Java 
 weight: 9710
-url: /java/protect/odt/ 
+
 description: Java source code to lock Microsoft Word ODT file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

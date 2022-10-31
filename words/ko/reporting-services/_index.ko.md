@@ -1,7 +1,7 @@
 ---
 title: SQL Server에서 RDL 보고서를 Word 형식으로 내보내기 - Aspose 
 weight: 3900
-url: /ko/reporting-services/ 
+
 description: SQL Server Reporting Services 렌더링 확장 - Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS 및 WordprocessingML 문서 형식 내보내기
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOC document via Java 
 weight: 6860
-url: /java/redaction/doc/ 
+
 description: Java source code to redact sensitive information in Microsoft Word DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: e-Sign RTF Documents via C++ 
 weight: 6820
-url: /cpp/signature/rtf/ 
+
 description: C++ example code to eSgin RTF documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

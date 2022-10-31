@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOTM documents from template via Java 
 weight: 7690
-url: /java/create/template/dotm/ 
+
 description: Java Sample code for creating template based DOTM documents. Use it for automated generation of Word DOTM files within Java based desktop or web application.
 ---
 

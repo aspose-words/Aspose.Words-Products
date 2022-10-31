@@ -1,7 +1,7 @@
 ---
 title: Search DOC document without opening via C++ 
 weight: 1590
-url: /cpp/search/doc/ 
+
 description: C++ example code to search words with pattern in DOC file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

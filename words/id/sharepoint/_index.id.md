@@ -1,7 +1,7 @@
 ---
 title: Aplikasi Pengonversi File SharePoint Word - Aspose 
 weight: 1050
-url: /id/sharepoint/ 
+
 description: SharePoint Word Files Converter API untuk MOSS & WSS. Pustaka dokumen mengekspor dokumen DOC DOCX PDF XML EPUB RTF XPS ODT dalam Windows dan MS Office SharePoint Server
 ---
 

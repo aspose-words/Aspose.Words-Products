@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in TXT Files via Java 
 weight: 10760
-url: /java/assembly/txt/ 
+
 description: Java source code to create Microsoft Word TXT format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

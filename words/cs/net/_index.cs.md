@@ -1,7 +1,7 @@
 ---
 title: C# .NET Word Document Processing API - Aspose 
 weight: 2200
-url: /cs/net/ 
+
 description: C# ASP.NET Knihovna VB.NET pro práci se soubory aplikace Word. Vytvořte editační převod DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG a mnoho dalších formátů.
 ---
 

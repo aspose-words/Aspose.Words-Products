@@ -1,7 +1,7 @@
 ---
 title: Ekspor Laporan RDL ke Format Word di SQL Server - Aspose 
 weight: 3900
-url: /id/reporting-services/ 
+
 description: Ekstensi rendering Reporting Services SQL Server - Ekspor Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS dan format dokumen WordprocessingML
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: eSign DOT Files via .NET 
 weight: 8030
-url: /net/signature/dot/ 
+
 description: C# code to e-Sgin Microsoft Word DOT documents using server side .NET library.
 ---
 

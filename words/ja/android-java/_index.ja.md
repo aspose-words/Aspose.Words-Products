@@ -1,7 +1,7 @@
 ---
 title: Android Word API |モバイルアプリでドキュメントを処理する 
 weight: 7480
-url: /ja/android-java/ 
+
 description: モバイルアプリケーション用のワードプロセッシングライブラリ。作成読み取り編集および変換DOCDOCXRTF ODT EPUB XML PDFHTMLWordMLおよびTXT形式
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XHTML document via Java 
 weight: 7540
-url: /java/redaction/xhtml/ 
+
 description: Java source code to redact sensitive information in XHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

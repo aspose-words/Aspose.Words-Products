@@ -1,7 +1,7 @@
 ---
 title: Unlock DOTX document via Java 
 weight: 4860
-url: /java/unlock/dotx/ 
+
 description: Java source code to unlock password protected Microsoft Word DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Kelime İşleme Görevlerini Otomatikleştirmek için .NET Core Java ve C++ API 
 weight: 10
-url: /tr/family
+
 description: İlgili kitaplığı kullanarak .NET Java C++ Android ve SharePoint'ten Microsoft Word belge biçimlerini Yazma ve Dışa Aktarma'yı okuyun. Dosyaları SSRS ve JasperReports'ta dışa aktarın
 ---
 

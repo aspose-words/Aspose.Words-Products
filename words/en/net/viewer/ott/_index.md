@@ -1,7 +1,7 @@
 ---
 title: View OTT File Formats via .NET 
 weight: 1840
-url: /net/viewer/ott/ 
+
 description: Load, render and display Microsoft Word OTT documents using server side .NET library.
 ---
 

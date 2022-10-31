@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in HTML document via .NET 
 weight: 8680
-url: /net/redaction/html/ 
+
 description: C# sample code to redact sensitive information in HTML file using server side .NET library.
 ---
 

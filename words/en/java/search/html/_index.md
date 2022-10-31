@@ -1,7 +1,7 @@
 ---
 title: Search HTML document without opening via Java 
 weight: 3270
-url: /java/search/html/ 
+
 description: Java source code to search words with pattern in HTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search OTT document without opening via Java 
 weight: 10180
-url: /java/search/ott/ 
+
 description: Java source code to search words with pattern in Microsoft Word OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

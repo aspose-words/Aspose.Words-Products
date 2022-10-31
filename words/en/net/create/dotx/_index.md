@@ -1,7 +1,7 @@
 ---
 title: Create DOTX Files via C# 
 weight: 7690
-url: /net/create/dotx/ 
+
 description: C# Sample code for generating DOTX documents. Use this code for creating Word DOTX files within VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Remove ODT Annotation via Java 
 weight: 7130
-url: /java/annotation/odt/ 
+
 description: Java source code to delete ODT format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

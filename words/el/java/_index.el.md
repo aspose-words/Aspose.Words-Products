@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Δημιουργία χειρισμού και απόδοσης εγγράφων του Word 
 weight: 7990
-url: /el/java/ 
+
 description: Βιβλιοθήκη επεξεργασίας αρχείων Java Word για δημιουργία επεξεργασίας μετατροπής DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG και πολλές άλλες μορφές.
 ---
 

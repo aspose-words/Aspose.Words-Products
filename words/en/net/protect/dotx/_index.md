@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOTX document via .NET 
 weight: 4950
-url: /net/protect/dotx/ 
+
 description: C# sample code to lock DOTX file using password using server side .NET library.
 ---
 

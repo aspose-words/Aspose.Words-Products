@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java dan C++ API untuk Mengotomatiskan Tugas Pemrosesan Kata 
 weight: 10
-url: /id/family
+
 description: Baca Tulis dan Ekspor format dokumen Microsoft Word dari .NET Java C++ Android dan SharePoint menggunakan pustaka yang relevan. Ekspor file dalam SSRS dan JasperReports
 ---
 

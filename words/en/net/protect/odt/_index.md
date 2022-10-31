@@ -1,7 +1,7 @@
 ---
 title: Protect and lock ODT document via .NET 
 weight: 10510
-url: /net/protect/odt/ 
+
 description: C# sample code to lock ODT file using password using server side .NET library.
 ---
 

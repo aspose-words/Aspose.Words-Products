@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in TXT document via Java 
 weight: 2430
-url: /java/redaction/txt/ 
+
 description: Java source code to redact sensitive information in TXT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

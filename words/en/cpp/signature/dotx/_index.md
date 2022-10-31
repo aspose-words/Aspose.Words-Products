@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOTX Documents via C++ 
 weight: 5280
-url: /cpp/signature/dotx/ 
+
 description: C++ example code to eSgin DOTX documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

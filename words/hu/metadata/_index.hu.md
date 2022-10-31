@@ -1,6 +1,6 @@
 ---
 title: Metaadatok megtekintése és szerkesztése Word-dokumentumokhoz Windows, Linux és macOS rendszeren 
-url: /hu/metadata
+
 description: Ingyenes alkalmazás és API-k a DOC, DOCX, DOCM, DOTX, DOT, RTF és ODT dokumentumok tulajdonságainak kezeléséhez
 ---
 

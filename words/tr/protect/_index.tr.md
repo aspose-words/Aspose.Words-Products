@@ -1,7 +1,7 @@
 ---
 title: Windows, Linux ve macOS'ta Word Belgelerini Koruyun 
 weight: 7730
-url: /tr/protect
+
 description: DOC, DOCX veya ODT dosyalarına koruma eklemek için ücretsiz Uygulama ve API'ler
 ---
 

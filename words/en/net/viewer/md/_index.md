@@ -1,7 +1,7 @@
 ---
 title: View MD File Formats via .NET 
 weight: 9550
-url: /net/viewer/md/ 
+
 description: Load, render and display MD files using server side .NET library.
 ---
 

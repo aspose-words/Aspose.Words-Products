@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in TXT Files via .NET 
 weight: 9890
-url: /net/assembly/txt/ 
+
 description: C# sample code to generate TXT format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

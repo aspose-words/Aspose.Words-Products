@@ -1,7 +1,7 @@
 ---
 title: API từ C++ | Phân tích cú pháp và chuyển đổi tạo tài liệu 
 weight: 8250
-url: /vi/cpp/ 
+
 description: Thư viện xử lý tài liệu C++ Word để tạo, chỉnh sửa, chuyển đổi và kết xuất tài liệu bằng C++. Tự động đọc, viết và phân tích cú pháp các định dạng Word như DOC, DOCX hoặc các định dạng khác như PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

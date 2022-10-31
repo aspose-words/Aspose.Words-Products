@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in MD document via .NET 
 weight: 1650
-url: /net/redaction/md/ 
+
 description: C# sample code to redact sensitive information in MD file using server side .NET library.
 ---
 

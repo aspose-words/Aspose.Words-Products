@@ -1,7 +1,7 @@
 ---
 title: API do Android Word | Processar documentos em aplicativos móveis 
 weight: 7480
-url: /pt/android-java/ 
+
 description: Biblioteca de processamento de texto para aplicativos móveis. Criar Ler Editar e Converter DOC DOCX RTF ODT EPUB XML PDF HTML Formatos WordML e TXT
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 안드로이드 워드 API | 모바일 앱에서 문서 처리 
 weight: 7480
-url: /ko/android-java/ 
+
 description: 모바일 애플리케이션용 워드 프로세싱 라이브러리. 읽기 편집 생성 및 DOC DOCX RTF ODT EPUB XML PDF HTML WordML 및 TXT 형식 변환
 ---
 

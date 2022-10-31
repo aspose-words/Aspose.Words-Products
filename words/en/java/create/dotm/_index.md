@@ -1,7 +1,7 @@
 ---
 title: Create DOTM Files via Java 
 weight: 7690
-url: /java/create/dotm/ 
+
 description: Java Sample code for generating DOTM documents. Use this code for creating Word DOTM files within Java based desktop or web application.
 ---
 

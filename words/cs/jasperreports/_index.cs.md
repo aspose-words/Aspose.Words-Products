@@ -1,7 +1,7 @@
 ---
 title: Export sestav v souborech Word v JasperReports & JasperServer 
 weight: 10660
-url: /cs/jasperreports/ 
+
 description: Export sestav z Jasper Reports a JasperServer ve formátu Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML a TXT formáty
 ---
 

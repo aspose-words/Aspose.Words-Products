@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in TXT document via .NET 
 weight: 3360
-url: /net/redaction/txt/ 
+
 description: C# sample code to redact sensitive information in Microsoft Word TXT file using server side .NET library.
 ---
 

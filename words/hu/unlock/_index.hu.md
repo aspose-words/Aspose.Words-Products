@@ -1,7 +1,7 @@
 ---
 title: A Word-dokumentumok feloldása Windows, Linux és macOS rendszeren 
 weight: 7730
-url: /hu/unlock
+
 description: Ingyenes alkalmazás és API-k a DOC, DOCX és ODT fájlok védelmének eltávolításához
 ---
 

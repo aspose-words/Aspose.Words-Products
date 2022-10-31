@@ -1,7 +1,7 @@
 ---
 title: eSign XHTML Files via .NET 
 weight: 4800
-url: /net/signature/xhtml/ 
+
 description: C# code to e-Sgin XHTML documents using server side .NET library.
 ---
 

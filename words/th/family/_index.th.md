@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java และ C++ API เพื่อทำให้งานประมวลผลคำเป็นอัตโนมัติ 
 weight: 10
-url: /th/family
+
 description: อ่านเขียนและส่งออกรูปแบบเอกสาร Microsoft Word จาก .NET Java C++ Android และ SharePoint โดยใช้ไลบรารีที่เกี่ยวข้อง ส่งออกไฟล์ใน SSRS และ JasperReports
 ---
 

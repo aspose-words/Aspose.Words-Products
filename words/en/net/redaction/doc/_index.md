@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOC document via .NET 
 weight: 10610
-url: /net/redaction/doc/ 
+
 description: C# sample code to redact sensitive information in Microsoft Word DOC file using server side .NET library.
 ---
 

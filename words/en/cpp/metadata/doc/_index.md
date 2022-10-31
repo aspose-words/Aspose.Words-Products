@@ -1,7 +1,7 @@
 ---
 title: Edit or View DOC Document Metadata via C++ 
 weight: 4790
-url: /cpp/metadata/doc/ 
+
 description: C++ example code to edit or view DOC file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

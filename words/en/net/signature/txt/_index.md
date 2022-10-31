@@ -1,7 +1,7 @@
 ---
 title: eSign TXT Files via .NET 
 weight: 6950
-url: /net/signature/txt/ 
+
 description: C# code to e-Sgin Microsoft Word TXT documents using server side .NET library.
 ---
 

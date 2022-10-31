@@ -1,7 +1,7 @@
 ---
 title: Remove DOC Annotation via .NET 
 weight: 8180
-url: /net/annotation/doc/ 
+
 description: Delete Microsoft Word DOC format annotations using server side .NET library
 ---
 

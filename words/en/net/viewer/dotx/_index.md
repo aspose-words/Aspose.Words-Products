@@ -1,7 +1,7 @@
 ---
 title: View DOTX File Formats via .NET 
 weight: 3660
-url: /net/viewer/dotx/ 
+
 description: Load, render and display Microsoft Word DOTX documents using server side .NET library.
 ---
 

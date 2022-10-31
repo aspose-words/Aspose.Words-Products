@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in RTF document via Java 
 weight: 6140
-url: /java/redaction/rtf/ 
+
 description: Java source code to redact sensitive information in Microsoft Word RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

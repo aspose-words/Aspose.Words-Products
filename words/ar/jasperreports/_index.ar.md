@@ -1,7 +1,7 @@
 ---
 title: تصدير التقارير في ملفات Word في JasperReports و JasperServer 
 weight: 10660
-url: /ar/jasperreports/ 
+
 description: تصدير التقارير من Jasper Reports و JasperServer في Word DOC Office وتنسيقات XML OOXML DOCX RTF ODT HTML MHTML و TXT
 ---
 

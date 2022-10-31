@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Bearbeta dokument i mobilappar 
 weight: 7480
-url: /sv/android-java/ 
+
 description: Ordbehandlingsbibliotek för mobilapplikationer. Skapa Läs Redigera och konvertera DOC DOCX RTF ODT EPUB XML PDF HTML WordML- och TXT-format
 ---
 

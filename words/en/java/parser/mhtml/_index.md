@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from MHTML document via Java 
 weight: 4140
-url: /java/parser/mhtml/ 
+
 description: Java source code to extract text and images from MHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

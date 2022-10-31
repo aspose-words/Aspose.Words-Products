@@ -1,7 +1,7 @@
 ---
 title: Compara documentos de Word en Windows, Linux y macOS 
 weight: 7730
-url: /es/comparison
+
 description: Aplicación gratuita y API para Word DOC, DOCX, DOCM, DOTM, RTF, DOT y ODT Comparación
 ---
 

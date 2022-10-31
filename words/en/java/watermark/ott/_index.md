@@ -1,7 +1,7 @@
 ---
 title: Watermark OTT document via Java 
 weight: 2220
-url: /java/watermark/ott/ 
+
 description: Java source code to add or remove watermark to Microsoft Word OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

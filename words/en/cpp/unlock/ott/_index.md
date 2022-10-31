@@ -1,7 +1,7 @@
 ---
 title: Unlock OTT document via C++ 
 weight: 2060
-url: /cpp/unlock/ott/ 
+
 description: C++ example code to unlock password protected OTT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

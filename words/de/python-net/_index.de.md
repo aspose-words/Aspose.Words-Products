@@ -1,7 +1,7 @@
 ---
 title: API zur Verarbeitung von Python-Word-Dokumenten – Aspose 
 weight: 2200
-url: /de/python-net/
+
 description: Python-Bibliothek zum Arbeiten mit Microsoft Word-Dateien. Erstellen Bearbeiten Konvertieren DOCX DOC RTF PDF EPUB WordML ODT HTML Text und viele weitere Formate.
 ---
 

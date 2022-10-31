@@ -1,7 +1,7 @@
 ---
 title: ส่งออกรายงาน RDL เป็นรูปแบบ Word ใน SQL Server - Aspose 
 weight: 3900
-url: /th/reporting-services/ 
+
 description: ส่วนขยายการแสดงผลของReporting Servicesเซิร์ฟเวอร์ SQL - ส่งออกรูปแบบเอกสาร Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS และ WordprocessingML
 ---
 

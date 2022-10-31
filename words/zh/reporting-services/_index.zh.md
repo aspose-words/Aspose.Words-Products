@@ -1,7 +1,7 @@
 ---
 title: 在 SQL Server 中将 RDL 报告导出为 Word 格式 - Aspose 
 weight: 3900
-url: /zh/reporting-services/ 
+
 description: SQL Server Reporting Services 呈现扩展插件 - 导出 Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS 和 WordprocessingML 文档格式
 ---
 

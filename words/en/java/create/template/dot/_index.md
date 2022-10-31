@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOT documents from template via Java 
 weight: 7690
-url: /java/create/template/dot/ 
+
 description: Java Sample code for creating template based DOT documents. Use it for automated generation of Word DOT files within Java based desktop or web application.
 ---
 

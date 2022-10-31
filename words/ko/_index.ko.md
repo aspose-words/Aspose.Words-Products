@@ -1,7 +1,7 @@
 ---
 title: 온프레미스, 클라우드 및 앱 기반 Microsoft Word 파일 형식 솔루션 
 weight: 9630
-url: /ko/
+
 description: On Premise 또는 Cloud API를 사용하여 Word 문서 조작 응용 프로그램을 만들거나 단순히 크로스 플랫폼 앱을 사용하여 비교 검사 또는 Word 파일 변환 보기
 ---
 

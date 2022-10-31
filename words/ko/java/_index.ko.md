@@ -1,7 +1,7 @@
 ---
 title: 자바 워드 API | Word 문서 조작 및 렌더링 만들기 
 weight: 7990
-url: /ko/java/ 
+
 description: 편집 변환 DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG 및 더 많은 형식을 생성하는 Java Word 파일 처리 라이브러리.
 ---
 

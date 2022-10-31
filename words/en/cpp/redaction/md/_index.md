@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in MD document via C++ 
 weight: 2210
-url: /cpp/redaction/md/ 
+
 description: C++ example code to redact sensitive information in MD file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python Word 文檔處理 API – Aspose 
 weight: 2200
-url: /zh-TW/python-net/
+
 description: 用於處理 Microsoft Word 文件的 Python 庫。創建編輯轉換 DOCX DOC RTF PDF EPUB WordML ODT HTML 文本和更多格式。
 ---
 

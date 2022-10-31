@@ -1,7 +1,7 @@
 ---
 title: Edit or View DOC Files Metadata via Java 
 weight: 2990
-url: /java/metadata/doc/ 
+
 description: Java source code to edit or view Microsoft Word DOC format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

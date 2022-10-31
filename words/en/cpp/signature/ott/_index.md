@@ -1,7 +1,7 @@
 ---
 title: e-Sign OTT Documents via C++ 
 weight: 9450
-url: /cpp/signature/ott/ 
+
 description: C++ example code to eSgin OTT documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

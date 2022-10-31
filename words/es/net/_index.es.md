@@ -1,7 +1,7 @@
 ---
 title: API de procesamiento de documentos de Word C# .NET - Aspose 
 weight: 2200
-url: /es/net/ 
+
 description: Biblioteca C# ASP.NET VB.NET para trabajar con archivos de Word. Cree, edite, convierta DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG y muchos más formatos.
 ---
 

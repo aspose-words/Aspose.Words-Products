@@ -1,7 +1,7 @@
 ---
 title: Watermark ODT document via .NET 
 weight: 710
-url: /net/watermark/odt/ 
+
 description: C# code to add or remove watermark to Microsoft Word ODT file using server side .NET library.
 ---
 

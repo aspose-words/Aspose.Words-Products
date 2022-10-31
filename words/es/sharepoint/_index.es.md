@@ -1,7 +1,7 @@
 ---
 title: Aplicación de conversión de archivos de Word de SharePoint - Aspose 
 weight: 1050
-url: /es/sharepoint/ 
+
 description: API de conversión de archivos de Word de SharePoint para MOSS y WSS. La biblioteca de documentos exporta documentos DOC DOCX PDF XML EPUB RTF XPS ODT dentro de Windows y MS Office SharePoint Server
 ---
 

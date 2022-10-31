@@ -1,7 +1,7 @@
 ---
 title: C++ Word API | Penguraian dan Konversi Pembuatan Dokumen 
 weight: 8250
-url: /id/cpp/ 
+
 description: Pustaka pemrosesan dokumen C++ Word untuk menghasilkan, mengedit, mengonversi, dan merender dokumen menggunakan C++. Membaca, menulis, dan mengurai format Word secara dinamis seperti DOC, DOCX, atau format lain seperti PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOT Documents via C++ 
 weight: 70
-url: /cpp/signature/dot/ 
+
 description: C++ example code to eSgin DOT documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

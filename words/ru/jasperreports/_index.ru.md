@@ -1,7 +1,7 @@
 ---
 title: Экспорт отчетов в файлы Word в JasperReports и JasperServer 
 weight: 10660
-url: /ru/jasperreports/ 
+
 description: Экспорт отчетов из Jasper Reports и JasperServer в форматы Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML и TXT
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search MHTML document without opening via Java 
 weight: 3910
-url: /java/search/mhtml/ 
+
 description: Java source code to search words with pattern in MHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from ODT document via .NET 
 weight: 9010
-url: /net/parser/odt/ 
+
 description: C# sample code to extract text and images from Microsoft Word ODT file using server side .NET library.
 ---
 

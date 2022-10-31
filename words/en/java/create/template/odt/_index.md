@@ -1,7 +1,7 @@
 ---
 title: Generate Word ODT documents from template via Java 
 weight: 7690
-url: /java/create/template/odt/ 
+
 description: Java Sample code for creating template based ODT documents. Use it for automated generation of Word ODT files within Java based desktop or web application.
 ---
 

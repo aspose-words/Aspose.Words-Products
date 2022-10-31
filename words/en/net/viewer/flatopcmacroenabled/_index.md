@@ -1,6 +1,6 @@
 ---
 title: View FlatOpcMacroEnabled File Formats via .NET 
-url: /net/viewer/flatopcmacroenabled/ 
+
 description: Load, render and display FlatOpcMacroEnabled documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

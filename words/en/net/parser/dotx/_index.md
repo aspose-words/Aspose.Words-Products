@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOTX document via .NET 
 weight: 8920
-url: /net/parser/dotx/ 
+
 description: C# sample code to extract text and images from Microsoft Word DOTX file using server side .NET library.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: View FlatOpcTemplate File Formats via .NET 
-url: /net/viewer/flatopctemplate/ 
+
 description: Load, render and display FlatOpcTemplate documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

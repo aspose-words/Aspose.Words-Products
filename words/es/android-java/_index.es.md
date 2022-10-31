@@ -1,7 +1,7 @@
 ---
 title: API de palabras de Android | Procesar documentos en aplicaciones móviles 
 weight: 7480
-url: /es/android-java/ 
+
 description: Biblioteca de procesamiento de textos para aplicaciones móviles. Crear, leer, editar y convertir formatos DOC DOCX RTF ODT EPUB XML PDF HTML WordML y TXT
 ---
 

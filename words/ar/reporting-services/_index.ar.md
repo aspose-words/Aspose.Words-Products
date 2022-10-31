@@ -1,7 +1,7 @@
 ---
 title: تصدير تقارير RDL إلى تنسيقات Word في SQL Server - Aspose 
 weight: 3900
-url: /ar/reporting-services/ 
+
 description: ملحق تقديم خدمات تقارير SQL Server - تصدير تنسيقات مستندات Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS و WordprocessingML
 ---
 

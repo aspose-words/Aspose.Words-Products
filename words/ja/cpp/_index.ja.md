@@ -1,7 +1,7 @@
 ---
 title: C++ Word API |ドキュメント作成の解析と変換 
 weight: 8250
-url: /ja/cpp/ 
+
 description: C++を使用してドキュメントを生成、編集、変換、およびレンダリングするためのC++Wordドキュメント処理ライブラリ。 DOC、DOCXなどのWord形式、またはPDF、RTF、ODT、TXT、MOBI、HTML、JPG、PNGなどの他の形式を動的に読み取り、書き込み、解析します。
 ---
 

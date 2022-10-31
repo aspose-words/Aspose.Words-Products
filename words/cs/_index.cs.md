@@ -1,7 +1,7 @@
 ---
 title: On-premise, cloudové a aplikační řešení formátu souborů Microsoft Word 
 weight: 9630
-url: /cs/
+
 description: Vytvářejte aplikace pro manipulaci s dokumenty Word pomocí rozhraní On Premise nebo Cloud API nebo jednoduše použijte aplikace pro různé platformy k zobrazení, porovnání, kontrole nebo převodu souborů Word
 ---
 

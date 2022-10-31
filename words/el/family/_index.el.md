@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java και C++ API για αυτοματοποίηση εργασιών επεξεργασίας κειμένου 
 weight: 10
-url: /el/family
+
 description: Διαβάστε Εγγραφή και εξαγωγή μορφών εγγράφων του Microsoft Word από .NET Java C++ Android και SharePoint χρησιμοποιώντας σχετική βιβλιοθήκη. Εξαγωγή αρχείων σε SSRS και JasperReports
 ---
 

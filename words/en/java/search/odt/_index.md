@@ -1,7 +1,7 @@
 ---
 title: Search ODT document without opening via Java 
 weight: 7960
-url: /java/search/odt/ 
+
 description: Java source code to search words with pattern in Microsoft Word ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in OTT document via .NET 
 weight: 7900
-url: /net/redaction/ott/ 
+
 description: C# sample code to redact sensitive information in Microsoft Word OTT file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Remove RTF Annotation via .NET 
 weight: 7400
-url: /net/annotation/rtf/ 
+
 description: Delete Microsoft Word RTF format annotations using server side .NET library
 ---
 

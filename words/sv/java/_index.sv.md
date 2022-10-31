@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Skapa manipulera och rendera Word-dokument 
 weight: 7990
-url: /sv/java/ 
+
 description: Java Word-filbehandlingsbibliotek för att skapa redigera konvertera DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG och många fler format.
 ---
 

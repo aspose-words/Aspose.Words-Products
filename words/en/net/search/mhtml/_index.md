@@ -1,7 +1,7 @@
 ---
 title: Search MHTML document without opening via .NET 
 weight: 4700
-url: /net/search/mhtml/ 
+
 description: C# code to search words with pattern in MHTML file using server side .NET library.
 ---
 

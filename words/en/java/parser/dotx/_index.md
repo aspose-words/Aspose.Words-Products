@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOTX document via Java 
 weight: 11290
-url: /java/parser/dotx/ 
+
 description: Java source code to extract text and images from Microsoft Word DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

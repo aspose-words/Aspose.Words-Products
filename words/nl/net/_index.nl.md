@@ -1,7 +1,7 @@
 ---
 title: C# .NET API voor het verwerken van Word-documenten - Aspose 
 weight: 2200
-url: /nl/net/ 
+
 description: C# ASP.NET VB.NET bibliotheek om met Word-bestanden te werken. Maken bewerken converteren DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG en nog veel meer formaten.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint Word Dosyaları Dönüştürücü Uygulaması - Aspose 
 weight: 1050
-url: /tr/sharepoint/ 
+
 description: MOSS ve WSS için SharePoint Word Dosyaları Dönüştürücü API'sı. Belge kitaplığı, DOC DOCX PDF XML EPUB RTF XPS ODT belgelerini Windows ve MS Office SharePoint Server içinde dışa aktarır
 ---
 

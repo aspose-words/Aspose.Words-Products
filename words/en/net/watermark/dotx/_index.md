@@ -1,7 +1,7 @@
 ---
 title: Watermark DOTX document via .NET 
 weight: 5650
-url: /net/watermark/dotx/ 
+
 description: C# code to add or remove watermark to Microsoft Word DOTX file using server side .NET library.
 ---
 

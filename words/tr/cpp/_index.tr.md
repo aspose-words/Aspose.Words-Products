@@ -1,7 +1,7 @@
 ---
 title: C++ Kelime API'si | Belge Oluşturma Ayrıştırma ve Dönüştürme 
 weight: 8250
-url: /tr/cpp/ 
+
 description: C++ kullanarak bir belge oluşturmak, düzenlemek, dönüştürmek ve işlemek için C++ Word belge işleme kitaplığı. DOC, DOCX gibi Word formatlarını veya PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG gibi diğer formatları dinamik olarak okuyun, yazın ve ayrıştırın.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOT document via .NET 
 weight: 3390
-url: /net/parser/dot/ 
+
 description: C# sample code to extract text and images from Microsoft Word DOT file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in OTT Files via Java 
 weight: 820
-url: /java/assembly/ott/ 
+
 description: Java source code to create Microsoft Word OTT format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

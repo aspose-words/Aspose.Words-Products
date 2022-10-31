@@ -1,7 +1,7 @@
 ---
 title: Search ODT document without opening via .NET 
 weight: 5450
-url: /net/search/odt/ 
+
 description: C# code to search words with pattern in Microsoft Word ODT file using server side .NET library.
 ---
 

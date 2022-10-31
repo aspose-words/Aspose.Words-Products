@@ -1,7 +1,7 @@
 ---
 title: Remove RTF Annotation via Java 
 weight: 8480
-url: /java/annotation/rtf/ 
+
 description: Java source code to delete RTF format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOCX document via .NET 
 weight: 9080
-url: /net/protect/docx/ 
+
 description: C# sample code to lock DOCX file using password using server side .NET library.
 ---
 

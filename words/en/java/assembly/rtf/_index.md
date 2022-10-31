@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in RTF Files via Java 
 weight: 4090
-url: /java/assembly/rtf/ 
+
 description: Java source code to create Microsoft Word RTF format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

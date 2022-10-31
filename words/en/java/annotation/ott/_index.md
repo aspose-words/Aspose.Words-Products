@@ -1,7 +1,7 @@
 ---
 title: Remove OTT Annotation via Java 
 weight: 10910
-url: /java/annotation/ott/ 
+
 description: Java source code to delete OTT format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

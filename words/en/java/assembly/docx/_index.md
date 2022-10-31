@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOCX Files via Java 
 weight: 450
-url: /java/assembly/docx/ 
+
 description: Java source code to create Microsoft Word DOCX format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

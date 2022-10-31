@@ -1,7 +1,7 @@
 ---
 title: वर्ड प्रोसेसिंग कार्यों को स्वचालित करने के लिए .NET कोर जावा और सी++ एपीआई 
 weight: 10
-url: /hi/family
+
 description: प्रासंगिक लाइब्रेरी का उपयोग करके .NET Java C++ Android और SharePoint से Microsoft Word दस्तावेज़ प्रारूप पढ़ें और निर्यात करें। SSRS और JasperReports में फ़ाइलें निर्यात करें
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint Word Files Converter alkalmazás – Aspose 
 weight: 1050
-url: /hu/sharepoint/ 
+
 description: SharePoint Word Files Converter API MOSS-hez és WSS-hez. Dokumentumtár exportálja a DOC DOCX PDF XML EPUB RTF XPS ODT dokumentumokat Windowson és MS Office SharePoint Serveren
 ---
 

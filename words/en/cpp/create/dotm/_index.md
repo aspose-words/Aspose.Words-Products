@@ -1,7 +1,7 @@
 ---
 title: Create DOTM Files via C++ 
 weight: 7690
-url: /cpp/create/dotm/ 
+
 description: C++ Sample code for generating DOTM documents. Use this code for creating Word DOTM files within C++ based application.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: C# .NET Word Document Processing API - Aspose 
 weight: 2200
-url: /id/net/ 
+
 description: C# ASP.NET VB.NET library untuk bekerja dengan file Word. Buat edit konversi DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG, dan banyak lagi format lainnya.
 ---
 

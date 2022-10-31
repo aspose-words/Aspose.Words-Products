@@ -1,7 +1,7 @@
 ---
 title: View PDF File Formats via .NET 
 weight: 9560
-url: /net/viewer/pdf/ 
+
 description: Load, render and display PDF documents using server side .NET library.
 ---
 

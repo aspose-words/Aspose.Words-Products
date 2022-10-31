@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOT document via .NET 
 weight: 4940
-url: /net/protect/dot/ 
+
 description: C# sample code to lock DOT file using password using server side .NET library.
 ---
 

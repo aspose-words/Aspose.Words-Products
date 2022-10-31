@@ -1,7 +1,7 @@
 ---
 title: SharePointWordファイルコンバーターアプリ-Aspose 
 weight: 1050
-url: /ja/sharepoint/ 
+
 description: MOSSおよびWSS用のSharePointWordファイルコンバータAPI。ドキュメントライブラリは、WindowsおよびMS OfficeSharePointServer内でDOCDOCXPDF XML EPUB RTFXPSODTドキュメントをエクスポートします
 ---
 

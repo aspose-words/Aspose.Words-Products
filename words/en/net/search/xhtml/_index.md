@@ -1,7 +1,7 @@
 ---
 title: Search XHTML document without opening via .NET 
 weight: 7140
-url: /net/search/xhtml/ 
+
 description: C# code to search words with pattern in XHTML file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in OTT Files via .NET 
 weight: 1430
-url: /net/assembly/ott/ 
+
 description: C# sample code to generate OTT format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

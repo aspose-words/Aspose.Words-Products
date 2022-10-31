@@ -1,7 +1,7 @@
 ---
 title: ส่งออกรายงานในไฟล์ Word ใน JasperReports & JasperServer 
 weight: 10660
-url: /th/jasperreports/ 
+
 description: ส่งออกรายงานจาก Jasper Reports และ JasperServer ใน Word DOC Office Open XML OOXML DOCX RTF ODT รูปแบบ HTML MHTML และ TXT
 ---
 

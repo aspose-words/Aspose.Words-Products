@@ -1,7 +1,7 @@
 ---
 title: eSign DOCX Files via .NET 
 weight: 1000
-url: /net/signature/docx/ 
+
 description: C# code to e-Sgin Microsoft Word DOCX documents using server side .NET library.
 ---
 

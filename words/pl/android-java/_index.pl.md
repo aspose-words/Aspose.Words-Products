@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Przetwarzaj dokumenty w aplikacjach mobilnych 
 weight: 7480
-url: /pl/android-java/ 
+
 description: Biblioteka edytora tekstu dla aplikacji mobilnych. Twórz Czytaj Edytuj i konwertuj DOC DOCX RTF ODT EPUB XML PDF HTML Formaty WordML i TXT
 ---
 

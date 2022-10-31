@@ -1,7 +1,7 @@
 ---
 title: Edit or View RTF Document Metadata via C++ 
 weight: 5400
-url: /cpp/metadata/rtf/ 
+
 description: C++ example code to edit or view RTF file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

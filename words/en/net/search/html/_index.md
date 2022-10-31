@@ -1,7 +1,7 @@
 ---
 title: Search HTML document without opening via .NET 
 weight: 5660
-url: /net/search/html/ 
+
 description: C# code to search words with pattern in HTML file using server side .NET library.
 ---
 

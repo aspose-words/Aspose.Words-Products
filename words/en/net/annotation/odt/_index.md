@@ -1,7 +1,7 @@
 ---
 title: Remove ODT Annotation via .NET 
 weight: 8130
-url: /net/annotation/odt/ 
+
 description: Delete Microsoft Word ODT format annotations using server side .NET library
 ---
 

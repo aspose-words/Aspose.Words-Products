@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOT documents from template via C# 
 weight: 7690
-url: /net/create/template/dot/ 
+
 description: C# Sample code for creating template based DOT documents. Use it for automated generation of Word DOT files within VB.NET, Asp.NET or any .NET based application.
 ---
 

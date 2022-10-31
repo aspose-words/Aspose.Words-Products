@@ -1,7 +1,7 @@
 ---
 title: Ekspor Laporan dalam File Word di JasperReports & JasperServer 
 weight: 10660
-url: /id/jasperreports/ 
+
 description: Ekspor laporan dari Jasper Reports dan JasperServer di Word DOC Office Buka XML OOXML DOCX RTF ODT HTML format MHTML dan TXT
 ---
 

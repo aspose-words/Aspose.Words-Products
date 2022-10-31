@@ -1,7 +1,7 @@
 ---
 title: View or Edit ODT Files Metadata via .NET 
 weight: 5520
-url: /net/metadata/odt/ 
+
 description: C# sample code to edit or view Microsoft Word ODT format metadata using server side .NET library.
 ---
 

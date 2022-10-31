@@ -1,7 +1,7 @@
 ---
 title: Create ODT Files via C# 
 weight: 7690
-url: /net/create/odt/ 
+
 description: C# Sample code for generating ODT documents. Use this code for creating Word ODT files within VB.NET, Asp.NET or any .NET based application.
 ---
 

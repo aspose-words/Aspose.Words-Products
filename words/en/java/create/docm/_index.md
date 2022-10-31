@@ -1,7 +1,7 @@
 ---
 title: Create DOCM Files via Java 
 weight: 7690
-url: /java/create/docm/ 
+
 description: Java Sample code for generating DOCM documents. Use this code for creating Word DOCM files within Java based desktop or web application.
 ---
 

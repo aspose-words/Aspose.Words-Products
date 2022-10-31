@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in HTML Files via .NET 
 weight: 6180
-url: /net/assembly/html/ 
+
 description: C# sample code to generate HTML format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

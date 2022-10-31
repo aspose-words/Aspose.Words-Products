@@ -1,7 +1,7 @@
 ---
 title: Solución de formato de archivo de Microsoft Word basada en aplicaciones, en la nube y en las instalaciones 
 weight: 9630
-url: /es/
+
 description: Cree aplicaciones de manipulación de documentos de Word utilizando API locales o en la nube o simplemente use aplicaciones multiplataforma para ver, comparar, inspeccionar o convertir archivos de Word
 ---
 

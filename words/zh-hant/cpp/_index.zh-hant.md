@@ -1,7 +1,7 @@
 ---
 title: C++ Word API |文檔創建解析和轉換 
 weight: 8250
-url: /zh-TW/cpp/ 
+
 description: C++ Word 文檔處理庫，用於使用 C++ 生成、編輯、轉換和呈現文檔。動態讀取、寫入和解析 DOC、DOCX 等 Word 格式或 PDF、RTF、ODT、TXT、MOBI、HTML、JPG、PNG 等其他格式。
 ---
 

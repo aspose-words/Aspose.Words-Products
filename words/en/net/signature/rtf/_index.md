@@ -1,7 +1,7 @@
 ---
 title: eSign RTF Files via .NET 
 weight: 1830
-url: /net/signature/rtf/ 
+
 description: C# code to e-Sgin Microsoft Word RTF documents using server side .NET library.
 ---
 

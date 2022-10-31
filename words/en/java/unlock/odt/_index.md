@@ -1,7 +1,7 @@
 ---
 title: Unlock ODT document via Java 
 weight: 11210
-url: /java/unlock/odt/ 
+
 description: Java source code to unlock password protected Microsoft Word ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XHTML document via .NET 
 weight: 750
-url: /net/redaction/xhtml/ 
+
 description: C# sample code to redact sensitive information in XHTML file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint Word 文件转换器应用程序 - Aspose 
 weight: 1050
-url: /zh/sharepoint/ 
+
 description: 适用于 MOSS 和 WSS 的 SharePoint Word 文件转换器 API。文档库在 Windows 和 MS Office SharePoint Server 中导出 DOC DOCX PDF XML EPUB RTF XPS ODT 文档
 ---
 

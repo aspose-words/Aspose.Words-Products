@@ -1,7 +1,7 @@
 ---
 title: Remove DOTX Annotation via .NET 
 weight: 3890
-url: /net/annotation/dotx/ 
+
 description: Delete Microsoft Word DOTX format annotations using server side .NET library
 ---
 

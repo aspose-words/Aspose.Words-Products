@@ -1,7 +1,7 @@
 ---
 title: JasperReportsおよびJasperServerのWordファイルでレポートをエクスポートする 
 weight: 10660
-url: /ja/jasperreports/ 
+
 description: JasperReportsおよびJasperServerからWordDOCOfficeでレポートをエクスポートするOpenXMLOOXML DOCX RTF ODTHTMLMHTMLおよびTXT形式
 ---
 

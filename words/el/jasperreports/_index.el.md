@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή αναφορών σε αρχεία Word σε JasperReports & JasperServer 
 weight: 10660
-url: /el/jasperreports/ 
+
 description: Εξαγωγή αναφορών από Jasper Reports και JasperServer στο Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML and TXT
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Remove DOC Annotation via Java 
 weight: 7570
-url: /java/annotation/doc/ 
+
 description: Java source code to delete DOC format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

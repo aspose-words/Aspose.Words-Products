@@ -1,7 +1,7 @@
 ---
 title: View MOBI File Formats via .NET 
 weight: 3670
-url: /net/viewer/mobi/ 
+
 description: Load, render and display MOBI documents using server side .NET library.
 ---
 

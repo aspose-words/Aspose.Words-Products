@@ -1,7 +1,7 @@
 ---
 title: e-Sign XHTML Files via Java 
 weight: 9610
-url: /java/signature/xhtml/ 
+
 description: Java source code to electronically sign XHTML files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

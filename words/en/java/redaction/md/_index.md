@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in MD document via Java 
 weight: 1090
-url: /java/redaction/md/ 
+
 description: Java source code to redact sensitive information in MD file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

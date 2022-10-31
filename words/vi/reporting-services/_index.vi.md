@@ -1,7 +1,7 @@
 ---
 title: Xuất báo cáo RDL sang Định dạng Word trong SQL Server - Aspose 
 weight: 3900
-url: /vi/reporting-services/ 
+
 description: Phần mở rộng hiển thị của Dịch vụ Báo cáo SQL Server - Xuất Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS và các định dạng tài liệu WordprocessingML
 ---
 

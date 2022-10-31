@@ -1,7 +1,7 @@
 ---
 title: API การประมวลผลเอกสาร C# .NET Word - Aspose 
 weight: 2200
-url: /th/net/ 
+
 description: ไลบรารี C# ASP.NET VB.NET เพื่อทำงานกับไฟล์ Word สร้างแก้ไขแปลง DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG และรูปแบบอื่น ๆ อีกมากมาย
 ---
 

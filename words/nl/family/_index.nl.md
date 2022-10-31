@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java en C++ API om tekstverwerkingstaken te automatiseren 
 weight: 10
-url: /nl/family
+
 description: Lezen Schrijven en exporteren van Microsoft Word-documentindelingen van .NET Java C++ Android en SharePoint met behulp van de relevante bibliotheek. Bestanden exporteren in SSRS en JasperReports
 ---
 

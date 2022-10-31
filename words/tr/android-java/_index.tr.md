@@ -1,7 +1,7 @@
 ---
 title: Android Kelime API'si | Mobil Uygulamalarda Belgeleri İşleyin 
 weight: 7480
-url: /tr/android-java/ 
+
 description: Mobil uygulamalar için kelime işlem kitaplığı. Okuma Düzenleme Oluştur ve DOC DOCX RTF ODT EPUB XML PDF HTML WordML ve TXT formatlarını dönüştür
 ---
 

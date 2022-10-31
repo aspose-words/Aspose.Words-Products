@@ -1,7 +1,7 @@
 ---
 title: RDL Raporlarını SQL Server'da Word Formatlarına Aktarın - Aspose 
 weight: 3900
-url: /tr/reporting-services/ 
+
 description: SQL Server Reporting Services işleme uzantısı - Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS ve WordprocessingML belge biçimlerini dışa aktarın
 ---
 

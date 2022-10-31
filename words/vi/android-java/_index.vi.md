@@ -1,7 +1,7 @@
 ---
 title: API Android Word | Xử lý tài liệu trong ứng dụng dành cho thiết bị di động 
 weight: 7480
-url: /vi/android-java/ 
+
 description: Thư viện xử lý văn bản cho các ứng dụng di động. Tạo Đọc Chỉnh sửa và Chuyển đổi Định dạng DOC DOCX RTF ODT EPUB XML PDF HTML WordML và TXT
 ---
 

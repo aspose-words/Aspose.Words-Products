@@ -1,7 +1,7 @@
 ---
 title: Remove DOT Annotation via .NET 
 weight: 2120
-url: /net/annotation/dot/ 
+
 description: Delete Microsoft Word DOT format annotations using server side .NET library
 ---
 

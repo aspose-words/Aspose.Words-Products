@@ -1,7 +1,7 @@
 ---
 title: Watermark DOT document via .NET 
 weight: 6520
-url: /net/watermark/dot/ 
+
 description: C# code to add or remove watermark to Microsoft Word DOT file using server side .NET library.
 ---
 

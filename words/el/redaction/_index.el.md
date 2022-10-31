@@ -1,7 +1,7 @@
 ---
 title: Redact Word Documents σε Windows, Linux και macOS 
 weight: 7730
-url: /el/redaction
+
 description: Δωρεάν εφαρμογές και API για τη διόρθωση ευαίσθητων πληροφοριών σε αρχεία DOC, DOCX και ODT
 ---
 

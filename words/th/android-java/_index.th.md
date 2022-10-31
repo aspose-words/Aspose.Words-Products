@@ -1,7 +1,7 @@
 ---
 title: Android Word API | ประมวลผลเอกสารในแอพมือถือ 
 weight: 7480
-url: /th/android-java/ 
+
 description: ไลบรารีประมวลผลคำสำหรับแอปพลิเคชันมือถือ สร้าง อ่าน แก้ไข และแปลง DOC DOCX RTF ODT EPUB XML PDF HTML รูปแบบ WordML และ TXT
 ---
 

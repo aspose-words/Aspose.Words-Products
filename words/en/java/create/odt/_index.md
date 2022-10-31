@@ -1,7 +1,7 @@
 ---
 title: Create ODT Files via Java 
 weight: 7690
-url: /java/create/odt/ 
+
 description: Java Sample code for generating ODT documents. Use this code for creating Word ODT files within Java based desktop or web application.
 ---
 

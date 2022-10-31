@@ -1,7 +1,7 @@
 ---
 title: C++ Word API | تحليل إنشاء المستند والتحويل 
 weight: 8250
-url: /ar/cpp/ 
+
 description: مكتبة معالجة مستندات Word C++ لإنشاء مستند وتحريره وتحويله وتقديمه باستخدام C++. قراءة وكتابة وتحليل تنسيقات Word ديناميكيًا مثل DOC أو DOCX أو تنسيقات أخرى مثل PDF و RTF و ODT و TXT و MOBI و HTML و JPG و PNG.
 ---
 

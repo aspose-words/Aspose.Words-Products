@@ -1,7 +1,7 @@
 ---
 title: Watermark RTF document via Java 
 weight: 5460
-url: /java/watermark/rtf/ 
+
 description: Java source code to add or remove watermark to Microsoft Word RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

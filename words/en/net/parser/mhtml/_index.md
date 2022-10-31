@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from MHTML document via .NET 
 weight: 4970
-url: /net/parser/mhtml/ 
+
 description: C# sample code to extract text and images from Microsoft Word MHTML file using server side .NET library.
 ---
 

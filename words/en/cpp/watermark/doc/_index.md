@@ -1,7 +1,7 @@
 ---
 title: Watermark DOC document via C++ 
 weight: 7500
-url: /cpp/watermark/doc/ 
+
 description: C++ example code to add or remove watermark to DOC file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

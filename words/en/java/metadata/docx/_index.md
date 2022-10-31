@@ -1,7 +1,7 @@
 ---
 title: Edit or View DOCX Files Metadata via Java 
 weight: 10630
-url: /java/metadata/docx/ 
+
 description: Java source code to edit or view Microsoft Word DOCX format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

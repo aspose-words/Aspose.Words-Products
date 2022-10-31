@@ -1,7 +1,7 @@
 ---
 title: Remove OTT Annotation via .NET 
 weight: 10350
-url: /net/annotation/ott/ 
+
 description: Delete Microsoft Word OTT format annotations using server side .NET library
 ---
 

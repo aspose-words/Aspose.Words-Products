@@ -1,7 +1,7 @@
 ---
 title: e-Sign OTT Files via Java 
 weight: 950
-url: /java/signature/ott/ 
+
 description: Java source code to electronically sign Microsoft Word OTT files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

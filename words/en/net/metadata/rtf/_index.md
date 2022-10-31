@@ -1,7 +1,7 @@
 ---
 title: View or Edit RTF Files Metadata via .NET 
 weight: 4440
-url: /net/metadata/rtf/ 
+
 description: C# sample code to edit or view Microsoft Word RTF format metadata using server side .NET library.
 ---
 

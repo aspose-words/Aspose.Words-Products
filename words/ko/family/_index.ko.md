@@ -1,7 +1,7 @@
 ---
 title: 워드 프로세싱 작업을 자동화하는 .NET Core Java 및 C++ API 
 weight: 10
-url: /ko/family
+
 description: 관련 라이브러리를 사용하여 .NET Java C++ Android 및 SharePoint에서 Microsoft Word 문서 형식 쓰기 및 내보내기를 읽습니다. SSRS 및 JasperReports에서 파일 내보내기
 ---
 

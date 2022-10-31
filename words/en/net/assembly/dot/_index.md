@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOT Files via .NET 
 weight: 11100
-url: /net/assembly/dot/ 
+
 description: C# sample code to generate DOT format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

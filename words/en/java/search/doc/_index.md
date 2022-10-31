@@ -1,7 +1,7 @@
 ---
 title: Search DOC document without opening via Java 
 weight: 8430
-url: /java/search/doc/ 
+
 description: Java source code to search words with pattern in Microsoft Word DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

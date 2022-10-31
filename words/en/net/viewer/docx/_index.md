@@ -1,7 +1,7 @@
 ---
 title: View DOCX File Formats via .NET 
 weight: 11010
-url: /net/viewer/docx/ 
+
 description: Load, render and display Microsoft Word DOCX documents using server side .NET library.
 ---
 

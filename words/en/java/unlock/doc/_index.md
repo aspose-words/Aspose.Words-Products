@@ -1,7 +1,7 @@
 ---
 title: Unlock DOC document via Java 
 weight: 11090
-url: /java/unlock/doc/ 
+
 description: Java source code to unlock password protected Microsoft Word DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Watermark RTF document via C++ 
 weight: 8360
-url: /cpp/watermark/rtf/ 
+
 description: C++ example code to add or remove watermark to RTF file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

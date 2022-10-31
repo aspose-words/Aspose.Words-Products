@@ -1,7 +1,7 @@
 ---
 title: SharePoint Word 파일 변환기 앱 - Aspose 
 weight: 1050
-url: /ko/sharepoint/ 
+
 description: MOSS 및 WSS용 SharePoint Word 파일 변환기 API. 문서 라이브러리는 Windows 및 MS Office SharePoint Server 내에서 DOC DOCX PDF XML EPUB RTF XPS ODT 문서를 내보냅니다.
 ---
 

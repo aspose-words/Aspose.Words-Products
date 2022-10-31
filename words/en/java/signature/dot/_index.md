@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOT Files via Java 
 weight: 8710
-url: /java/signature/dot/ 
+
 description: Java source code to electronically sign Microsoft Word DOT files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

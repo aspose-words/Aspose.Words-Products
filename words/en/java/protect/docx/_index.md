@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOCX document via Java 
 weight: 11350
-url: /java/protect/docx/ 
+
 description: Java source code to lock Microsoft Word DOCX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

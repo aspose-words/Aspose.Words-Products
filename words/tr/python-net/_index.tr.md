@@ -1,7 +1,7 @@
 ---
 title: Python Kelime Belge İşleme API'sı – Aspose 
 weight: 2200
-url: /tr/python-net/
+
 description: Microsoft Word dosyalarıyla çalışmak için Python kitaplığı. Oluştur düzenleme dönüştürme DOCX DOC RTF PDF EPUB WordML ODT HTML Metin ve çok daha fazla format.
 ---
 

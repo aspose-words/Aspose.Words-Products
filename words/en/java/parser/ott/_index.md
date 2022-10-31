@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from OTT document via Java 
 weight: 3500
-url: /java/parser/ott/ 
+
 description: Java source code to extract text and images from Microsoft Word OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

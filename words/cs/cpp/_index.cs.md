@@ -1,7 +1,7 @@
 ---
 title: C++ Word API | Analýza a konverze vytváření dokumentu 
 weight: 8250
-url: /cs/cpp/ 
+
 description: Knihovna pro zpracování dokumentů C++ Word pro generování, úpravu, převod a vykreslování dokumentu pomocí C++. Dynamicky čtěte, zapisujte a analyzujte formáty Wordu jako DOC, DOCX nebo jiné formáty jako PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

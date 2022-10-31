@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in HTML Files via Java 
 weight: 11320
-url: /java/assembly/html/ 
+
 description: Java source code to create Microsoft Word HTML format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

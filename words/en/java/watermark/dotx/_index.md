@@ -1,7 +1,7 @@
 ---
 title: Watermark DOTX document via Java 
 weight: 4820
-url: /java/watermark/dotx/ 
+
 description: Java source code to add or remove watermark to Microsoft Word DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

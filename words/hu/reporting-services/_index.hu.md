@@ -1,7 +1,7 @@
 ---
 title: RDL-jelentések exportálása Word formátumokba az SQL Serverben – Aspose 
 weight: 3900
-url: /hu/reporting-services/ 
+
 description: SQL Server Reporting Services renderelő bővítmény – Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS és WordprocessingML dokumentumformátumok exportálása
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: View DOCM File Formats via .NET 
 weight: 2290
-url: /net/viewer/docm/ 
+
 description: Load, render and display Microsoft Word DOCM documents using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Create DOCX Files via C# 
 weight: 7690
-url: /net/create/docx/ 
+
 description: C# Sample code for generating DOCX documents. Use this code for creating Word DOCX files within VB.NET, Asp.NET or any .NET based application.
 ---
 

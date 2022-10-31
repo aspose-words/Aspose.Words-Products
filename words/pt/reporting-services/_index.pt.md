@@ -1,7 +1,7 @@
 ---
 title: Exportar relatórios RDL para formatos do Word no SQL Server - Aspose 
 weight: 3900
-url: /pt/reporting-services/ 
+
 description: Extensão de renderização do SQL Server Reporting Services - Exportar formatos de documento Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS e WordprocessingML
 ---
 

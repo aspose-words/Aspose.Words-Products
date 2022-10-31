@@ -1,7 +1,7 @@
 ---
 title: e-Sign RTF Files via Java 
 weight: 3940
-url: /java/signature/rtf/ 
+
 description: Java source code to electronically sign Microsoft Word RTF files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

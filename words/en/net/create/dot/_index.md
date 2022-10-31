@@ -1,7 +1,7 @@
 ---
 title: Create DOT Files via C# 
 weight: 7690
-url: /net/create/dot/ 
+
 description: C# Sample code for generating DOT documents. Use this code for creating Word DOT files within VB.NET, Asp.NET or any .NET based application.
 ---
 

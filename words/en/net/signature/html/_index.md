@@ -1,7 +1,7 @@
 ---
 title: eSign HTML Files via .NET 
 weight: 10460
-url: /net/signature/html/ 
+
 description: C# code to e-Sgin HTML documents using server side .NET library.
 ---
 

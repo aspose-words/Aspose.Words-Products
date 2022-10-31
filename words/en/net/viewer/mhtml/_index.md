@@ -1,7 +1,7 @@
 ---
 title: View MHTML File Formats via .NET 
 weight: 2700
-url: /net/viewer/mhtml/ 
+
 description: Load, render and display MHTML documents using server side .NET library.
 ---
 

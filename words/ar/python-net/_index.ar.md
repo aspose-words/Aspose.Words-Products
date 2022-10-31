@@ -1,7 +1,7 @@
 ---
 title: واجهة برمجة تطبيقات معالجة مستندات Python Word - Aspose 
 weight: 2200
-url: /ar/python-net/
+
 description: مكتبة Python للعمل مع ملفات Microsoft Word. إنشاء تحرير وتحويل DOCX DOC RTF PDF EPUB WordML ODT HTML Text والمزيد من التنسيقات.
 ---
 

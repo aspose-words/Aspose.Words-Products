@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in MHTML document via .NET 
 weight: 9620
-url: /net/redaction/mhtml/ 
+
 description: C# sample code to redact sensitive information in MHTML file using server side .NET library.
 ---
 

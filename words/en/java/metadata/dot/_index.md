@@ -1,7 +1,7 @@
 ---
 title: Edit or View DOT Files Metadata via Java 
 weight: 9170
-url: /java/metadata/dot/ 
+
 description: Java source code to edit or view Microsoft Word DOT format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

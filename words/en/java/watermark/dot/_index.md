@@ -1,7 +1,7 @@
 ---
 title: Watermark DOT document via Java 
 weight: 10140
-url: /java/watermark/dot/ 
+
 description: Java source code to add or remove watermark to Microsoft Word DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

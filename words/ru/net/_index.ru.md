@@ -1,7 +1,7 @@
 ---
 title: API обработки документов C# .NET Word — Aspose 
 weight: 2200
-url: /ru/net/ 
+
 description: Библиотека C# ASP.NET VB.NET для работы с файлами Word. Создавайте, редактируйте, конвертируйте DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG и многие другие форматы.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Android Word-API | Documenten verwerken in mobiele apps 
 weight: 7480
-url: /nl/android-java/ 
+
 description: Tekstverwerkingsbibliotheek voor mobiele toepassingen. Maken Lezen Bewerken en converteren DOC DOCX RTF ODT EPUB XML PDF HTML WordML- en TXT-indelingen
 ---
 

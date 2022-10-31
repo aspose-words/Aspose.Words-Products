@@ -1,7 +1,7 @@
 ---
 title: Solution de format de fichier Microsoft Word sur site, basée sur le cloud et sur une application 
 weight: 9630
-url: /fr/
+
 description: Créez des applications de manipulation de documents Word à l'aide d'API On Premise ou Cloud ou utilisez simplement des applications multiplateformes pour afficher, comparer, inspecter ou convertir des fichiers Word
 ---
 

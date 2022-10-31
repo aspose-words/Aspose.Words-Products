@@ -1,7 +1,7 @@
 ---
 title: API Pemrosesan Dokumen Kata Python – Asumsikan 
 weight: 2200
-url: /id/python-net/
+
 description: Pustaka Python untuk bekerja dengan file Microsoft Word. Buat edit, konversi, DOCX DOC RTF, PDF, EPUB, WordML, ODT, Teks HTML, dan banyak lagi format lainnya.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: View ODT File Formats via .NET 
 weight: 5610
-url: /net/viewer/odt/ 
+
 description: Load, render and display Microsoft Word ODT documents using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOCM documents from template via C# 
 weight: 7690
-url: /net/create/template/docm/ 
+
 description: C# Sample code for creating template based DOCM documents. Use it for automated generation of Word DOCM files within VB.NET, Asp.NET or any .NET based application.
 ---
 

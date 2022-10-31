@@ -1,7 +1,7 @@
 ---
 title: Unlock DOCX document via Java 
 weight: 9040
-url: /java/unlock/docx/ 
+
 description: Java source code to unlock password protected Microsoft Word DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

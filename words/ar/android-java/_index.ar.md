@@ -1,7 +1,7 @@
 ---
 title: Android Word API | معالجة المستندات في تطبيقات الجوال 
 weight: 7480
-url: /ar/android-java/ 
+
 description: مكتبة معالجة الكلمات لتطبيقات الهاتف المحمول. إنشاء قراءة وتحرير وتحويل تنسيقات DOC DOCX RTF ODT EPUB XML PDF HTML و WordML و TXT
 ---
 

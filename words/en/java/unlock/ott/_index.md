@@ -1,7 +1,7 @@
 ---
 title: Unlock OTT document via Java 
 weight: 7370
-url: /java/unlock/ott/ 
+
 description: Java source code to unlock password protected Microsoft Word OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

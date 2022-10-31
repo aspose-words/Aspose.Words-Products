@@ -1,7 +1,7 @@
 ---
 title: API xử lý tài liệu từ C# .NET - Aspose 
 weight: 2200
-url: /vi/net/ 
+
 description: Thư viện C# ASP.NET VB.NET để làm việc với các tệp Word. Tạo chỉnh sửa chuyển đổi DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG và nhiều định dạng khác.
 ---
 

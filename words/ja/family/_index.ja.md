@@ -1,7 +1,7 @@
 ---
 title: ワードプロセッシングタスクを自動化するための.NETCoreJavaおよびC++API 
 weight: 10
-url: /ja/family
+
 description: 関連するライブラリを使用して、.NET Java C++AndroidおよびSharePointからMicrosoftWordドキュメント形式を記述およびエクスポートするをお読みください。 SSRSおよびJasperReportsでファイルをエクスポートする
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: e-Sign HTML Files via Java 
 weight: 11380
-url: /java/signature/html/ 
+
 description: Java source code to electronically sign HTML files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

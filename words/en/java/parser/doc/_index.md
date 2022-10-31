@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOC document via Java 
 weight: 620
-url: /java/parser/doc/ 
+
 description: Java source code to extract text and images from Microsoft Word DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOCX document via .NET 
 weight: 4810
-url: /net/parser/docx/ 
+
 description: C# sample code to extract text and images from Microsoft Word DOCX file using server side .NET library.
 ---
 

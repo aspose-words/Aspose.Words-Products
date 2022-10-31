@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOC Files via .NET 
 weight: 5590
-url: /net/assembly/doc/ 
+
 description: C# sample code to generate Microsoft Word DOC format reports using server side .NET API.
 ---
 

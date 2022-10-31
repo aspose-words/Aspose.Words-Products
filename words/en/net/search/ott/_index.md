@@ -1,7 +1,7 @@
 ---
 title: Search OTT document without opening via .NET 
 weight: 1640
-url: /net/search/ott/ 
+
 description: C# code to search words with pattern in Microsoft Word OTT file using server side .NET library.
 ---
 

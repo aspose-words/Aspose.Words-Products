@@ -1,7 +1,7 @@
 ---
 title: Generate Word RTF documents from template via Java 
 weight: 7690
-url: /java/create/template/rtf/ 
+
 description: Java Sample code for creating template based RTF documents. Use it for automated generation of Word RTF files within Java based desktop or web application.
 ---
 

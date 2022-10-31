@@ -1,7 +1,7 @@
 ---
 title: Edit or View DOTX Document Metadata via C++ 
 weight: 6280
-url: /cpp/metadata/dotx/ 
+
 description: C++ example code to edit or view DOTX file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

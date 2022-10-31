@@ -1,7 +1,7 @@
 ---
 title: Jelentések exportálása Word-fájlokba a JasperReports és a JasperServer alkalmazásban 
 weight: 10660
-url: /hu/jasperreports/ 
+
 description: Jelentések exportálása a Jasper Reportsból és a JasperServerből Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML és TXT formátumban
 ---
 

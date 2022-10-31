@@ -1,7 +1,7 @@
 ---
 title: SQL सर्वर में Word स्वरूपों में RDL रिपोर्ट निर्यात करें - Aspose 
 weight: 3900
-url: /hi/reporting-services/ 
+
 description: SQL सर्वर रिपोर्टिंग सेवाएँ रेंडरिंग एक्सटेंशन - Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS और WordprocessingML दस्तावेज़ स्वरूप निर्यात करें
 ---
 

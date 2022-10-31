@@ -1,7 +1,7 @@
 ---
 title: Protect and lock OTT document via C++ 
 weight: 9280
-url: /cpp/protect/ott/ 
+
 description: C++ example code to lock OTT file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

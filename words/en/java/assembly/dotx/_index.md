@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOTX Files via Java 
 weight: 7490
-url: /java/assembly/dotx/ 
+
 description: Java source code to create Microsoft Word DOTX format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

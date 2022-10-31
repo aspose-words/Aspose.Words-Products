@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from HTML document via .NET 
 weight: 6760
-url: /net/parser/html/ 
+
 description: C# sample code to extract text and images from Microsoft Word HTML file using server side .NET library.
 ---
 

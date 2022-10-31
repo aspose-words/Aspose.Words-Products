@@ -1,7 +1,7 @@
 ---
 title: Unlock DOT document via C++ 
 weight: 10420
-url: /cpp/unlock/dot/ 
+
 description: C++ example code to unlock password protected DOT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

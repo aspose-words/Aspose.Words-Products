@@ -1,7 +1,7 @@
 ---
 title: JasperReports 및 JasperServer에서 Word 파일로 보고서 내보내기 
 weight: 10660
-url: /ko/jasperreports/ 
+
 description: Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML 및 TXT 형식의 Jasper Reports 및 JasperServer에서 보고서 내보내기
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Vytvářejte manipulace a vykreslování dokumentů aplikace Word 
 weight: 7990
-url: /cs/java/ 
+
 description: Knihovna pro zpracování souborů Java Word pro vytváření úprav, převod DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG a mnoha dalších formátů.
 ---
 

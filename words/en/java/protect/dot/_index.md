@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOT document via Java 
 weight: 4210
-url: /java/protect/dot/ 
+
 description: Java source code to lock Microsoft Word DOT file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

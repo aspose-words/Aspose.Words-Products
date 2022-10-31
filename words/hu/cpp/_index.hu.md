@@ -1,7 +1,7 @@
 ---
 title: C++ Word API | Dokumentumkészítés elemzése és konvertálása 
 weight: 8250
-url: /hu/cpp/ 
+
 description: C++ Word dokumentumfeldolgozó könyvtár dokumentum létrehozásához, szerkesztéséhez, konvertálásához és rendereléséhez C++ használatával. Dinamikusan olvassa, írjon és értelmezzen Word formátumokat, például DOC, DOCX vagy más formátumokat, például PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

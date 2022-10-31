@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Proses Dokumen di Aplikasi Seluler 
 weight: 7480
-url: /id/android-java/ 
+
 description: Pustaka pengolah kata untuk aplikasi seluler. Buat Baca Edit dan Konversi DOC DOCX RTF ODT EPUB XML PDF HTML format WordML dan TXT
 ---
 

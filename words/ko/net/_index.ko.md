@@ -1,7 +1,7 @@
 ---
 title: C# .NET 워드 문서 처리 API - Aspose 
 weight: 2200
-url: /ko/net/ 
+
 description: C# ASP.NET VB.NET 라이브러리는 Word 파일과 함께 작동합니다. 편집 변환 DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG 및 더 많은 형식을 만듭니다.
 ---
 

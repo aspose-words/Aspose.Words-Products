@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOCM documents from template via Java 
 weight: 7690
-url: /java/create/template/docm/ 
+
 description: Java Sample code for creating template based DOCM documents. Use it for automated generation of Word DOCM files within Java based desktop or web application.
 ---
 

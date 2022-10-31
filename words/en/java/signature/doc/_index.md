@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOC Files via Java 
 weight: 3120
-url: /java/signature/doc/ 
+
 description: Java source code to electronically sign Microsoft Word DOC files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

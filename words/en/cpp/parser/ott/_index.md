@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from OTT document via C++ 
 weight: 9000
-url: /cpp/parser/ott/ 
+
 description: C++ example code to extract text and images from OTT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

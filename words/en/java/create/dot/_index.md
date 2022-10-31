@@ -1,7 +1,7 @@
 ---
 title: Create DOT Files via Java 
 weight: 7690
-url: /java/create/dot/ 
+
 description: Java Sample code for generating DOT documents. Use this code for creating Word DOT files within Java based desktop or web application.
 ---
 

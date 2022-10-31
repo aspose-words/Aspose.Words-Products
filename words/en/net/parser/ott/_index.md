@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from OTT document via .NET 
 weight: 6840
-url: /net/parser/ott/ 
+
 description: C# sample code to extract text and images from Microsoft Word OTT file using server side .NET library.
 ---
 

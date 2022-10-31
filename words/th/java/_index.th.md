@@ -1,7 +1,7 @@
 ---
 title: Java Word API | สร้างการจัดการและแสดงผลเอกสาร Word 
 weight: 7990
-url: /th/java/ 
+
 description: ไลบรารีประมวลผลไฟล์ Java Word เพื่อสร้างแก้ไขแปลง DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG และรูปแบบอื่น ๆ อีกมากมาย
 ---
 

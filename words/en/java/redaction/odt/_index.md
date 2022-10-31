@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in ODT document via Java 
 weight: 6560
-url: /java/redaction/odt/ 
+
 description: Java source code to redact sensitive information in Microsoft Word ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

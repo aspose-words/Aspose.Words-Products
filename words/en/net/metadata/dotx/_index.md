@@ -1,7 +1,7 @@
 ---
 title: View or Edit DOTX Files Metadata via .NET 
 weight: 2530
-url: /net/metadata/dotx/ 
+
 description: C# sample code to edit or view Microsoft Word DOTX format metadata using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: View RTF File Formats via .NET 
 weight: 4330
-url: /net/viewer/rtf/ 
+
 description: Load, render and display Microsoft Word RTF documents using server side .NET library.
 ---
 

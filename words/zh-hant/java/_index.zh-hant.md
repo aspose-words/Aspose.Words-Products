@@ -1,7 +1,7 @@
 ---
 title: Java Word API |創建操作和渲染 Word 文檔 
 weight: 7990
-url: /zh-TW/java/ 
+
 description: Java Word 文件處理庫，用於創建編輯轉換 DOC、DOCX、PDF、RTF、ODT、TXT、MOBI、HTML、JPG、PNG 和更多格式。
 ---
 

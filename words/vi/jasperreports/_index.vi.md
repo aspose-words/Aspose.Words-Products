@@ -1,7 +1,7 @@
 ---
 title: Xuất báo cáo trong tệp Word trong JasperReports & JasperServer 
 weight: 10660
-url: /vi/jasperreports/ 
+
 description: Xuất báo cáo từ Jasper Reports và JasperServer trong Word DOC Office Open XML OOXML DOCX RTF ODT HTML định dạng MHTML và TXT
 ---
 

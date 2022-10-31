@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOTX document via C++ 
 weight: 7040
-url: /cpp/parser/dotx/ 
+
 description: C++ example code to extract text and images from DOTX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: App di conversione di file Word di SharePoint - Aspose 
 weight: 1050
-url: /it/sharepoint/ 
+
 description: API di conversione di file Word di SharePoint per MOSS e WSS. Esportazioni di raccolte documenti DOC DOCX PDF XML EPUB RTF XPS Documenti ODT all'interno di Windows e MS Office SharePoint Server
 ---
 

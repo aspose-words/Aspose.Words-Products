@@ -1,7 +1,7 @@
 ---
 title: Watermark DOC document via Java 
 weight: 4710
-url: /java/watermark/doc/ 
+
 description: Java source code to add or remove watermark to Microsoft Word DOC file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

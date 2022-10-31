@@ -1,7 +1,7 @@
 ---
 title: C++ 워드 API | 문서 생성 구문 분석 및 변환 
 weight: 8250
-url: /ko/cpp/ 
+
 description: C++를 사용하여 문서를 생성, 편집, 변환 및 렌더링하는 C++ Word 문서 처리 라이브러리. DOC, DOCX와 같은 Word 형식 또는 PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG와 같은 기타 형식을 동적으로 읽고 쓰고 구문 분석합니다.
 ---
 

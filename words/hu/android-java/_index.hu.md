@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Dokumentumok feldolgozása mobilalkalmazásokban 
 weight: 7480
-url: /hu/android-java/ 
+
 description: Szövegszerkesztő könyvtár mobil alkalmazásokhoz. Olvasás szerkesztése és konvertálása DOC DOCX RTF ODT EPUB XML PDF HTML WordML és TXT formátumok
 ---
 

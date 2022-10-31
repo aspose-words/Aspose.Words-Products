@@ -1,7 +1,7 @@
 ---
 title: Search DOCX document without opening via Java 
 weight: 8400
-url: /java/search/docx/ 
+
 description: Java source code to search words with pattern in Microsoft Word DOCX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

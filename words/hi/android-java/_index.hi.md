@@ -1,7 +1,7 @@
 ---
 title: आदमी के समान वर्ड एपीआई | मोबाइल ऐप्स में दस्तावेज़ों को प्रोसेस करें 
 weight: 7480
-url: /hi/android-java/ 
+
 description: मोबाइल एप्लिकेशन के लिए वर्ड प्रोसेसिंग लाइब्रेरी। पढ़ें संपादित करें और कनवर्ट करें DOC DOCX RTF ODT EPUB XML PDF HTML WordML और TXT प्रारूप
 ---
 

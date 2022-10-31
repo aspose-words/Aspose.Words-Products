@@ -1,7 +1,7 @@
 ---
 title: Python Word Document Processing API – Aspose 
 weight: 2200
-url: /hu/python-net/
+
 description: Python könyvtár a Microsoft Word fájlokkal való együttműködéshez. Készítsen szerkesztést konvertáljon DOCX DOC RTF PDF EPUB WordML ODT HTML szöveget és még sok más formátumot.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Protect and lock OTT document via .NET 
 weight: 8230
-url: /net/protect/ott/ 
+
 description: C# sample code to lock OTT file using password using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOC Documents via C++ 
 weight: 6120
-url: /cpp/signature/doc/ 
+
 description: C++ example code to eSgin DOC documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

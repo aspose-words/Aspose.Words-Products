@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in TXT document via C++ 
 weight: 11280
-url: /cpp/redaction/txt/ 
+
 description: C++ example code to redact sensitive information in TXT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

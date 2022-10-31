@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOCX documents from template via Java 
 weight: 7690
-url: /java/create/template/docx/ 
+
 description: Java Sample code for creating template based DOCX documents. Use it for automated generation of Word DOCX files within Java based desktop or web application.
 ---
 

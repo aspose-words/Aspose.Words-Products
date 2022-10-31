@@ -1,7 +1,7 @@
 ---
 title: View HTML File Formats via .NET 
 weight: 320
-url: /net/viewer/html/ 
+
 description: Load, render and display HTML documents using server side .NET library.
 ---
 

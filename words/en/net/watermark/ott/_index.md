@@ -1,7 +1,7 @@
 ---
 title: Watermark OTT document via .NET 
 weight: 2780
-url: /net/watermark/ott/ 
+
 description: C# code to add or remove watermark to Microsoft Word OTT file using server side .NET library.
 ---
 

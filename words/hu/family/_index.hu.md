@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java és C++ API a szövegfeldolgozási feladatok automatizálásához 
 weight: 10
-url: /hu/family
+
 description: Olvasson Microsoft Word dokumentumformátumok írása és exportálása .NET Java C++ Android és SharePoint rendszerből a megfelelő könyvtár használatával. Fájlok exportálása az SSRS-ben és a JasperReports-ban
 ---
 

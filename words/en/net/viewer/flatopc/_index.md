@@ -1,6 +1,6 @@
 ---
 title: View FlatOpc File Formats via .NET 
-url: /net/viewer/flatopc/ 
+
 description: Load, render and display FlatOpc documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

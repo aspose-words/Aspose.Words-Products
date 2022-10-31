@@ -1,7 +1,7 @@
 ---
 title: Create DOCX Files via Java 
 weight: 7690
-url: /java/create/docx/ 
+
 description: Java Sample code for generating DOCX documents. Use this code for creating Word DOCX files within Java based desktop or web application.
 ---
 

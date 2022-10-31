@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from XHTML document via .NET 
 weight: 7320
-url: /net/parser/xhtml/ 
+
 description: C# sample code to extract text and images from Microsoft Word XHTML file using server side .NET library.
 ---
 

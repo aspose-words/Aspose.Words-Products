@@ -1,7 +1,7 @@
 ---
 title: eSign ODT Files via .NET 
 weight: 2020
-url: /net/signature/odt/ 
+
 description: C# code to e-Sgin Microsoft Word ODT documents using server side .NET library.
 ---
 

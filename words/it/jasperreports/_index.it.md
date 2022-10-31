@@ -1,7 +1,7 @@
 ---
 title: Esporta report in file Word in JasperReports e JasperServer 
 weight: 10660
-url: /it/jasperreports/ 
+
 description: Esporta report da Jasper Reports e JasperServer in Word DOC Office Open XML OOXML DOCX RTF ODT HTML Formati MHTML e TXT
 ---
 

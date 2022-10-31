@@ -1,7 +1,7 @@
 ---
 title: View or Edit DOCX Files Metadata via .NET 
 weight: 6810
-url: /net/metadata/docx/ 
+
 description: C# sample code to edit or view Microsoft Word DOCX format metadata using server side .NET library.
 ---
 

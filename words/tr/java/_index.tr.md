@@ -1,7 +1,7 @@
 ---
 title: Java Kelime API'si | Manipüle Edin ve Word Belgelerini Oluşturun 
 weight: 7990
-url: /tr/java/ 
+
 description: Java Word dosyaları işleme kitaplığı oluşturmak için düzenleme dönüştürmek DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG ve daha birçok format.
 ---
 

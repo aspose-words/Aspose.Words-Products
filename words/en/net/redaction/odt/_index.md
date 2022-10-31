@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in ODT document via .NET 
 weight: 10050
-url: /net/redaction/odt/ 
+
 description: C# sample code to redact sensitive information in Microsoft Word ODT file using server side .NET library.
 ---
 

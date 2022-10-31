@@ -1,7 +1,7 @@
 ---
 title: eSign DOTX Files via .NET 
 weight: 8210
-url: /net/signature/dotx/ 
+
 description: C# code to e-Sgin Microsoft Word DOTX documents using server side .NET library.
 ---
 

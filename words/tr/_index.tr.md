@@ -1,7 +1,7 @@
 ---
 title: Şirket İçi, Bulut ve Uygulama Tabanlı Microsoft Word Dosya Biçimi Çözümü 
 weight: 9630
-url: /tr/
+
 description: Şirket İçi veya Bulut API'lerini kullanarak Word belgeleri işleme uygulamaları oluşturun veya Word dosyalarını karşılaştırmayı incelemek veya dönüştürmek için yalnızca platformlar arası uygulamaları kullanın
 ---
 

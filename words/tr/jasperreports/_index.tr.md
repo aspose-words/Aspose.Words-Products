@@ -1,7 +1,7 @@
 ---
 title: Raporları JasperReports ve JasperServer'da Word Dosyalarında Dışa Aktarma 
 weight: 10660
-url: /tr/jasperreports/ 
+
 description: Jasper Reports ve JasperServer'dan raporları Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML ve TXT formatlarında dışa aktarın
 ---
 

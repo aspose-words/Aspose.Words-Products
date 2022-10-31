@@ -1,7 +1,7 @@
 ---
 title: Create RTF Files via C++ 
 weight: 7690
-url: /cpp/create/rtf/ 
+
 description: C++ Sample code for generating RTF documents. Use this code for creating Word RTF files within C++ based application.
 ---
 

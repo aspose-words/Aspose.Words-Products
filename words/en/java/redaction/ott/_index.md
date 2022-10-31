@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in OTT document via Java 
 weight: 8760
-url: /java/redaction/ott/ 
+
 description: Java source code to redact sensitive information in Microsoft Word OTT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

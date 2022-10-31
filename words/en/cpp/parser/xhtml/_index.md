@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from XHTML document via C++ 
 weight: 8350
-url: /cpp/parser/xhtml/ 
+
 description: C++ example code to extract text and images from XHTML file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Word-dokumentumok manipulálása és renderelése 
 weight: 7990
-url: /hu/java/ 
+
 description: Java Word fájlfeldolgozó könyvtár DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG és még sok más formátum létrehozásához.
 ---
 

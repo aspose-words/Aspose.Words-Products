@@ -1,7 +1,7 @@
 ---
 title: eSign OTT Files via .NET 
 weight: 4320
-url: /net/signature/ott/ 
+
 description: C# code to e-Sgin Microsoft Word OTT documents using server side .NET library.
 ---
 

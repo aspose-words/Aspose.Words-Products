@@ -1,7 +1,7 @@
 ---
 title: Watermark DOT document via C++ 
 weight: 1360
-url: /cpp/watermark/dot/ 
+
 description: C++ example code to add or remove watermark to DOT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

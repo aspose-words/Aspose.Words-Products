@@ -1,7 +1,7 @@
 ---
 title: e-Sign ODT Files via Java 
 weight: 3040
-url: /java/signature/odt/ 
+
 description: Java source code to electronically sign Microsoft Word ODT files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

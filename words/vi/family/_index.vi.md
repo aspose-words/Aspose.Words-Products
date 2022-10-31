@@ -1,7 +1,7 @@
 ---
 title: .NET Core Java và C++ API để tự động hóa các tác vụ xử lý văn bản 
 weight: 10
-url: /vi/family
+
 description: Đọc Ghi và Xuất các định dạng tài liệu Microsoft Word từ .NET Java C++ Android và SharePoint bằng cách sử dụng thư viện có liên quan. Xuất tệp trong SSRS và JasperReports
 ---
 

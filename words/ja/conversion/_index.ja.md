@@ -1,7 +1,7 @@
 ---
 title: Windows、Linux、macOSでWord文書を変換する 
 weight: 7730
-url: /ja/conversion
+
 description: Wordドキュメントの処理と変換のためのハイコード.NET、Java、C++ライブラリ。
 ---
 

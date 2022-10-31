@@ -1,7 +1,7 @@
 ---
 title: Generate Word ODT documents from template via C# 
 weight: 7690
-url: /net/create/template/odt/ 
+
 description: C# Sample code for creating template based ODT documents. Use it for automated generation of Word ODT files within VB.NET, Asp.NET or any .NET based application.
 ---
 

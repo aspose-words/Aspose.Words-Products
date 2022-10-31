@@ -1,7 +1,7 @@
 ---
 title: View TXT File Formats via .NET 
 weight: 9320
-url: /net/viewer/txt/ 
+
 description: Load, render and display Microsoft Word TXT documents using server side .NET library.
 ---
 

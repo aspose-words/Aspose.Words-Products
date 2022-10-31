@@ -1,7 +1,7 @@
 ---
 title: Search DOCX document without opening via .NET 
 weight: 6290
-url: /net/search/docx/ 
+
 description: C# code to search words with pattern in Microsoft Word DOCX file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Ứng dụng SharePoint Word Files Converter - Aspose 
 weight: 1050
-url: /vi/sharepoint/ 
+
 description: API chuyển đổi tệp Word SharePoint cho MOSS & WSS. Thư viện tài liệu xuất tài liệu DOC DOCX PDF XML EPUB RTF XPS ODT trong Windows và MS Office SharePoint Server
 ---
 

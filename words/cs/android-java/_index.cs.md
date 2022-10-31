@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Zpracování dokumentů v mobilních aplikacích 
 weight: 7480
-url: /cs/android-java/ 
+
 description: Knihovna pro zpracování textu pro mobilní aplikace. Vytváření Číst Úpravy a převody DOC DOCX RTF ODT EPUB XML PDF HTML Formáty WordML a TXT
 ---
 

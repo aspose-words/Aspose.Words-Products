@@ -1,7 +1,7 @@
 ---
 title: View or Edit DOT Files Metadata via .NET 
 weight: 11490
-url: /net/metadata/dot/ 
+
 description: C# sample code to edit or view Microsoft Word DOT format metadata using server side .NET library.
 ---
 

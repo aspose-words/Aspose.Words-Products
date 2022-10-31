@@ -1,7 +1,7 @@
 ---
 title: Watermark ODT document via Java 
 weight: 4560
-url: /java/watermark/odt/ 
+
 description: Java source code to add or remove watermark to Microsoft Word ODT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOCX Files via Java 
 weight: 500
-url: /java/signature/docx/ 
+
 description: Java source code to electronically sign Microsoft Word DOCX files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

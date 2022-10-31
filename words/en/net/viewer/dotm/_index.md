@@ -1,7 +1,7 @@
 ---
 title: View DOTM File Formats via .NET 
 weight: 6660
-url: /net/viewer/dotm/ 
+
 description: Load, render and display Microsoft Word DOTM documents using server side .NET library.
 ---
 

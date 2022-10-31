@@ -1,7 +1,7 @@
 ---
 title: C# .NET Word Document Processing API – Aspose 
 weight: 2200
-url: /hu/net/ 
+
 description: C# ASP.NET VB.NET könyvtár a Word fájlokkal való együttműködéshez. Szerkesztés létrehozása DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG és még sok más formátum konvertálásához.
 ---
 

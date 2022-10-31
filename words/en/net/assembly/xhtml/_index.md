@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XHTML Files via .NET 
 weight: 3620
-url: /net/assembly/xhtml/ 
+
 description: C# sample code to generate XHTML format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

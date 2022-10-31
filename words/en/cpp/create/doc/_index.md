@@ -1,7 +1,7 @@
 ---
 title: Create DOC Files via C++ 
 weight: 7690
-url: /cpp/create/doc/ 
+
 description: C++ Sample code for generating DOC documents. Use this code for creating Word DOC files within C++ based application.
 ---
 

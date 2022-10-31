@@ -1,7 +1,7 @@
 ---
 title: e-Sign TXT Files via Java 
 weight: 10540
-url: /java/signature/txt/ 
+
 description: Java source code to electronically sign TXT files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

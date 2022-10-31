@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOT document via Java 
 weight: 650
-url: /java/redaction/dot/ 
+
 description: Java source code to redact sensitive information in Microsoft Word DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

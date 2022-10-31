@@ -1,7 +1,7 @@
 ---
 title: NET Core Java و C++ API لأتمتة مهام معالجة الكلمات 
 weight: 10
-url: /ar/family
+
 description: قراءة كتابة وتصدير تنسيقات مستندات Microsoft Word من .NET Java C++ Android و SharePoint باستخدام المكتبة ذات الصلة. تصدير الملفات في SSRS و JasperReports
 ---
 

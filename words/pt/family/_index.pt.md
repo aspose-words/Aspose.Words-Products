@@ -1,7 +1,7 @@
 ---
 title: API .NET Core Java e C++ para automatizar tarefas de processamento de texto 
 weight: 10
-url: /pt/family
+
 description: Leia, escreva e exporte formatos de documentos do Microsoft Word de .NET Java C++ Android e SharePoint usando a biblioteca relevante. Exportar arquivos no SSRS e JasperReports
 ---
 

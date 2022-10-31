@@ -1,7 +1,7 @@
 ---
 title: Remove DOT Annotation via Java 
 weight: 1580
-url: /java/annotation/dot/ 
+
 description: Java source code to delete DOT format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

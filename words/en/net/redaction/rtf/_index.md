@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in RTF document via .NET 
 weight: 11430
-url: /net/redaction/rtf/ 
+
 description: C# sample code to redact sensitive information in Microsoft Word RTF file using server side .NET library.
 ---
 

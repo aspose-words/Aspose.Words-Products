@@ -1,7 +1,7 @@
 ---
 title: Search TXT document without opening via .NET 
 weight: 9470
-url: /net/search/txt/ 
+
 description: C# code to search words with pattern in Microsoft Word TXT file using server side .NET library.
 ---
 

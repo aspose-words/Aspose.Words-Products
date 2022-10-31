@@ -1,7 +1,7 @@
 ---
 title: eSign DOC Files via .NET 
 weight: 2670
-url: /net/signature/doc/ 
+
 description: C# code to e-Sgin Microsoft Word DOC documents using server side .NET library.
 ---
 

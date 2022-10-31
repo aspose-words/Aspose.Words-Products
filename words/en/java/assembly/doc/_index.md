@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOC Files via Java 
 weight: 3310
-url: /java/assembly/doc/ 
+
 description: Java source code to create Microsoft Word DOC format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

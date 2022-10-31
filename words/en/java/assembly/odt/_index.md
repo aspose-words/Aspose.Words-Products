@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in ODT Files via Java 
 weight: 2880
-url: /java/assembly/odt/ 
+
 description: Java source code to create Microsoft Word ODT format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

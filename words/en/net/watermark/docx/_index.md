@@ -1,7 +1,7 @@
 ---
 title: Watermark DOCX document via .NET 
 weight: 9940
-url: /net/watermark/docx/ 
+
 description: C# code to add or remove watermark to Microsoft Word DOCX file using server side .NET library.
 ---
 

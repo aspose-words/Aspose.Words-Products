@@ -1,7 +1,7 @@
 ---
 title: Windows, Linux और macOS पर Word दस्तावेज़ देखें 
 weight: 7730
-url: /hi/viewer
+
 description: DOC, DOCX, ODT दस्तावेज़ों को पृष्ठों के रूप में देखने के लिए मुफ़्त ऐप और API
 ---
 

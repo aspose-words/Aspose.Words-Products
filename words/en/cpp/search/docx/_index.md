@@ -1,7 +1,7 @@
 ---
 title: Search DOCX document without opening via C++ 
 weight: 10410
-url: /cpp/search/docx/ 
+
 description: C++ example code to search words with pattern in DOCX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

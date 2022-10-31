@@ -1,7 +1,7 @@
 ---
 title: View or Edit DOC Files Metadata via .NET 
 weight: 5290
-url: /net/metadata/doc/ 
+
 description: C# sample code to edit or view Microsoft Word DOC format metadata using server side .NET library.
 ---
 

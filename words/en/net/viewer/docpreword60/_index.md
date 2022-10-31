@@ -1,7 +1,7 @@
 ---
 title: View DOCPREWORD60 File Formats via .NET 
 weight: 110
-url: /net/viewer/docpreword60/ 
+
 description: Load, render and display Microsoft Word DOCPREWORD60 documents using server side .NET library.
 ---
 

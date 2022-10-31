@@ -1,7 +1,7 @@
 ---
 title: Watermark RTF document via .NET 
 weight: 550
-url: /net/watermark/rtf/ 
+
 description: C# code to add or remove watermark to Microsoft Word RTF file using server side .NET library.
 ---
 

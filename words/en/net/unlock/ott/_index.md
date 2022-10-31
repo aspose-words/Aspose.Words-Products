@@ -1,7 +1,7 @@
 ---
 title: Unlock OTT document via .NET 
 weight: 4360
-url: /net/unlock/ott/ 
+
 description: C# code to unlock password protected Microsoft Word OTT file using server side .NET library.
 ---
 

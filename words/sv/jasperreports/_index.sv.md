@@ -1,7 +1,7 @@
 ---
 title: Exportera rapporter i Word-filer i JasperReports & JasperServer 
 weight: 10660
-url: /sv/jasperreports/ 
+
 description: Exportera rapporter från Jasper Reports och JasperServer i Word DOC Office Open XML OOXML DOCX RTF ODT HTML MHTML och TXT-format
 ---
 

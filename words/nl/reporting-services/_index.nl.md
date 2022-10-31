@@ -1,7 +1,7 @@
 ---
 title: RDL-rapporten exporteren naar Word-indelingen in SQL Server - Aspose 
 weight: 3900
-url: /nl/reporting-services/ 
+
 description: Renderextensie voor SQL Server Reporting Services - Exporteer Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS en WordprocessingML documentformaten
 ---
 

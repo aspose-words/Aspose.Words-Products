@@ -1,7 +1,7 @@
 ---
 title: API Kata Java | Buat Manipulasi dan Render Dokumen Word 
 weight: 7990
-url: /id/java/ 
+
 description: Pustaka pemrosesan file Java Word untuk membuat edit, konversi DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG, dan banyak lagi format lainnya.
 ---
 

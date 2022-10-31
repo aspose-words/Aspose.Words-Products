@@ -1,7 +1,7 @@
 ---
 title: Unlock DOCX document via .NET 
 weight: 11170
-url: /net/unlock/docx/ 
+
 description: C# code to unlock password protected Microsoft Word DOCX file using server side .NET library.
 ---
 

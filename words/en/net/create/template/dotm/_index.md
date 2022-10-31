@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOTM documents from template via C# 
 weight: 7690
-url: /net/create/template/dotm/ 
+
 description: C# Sample code for creating template based DOTM documents. Use it for automated generation of Word DOTM files within VB.NET, Asp.NET or any .NET based application.
 ---
 

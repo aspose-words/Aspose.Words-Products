@@ -1,7 +1,7 @@
 ---
 title: Create DOTX Files via Java 
 weight: 7690
-url: /java/create/dotx/ 
+
 description: Java Sample code for generating DOTX documents. Use this code for creating Word DOTX files within Java based desktop or web application.
 ---
 

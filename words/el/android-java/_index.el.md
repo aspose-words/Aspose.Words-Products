@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Επεξεργασία εγγράφων σε εφαρμογές για κινητά 
 weight: 7480
-url: /el/android-java/ 
+
 description: Βιβλιοθήκη επεξεργασίας κειμένου για κινητές εφαρμογές. Δημιουργία Read Edit and Convert DOC DOCX RTF ODT EPUB XML PDF HTML WordML and TXT
 ---
 

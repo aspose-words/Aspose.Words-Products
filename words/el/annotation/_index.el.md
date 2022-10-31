@@ -1,7 +1,7 @@
 ---
 title: Καταργήστε τα σχόλια από τα έγγραφα του Word σε Windows, Linux και macOS 
 weight: 7730
-url: /el/annotation
+
 description: Δωρεάν εφαρμογή και API για τη διαχείριση των σχολιασμών των αρχείων DOC, DOCX, DOCM, DOTM, RTF, DOT και ODT
 ---
 

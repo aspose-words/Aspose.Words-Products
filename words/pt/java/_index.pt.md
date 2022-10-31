@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Criar Manipular e Renderizar Documentos do Word 
 weight: 7990
-url: /pt/java/ 
+
 description: Biblioteca de processamento de arquivos Java Word para criar editar converter DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG e muitos outros formatos.
 ---
 

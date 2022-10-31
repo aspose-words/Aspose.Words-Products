@@ -1,7 +1,7 @@
 ---
 title: 基於本地、雲和應用程序的 Microsoft Word 文件格式解決方案 
 weight: 9630
-url: /zh-TW/
+
 description: 使用 On Premise 或 Cloud API 創建 Word 文檔操作應用程序，或簡單地使用跨平台應用程序查看比較檢查或轉換 Word 文件
 ---
 

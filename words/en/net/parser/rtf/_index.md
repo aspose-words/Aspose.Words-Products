@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from RTF document via .NET 
 weight: 9410
-url: /net/parser/rtf/ 
+
 description: C# sample code to extract text and images from Microsoft Word RTF file using server side .NET library.
 ---
 

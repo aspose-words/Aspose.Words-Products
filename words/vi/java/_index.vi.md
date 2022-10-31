@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Tạo thao tác và kết xuất tài liệu Word 
 weight: 7990
-url: /vi/java/ 
+
 description: Thư viện xử lý tệp Java Word để tạo chỉnh sửa chuyển đổi DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG và nhiều định dạng khác.
 ---
 

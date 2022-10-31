@@ -1,7 +1,7 @@
 ---
 title: C++ Word-API | Parsing en conversie van documenten 
 weight: 8250
-url: /nl/cpp/ 
+
 description: C++ Word-documentverwerkingsbibliotheek voor het genereren, bewerken, converteren en weergeven van een document met behulp van C++. Dynamisch lezen, schrijven en ontleden van Word-formaten zoals DOC, DOCX of andere formaten zoals PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

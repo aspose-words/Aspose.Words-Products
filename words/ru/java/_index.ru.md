@@ -1,7 +1,7 @@
 ---
 title: API-интерфейс Java для Word | Создание документов Word для обработки и рендеринга 
 weight: 7990
-url: /ru/java/ 
+
 description: Библиотека обработки файлов Java Word для создания редактирования, преобразования DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG и многих других форматов.
 ---
 

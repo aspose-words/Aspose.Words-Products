@@ -1,7 +1,7 @@
 ---
 title: e-Sign DOTX Files via Java 
 weight: 7630
-url: /java/signature/dotx/ 
+
 description: Java source code to electronically sign Microsoft Word DOTX files on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from XHTML document via Java 
 weight: 6650
-url: /java/parser/xhtml/ 
+
 description: Java source code to extract text and images from XHTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

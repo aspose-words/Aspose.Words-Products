@@ -1,7 +1,7 @@
 ---
 title: C# .NET Word 文档处理 API - Aspose 
 weight: 2200
-url: /zh/net/ 
+
 description: 用于处理 Word 文件的 C# ASP.NET VB.NET 库。创建编辑转换 DOC、DOCX、PDF、RTF、ODT、TXT、MOBI、HTML、JPG、PNG 和更多格式。
 ---
 

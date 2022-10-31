@@ -1,7 +1,7 @@
 ---
 title: Remove DOCX Annotation via Java 
 weight: 3100
-url: /java/annotation/docx/ 
+
 description: Java source code to delete DOCX format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

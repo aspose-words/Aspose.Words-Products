@@ -1,7 +1,7 @@
 ---
 title: Create DOC Files via Java 
 weight: 7690
-url: /java/create/doc/ 
+
 description: Java Sample code for generating DOC documents. Use this code for creating Word DOC files within Java based desktop or web application.
 ---
 

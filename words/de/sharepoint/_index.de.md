@@ -1,7 +1,7 @@
 ---
 title: SharePoint Word-Dateikonverter-App - Aspose 
 weight: 1050
-url: /de/sharepoint/ 
+
 description: SharePoint Word-Dateikonverter-API für MOSS und WSS. Dokumentbibliothek exportiert DOC DOCX PDF XML EPUB RTF XPS ODT-Dokumente innerhalb von Windows und MS Office SharePoint Server
 ---
 

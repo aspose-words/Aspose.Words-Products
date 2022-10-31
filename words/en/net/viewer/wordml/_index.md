@@ -1,7 +1,7 @@
 ---
 title: View WORDML File Formats via .NET 
 weight: 180
-url: /net/viewer/wordml/ 
+
 description: Load, render and display Microsoft Word WORDML documents using server side .NET library.
 ---
 

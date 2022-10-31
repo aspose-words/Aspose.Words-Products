@@ -1,7 +1,7 @@
 ---
 title: C++ Word API | Dokumentskapande Parsning och konvertering 
 weight: 8250
-url: /sv/cpp/ 
+
 description: C++ Word-dokumentbehandlingsbibliotek för att generera, redigera, konvertera och rendera ett dokument med C++. Läs, skriv och analysera dynamiskt Word-format som DOC, DOCX eller andra format som PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

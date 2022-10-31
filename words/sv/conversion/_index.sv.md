@@ -1,7 +1,7 @@
 ---
 title: Konvertera Word-dokument på Windows, Linux och macOS 
 weight: 7730
-url: /sv/conversion
+
 description: Högkodsbibliotek för .NET, Java och C++ för bearbetning och konvertering av Word-dokument.
 ---
 

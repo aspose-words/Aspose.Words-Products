@@ -1,7 +1,7 @@
 ---
 title: Search RTF document without opening via .NET 
 weight: 4610
-url: /net/search/rtf/ 
+
 description: C# code to search words with pattern in Microsoft Word RTF file using server side .NET library.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock DOT document via Java 
 weight: 5600
-url: /java/unlock/dot/ 
+
 description: Java source code to unlock password protected Microsoft Word DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: API Word C++ | Création de documents Analyse et conversion 
 weight: 8250
-url: /fr/cpp/ 
+
 description: Bibliothèque de traitement de documents C++ Word pour générer, éditer, convertir et restituer un document à l'aide de C++. Lisez, écrivez et analysez dynamiquement des formats Word tels que DOC, DOCX ou d'autres formats tels que PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

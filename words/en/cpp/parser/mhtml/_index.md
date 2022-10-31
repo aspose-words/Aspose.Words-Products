@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from MHTML document via C++ 
 weight: 5110
-url: /cpp/parser/mhtml/ 
+
 description: C++ example code to extract text and images from MHTML file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

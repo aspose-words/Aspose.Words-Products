@@ -1,7 +1,7 @@
 ---
 title: Aplikace SharePoint Word Files Converter – Aspose 
 weight: 1050
-url: /cs/sharepoint/ 
+
 description: SharePoint Word Files Converter API pro MOSS & WSS. Knihovna dokumentů exportuje DOC DOCX PDF XML EPUB RTF XPS ODT dokumenty v rámci Windows a MS Office SharePoint Server
 ---
 

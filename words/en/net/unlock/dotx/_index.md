@@ -1,7 +1,7 @@
 ---
 title: Unlock DOTX document via .NET 
 weight: 3930
-url: /net/unlock/dotx/ 
+
 description: C# code to unlock password protected Microsoft Word DOTX file using server side .NET library.
 ---
 

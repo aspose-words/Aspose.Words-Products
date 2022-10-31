@@ -1,7 +1,7 @@
 ---
 title: Protect and lock OTT document via Java 
 weight: 6110
-url: /java/protect/ott/ 
+
 description: Java source code to lock Microsoft Word OTT file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

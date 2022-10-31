@@ -1,7 +1,7 @@
 ---
 title: Generate Word RTF documents from template via C# 
 weight: 7690
-url: /net/create/template/rtf/ 
+
 description: C# Sample code for creating template based RTF documents. Use it for automated generation of Word RTF files within VB.NET, Asp.NET or any .NET based application.
 ---
 

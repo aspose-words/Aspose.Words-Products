@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOT document via .NET 
 weight: 4630
-url: /net/redaction/dot/ 
+
 description: C# sample code to redact sensitive information in Microsoft Word DOT file using server side .NET library.
 ---
 

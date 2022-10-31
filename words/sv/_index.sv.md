@@ -1,7 +1,7 @@
 ---
 title: On Premise, Cloud & App Based Microsoft Word filformatlösning 
 weight: 9630
-url: /sv/
+
 description: Skapa Word-dokumentmanipuleringsapplikationer med On Premise eller Cloud API:er eller använd helt enkelt plattformsoberoende appar för att se jämföra inspektera eller konvertera Word-filer
 ---
 

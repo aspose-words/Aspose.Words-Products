@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOTX documents from template via C# 
 weight: 7690
-url: /net/create/template/dotx/ 
+
 description: C# Sample code for creating template based DOTX documents. Use it for automated generation of Word DOTX files within VB.NET, Asp.NET or any .NET based application.
 ---
 

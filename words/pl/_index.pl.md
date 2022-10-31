@@ -1,7 +1,7 @@
 ---
 title: Rozwiązanie do obsługi formatu plików Microsoft Word na miejscu, w chmurze i aplikacji 
 weight: 9630
-url: /pl/
+
 description: Twórz aplikacje do manipulacji dokumentami Word za pomocą interfejsów API On Premise lub Cloud lub po prostu używaj aplikacji wieloplatformowych, aby przeglądać, porównywać, sprawdzać lub konwertować pliki Word
 ---
 

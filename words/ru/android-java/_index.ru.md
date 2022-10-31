@@ -1,7 +1,7 @@
 ---
 title: Android Word API | Обработка документов в мобильных приложениях 
 weight: 7480
-url: /ru/android-java/ 
+
 description: Библиотека обработки текстов для мобильных приложений. Создать Читать Редактировать и конвертировать DOC DOCX RTF ODT EPUB XML PDF HTML Форматы WordML и TXT
 ---
 

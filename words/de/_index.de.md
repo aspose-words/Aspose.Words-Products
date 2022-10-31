@@ -1,7 +1,7 @@
 ---
 title: Lokale, Cloud- und App-basierte Microsoft Word-Dateiformatlösung 
 weight: 9630
-url: /de/
+
 description: Erstellen Sie Anwendungen zur Bearbeitung von Word-Dokumenten mithilfe von On-Premise- oder Cloud-APIs oder verwenden Sie einfach plattformübergreifende Apps, um Word-Dateien anzuzeigen, zu vergleichen, zu prüfen oder zu konvertieren
 ---
 

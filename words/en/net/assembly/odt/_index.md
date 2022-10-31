@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in ODT Files via .NET 
 weight: 5180
-url: /net/assembly/odt/ 
+
 description: C# sample code to generate ODT format reports on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

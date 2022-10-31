@@ -1,7 +1,7 @@
 ---
 title: Java Word API | إنشاء مستندات Word ومعالجتها وعرضها 
 weight: 7990
-url: /ar/java/ 
+
 description: مكتبة معالجة ملفات Java Word لإنشاء تحرير وتحويل DOC و DOCX و PDF و RTF و ODT و TXT و MOBI و HTML و JPG و PNG والعديد من التنسيقات الأخرى.
 ---
 

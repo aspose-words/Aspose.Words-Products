@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOC document via C++ 
 weight: 6330
-url: /cpp/protect/doc/ 
+
 description: C++ example code to lock DOC file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

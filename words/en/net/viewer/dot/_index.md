@@ -1,7 +1,7 @@
 ---
 title: View DOT File Formats via .NET 
 weight: 11300
-url: /net/viewer/dot/ 
+
 description: Load, render and display Microsoft Word DOT documents using server side .NET library.
 ---
 

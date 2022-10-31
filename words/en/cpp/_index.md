@@ -1,7 +1,7 @@
 ---
 title: C++ Word API | Document Creation Parsing and Conversion 
 weight: 8250
-url: /cpp/ 
+
 description: C++ Word document processing library to generate, edit, convert and render a document using C++. Dynamically read, write and parse Word formats like DOC, DOCX, or other formats like PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from DOT document via Java 
 weight: 5840
-url: /java/parser/dot/ 
+
 description: Java source code to extract text and images from Microsoft Word DOT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

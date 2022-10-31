@@ -1,7 +1,7 @@
 ---
 title: Zeigen Sie Word-Dokumente unter Windows, Linux und macOS an 
 weight: 7730
-url: /de/viewer
+
 description: Kostenlose App und APIs zum Anzeigen von DOC-, DOCX- und ODT-Dokumenten als Seiten
 ---
 

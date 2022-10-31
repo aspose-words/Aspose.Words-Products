@@ -1,7 +1,7 @@
 ---
 title: Helyszíni, felhő- és alkalmazásalapú Microsoft Word fájlformátum-megoldás 
 weight: 9630
-url: /hu/
+
 description: Hozzon létre Word-dokumentumkezelő alkalmazásokat On Premise vagy Cloud API-k használatával, vagy egyszerűen használjon többplatformos alkalmazásokat a Word-fájlok összehasonlításához vagy konvertálásához.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Generate Word DOC documents from template via Java 
 weight: 7690
-url: /java/create/template/doc/ 
+
 description: Java Sample code for creating template based DOC documents. Use it for automated generation of Word DOC files within Java based desktop or web application.
 ---
 

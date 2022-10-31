@@ -1,7 +1,7 @@
 ---
 title: C＃.NETWordドキュメント処理API-Aspose 
 weight: 2200
-url: /ja/net/ 
+
 description: Wordファイルを操作するためのC＃ASP.NETVB.NETライブラリ。編集変換DOC、DOCX、PDF、RTF、ODT、TXT、MOBI、HTML、JPG、PNGおよびその他の多くの形式を作成します。
 ---
 

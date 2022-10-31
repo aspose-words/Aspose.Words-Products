@@ -1,7 +1,7 @@
 ---
 title: Unlock ODT document via .NET 
 weight: 2030
-url: /net/unlock/odt/ 
+
 description: C# code to unlock password protected Microsoft Word ODT file using server side .NET library.
 ---
 

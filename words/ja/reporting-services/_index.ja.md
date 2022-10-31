@@ -1,7 +1,7 @@
 ---
 title: SQLServerでRDLレポートをWord形式にエクスポート-Aspose 
 weight: 3900
-url: /ja/reporting-services/ 
+
 description: SQL ServerReportingServicesレンダリング拡張機能-WordDOCDOCX PDF RTF HTML MHTML ODTTXTXPSおよびWordprocessingMLドキュメント形式のエクスポート
 ---
 

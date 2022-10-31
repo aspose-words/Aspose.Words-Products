@@ -1,7 +1,7 @@
 ---
 title: Interfejs API przetwarzania dokumentów C# .NET Word — Aspose 
 weight: 2200
-url: /pl/net/ 
+
 description: Biblioteka C# ASP.NET VB.NET do pracy z plikami Word. Twórz edytuj konwertuj DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG i wiele innych formatów.
 ---
 

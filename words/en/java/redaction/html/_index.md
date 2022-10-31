@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in HTML document via Java 
 weight: 9600
-url: /java/redaction/html/ 
+
 description: Java source code to redact sensitive information in HTML file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

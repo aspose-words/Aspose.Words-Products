@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in DOT Files via Java 
 weight: 8820
-url: /java/assembly/dot/ 
+
 description: Java source code to create Microsoft Word DOT format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from RTF document via Java 
 weight: 1230
-url: /java/parser/rtf/ 
+
 description: Java source code to extract text and images from Microsoft Word RTF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

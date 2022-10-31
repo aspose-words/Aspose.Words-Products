@@ -1,7 +1,7 @@
 ---
 title: API xử lý tài liệu từ Python - Aspose 
 weight: 2200
-url: /vi/python-net/
+
 description: Thư viện Python để làm việc với các tệp Microsoft Word. Tạo chỉnh sửa chuyển đổi DOCX DOC RTF PDF EPUB WordML ODT HTML Text và nhiều định dạng khác.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Android Word API |在移动应用程序中处理文档 
 weight: 7480
-url: /zh/android-java/ 
+
 description: 用于移动应用程序的文字处理库。创建 阅读 编辑和转换 DOC DOCX RTF ODT EPUB XML PDF HTML WordML 和 TXT 格式
 ---
 

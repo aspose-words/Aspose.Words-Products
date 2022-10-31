@@ -1,7 +1,7 @@
 ---
 title: Edit or View DOTX Files Metadata via Java 
 weight: 3260
-url: /java/metadata/dotx/ 
+
 description: Java source code to edit or view Microsoft Word DOTX format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

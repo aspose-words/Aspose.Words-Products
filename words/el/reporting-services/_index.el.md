@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή αναφορών RDL σε μορφές Word στον SQL Server - Aspose 
 weight: 3900
-url: /el/reporting-services/ 
+
 description: Επέκταση απόδοσης υπηρεσιών αναφοράς SQL Server - Εξαγωγή Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS και WordprocessingML μορφές εγγράφων
 ---
 

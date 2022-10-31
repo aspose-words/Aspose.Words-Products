@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in DOTX document via Java 
 weight: 5950
-url: /java/redaction/dotx/ 
+
 description: Java source code to redact sensitive information in Microsoft Word DOTX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

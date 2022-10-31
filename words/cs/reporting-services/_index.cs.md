@@ -1,7 +1,7 @@
 ---
 title: Export sestav RDL do formátů Word v SQL Server - Aspose 
 weight: 3900
-url: /cs/reporting-services/ 
+
 description: Rozšíření vykreslování SQL Server Reporting Services - Export dokumentů Word DOC DOCX PDF RTF HTML MHTML ODT TXT XPS a WordprocessingML
 ---
 

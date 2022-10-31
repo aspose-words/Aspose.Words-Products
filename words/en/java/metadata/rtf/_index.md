@@ -1,7 +1,7 @@
 ---
 title: Edit or View RTF Files Metadata via Java 
 weight: 3700
-url: /java/metadata/rtf/ 
+
 description: Java source code to edit or view Microsoft Word RTF format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

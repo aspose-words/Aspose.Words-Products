@@ -1,7 +1,7 @@
 ---
 title: C# .NET Word Belge İşleme API'si - Aspose 
 weight: 2200
-url: /tr/net/ 
+
 description: Word dosyalarıyla çalışmak için C# ASP.NET VB.NET kitaplığı. Oluştur düzenleme dönüştürme DOC, DOCX, PDF, RTF, ODT, TXT, MOBI, HTML, JPG, PNG ve daha birçok format.
 ---
 

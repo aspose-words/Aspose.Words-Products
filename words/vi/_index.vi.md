@@ -1,7 +1,7 @@
 ---
 title: Giải pháp Định dạng Tệp Microsoft Word dựa trên Premise, Cloud & App dựa trên 
 weight: 9630
-url: /vi/
+
 description: Tạo ứng dụng thao tác tài liệu Word bằng API On Premise hoặc Cloud hoặc đơn giản là sử dụng các ứng dụng đa nền tảng để xem so sánh kiểm tra hoặc chuyển đổi tệp Word
 ---
 

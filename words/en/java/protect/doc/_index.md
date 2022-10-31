@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOC document via Java 
 weight: 9440
-url: /java/protect/doc/ 
+
 description: Java source code to lock Microsoft Word DOC file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

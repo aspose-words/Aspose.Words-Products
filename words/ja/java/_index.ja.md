@@ -1,7 +1,7 @@
 ---
 title: Java Word API | Word文書の操作とレンダリングを作成する 
 weight: 7990
-url: /ja/java/ 
+
 description: 編集変換DOC、DOCX、PDF、RTF、ODT、TXT、MOBI、HTML、JPG、PNGおよびその他の多くの形式を作成するためのJavaWordファイル処理ライブラリ。
 ---
 

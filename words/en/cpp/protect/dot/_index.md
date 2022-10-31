@@ -1,7 +1,7 @@
 ---
 title: Protect and lock DOT document via C++ 
 weight: 180
-url: /cpp/protect/dot/ 
+
 description: C++ example code to lock DOT file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
