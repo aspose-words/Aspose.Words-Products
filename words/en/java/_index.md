@@ -282,12 +282,11 @@ Aspose.Words API supports all popular loading and saving formats. You can save o
    <h2 class="pr-ft">
     Advanced Java Words API Features
    </h2>
-   
+
    <p>
    You can try some of the popular Aspose.Words features on the online application pages:
    </p>
    <div style="height:40px"></div>
-
   <style>
   .app-styles .col-lg-4 .imgblock img {
   width: 50px;
@@ -838,7 +837,7 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/java" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/words/java/" pricingInformationLink="https://releases.aspose.com/words/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
