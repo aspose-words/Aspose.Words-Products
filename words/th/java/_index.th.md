@@ -10,7 +10,7 @@ description: ไลบรารีประมวลผลไฟล์ Java Word
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://releases.aspose.com/words/java/" directDownloadLink="https://releases.aspose.com/words/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -282,12 +282,11 @@ Aspose.Words API รองรับรูปแบบการโหลดแล
    <h2 class="pr-ft">
     คุณสมบัติ Java Words API ขั้นสูง
    </h2>
-   
+
    <p>
    คุณสามารถลองใช้คุณลักษณะ Aspose.Words ที่เป็นที่นิยมได้ในหน้าแอปพลิเคชันออนไลน์:
    </p>
    <div style="height:40px"></div>
-
   <style>
   .app-styles .col-lg-4 .imgblock img {
   width: 50px;
@@ -838,7 +837,7 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/java" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/words/java/" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words นำเสนอ API การประมวลผล Word แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
 

@@ -10,7 +10,7 @@ description: Java Word 文件處理庫，用於創建編輯轉換 DOC、DOCX、P
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://releases.aspose.com/words/java/" directDownloadLink="https://releases.aspose.com/words/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -282,12 +282,11 @@ Aspose.Words API 支持所有流行的加載和保存格式。 您可以將 Word
    <h2 class="pr-ft">
     高級 Java Words API 功能
    </h2>
-   
+
    <p>
    您可以在在線申請頁面上嘗試一些流行的 Aspose.Words 功能：
    </p>
    <div style="height:40px"></div>
-
   <style>
   .app-styles .col-lg-4 .imgblock img {
   width: 50px;
@@ -838,7 +837,7 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/words/java" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/words/java/" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words 為其他流行的開發環境提供單獨的文字處理 API，如下所列：" >}}
 
