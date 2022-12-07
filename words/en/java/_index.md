@@ -10,7 +10,7 @@ description: Java Word files processing library to create edit convert DOC, DOCX
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" directDownloadLink="https://downloads.aspose.com/words/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.com/pricing/words/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/words/java/" installationsDocsLink="https://docs.aspose.com/words/java/installation" nugetLink="" nugetPackageName="Microsoft Word:" mavenRepoLink="https://releases.aspose.com/words/java/" directDownloadLink="https://releases.aspose.com/words/java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -837,7 +837,7 @@ dstDoc.save(dir + "output.docx");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/words/java/" pricingInformationLink="https://releases.aspose.com/words/java/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/words/java/" pricingInformationLink="https://purchase.aspose.com/pricing/words/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" description="Aspose.Words offers individual Word processing APIs for other popular development environments as listed below:" >}}
 
